@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+<html style="height: 100%;">
+   <head>
+       <meta charset="utf-8">
+       <title>上市公司市值排行榜-关于</title>
+       <meta name="google-site-verification" content="9hqB8FQbiTlIrkzcoBM8BC5X4ZQ2FEE1am7bTFSrnEk" />
+       <!-- load css-->
+       <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/css/bootstrap.min.css" rel="stylesheet">  
+       <link href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css" rel="stylesheet">
+       <link href="{{ url_for('static',filename='css/ech_all.css') }}" rel="stylesheet">
+       <link href="{{ url_for('static',filename='css/style.css') }}" rel="stylesheet">
+   </head>
+   <body>
+	 <!-- include up_to_top -->
+     {% include 'up_to_top.html' %}
+    <!-- include banner -->
+    {% include '_banner.html' %}
+
+    <!-- table about content -->
+    <div style="height: 100%;padding-top :60px;padding-left:10%;padding-right:10%">
+        <h3 style="text-align: center;"> 关于 上市公司市值排行榜 </h3>
+        <hr/>
+        </br>
+        </br>
+        <li>本网站后台由 Python <a  style="color:#D53A35;" href="https://palletsprojects.com/p/flask/" target="_blank">Flask</a> 支持，如果显示或功能异常，请尝试切换至<a style="color:#D53A35;" href="https://v3.stockhey.com/" target="_blank">Koa MVC Version</a></li> 
+        </br>
+	<li>也可访问<a  style="color:#D53A35;" href="https://www.stockhey.com" target="_blank">Vue MVVM Version</a> 或 <a style="color:#D53A35;" href="https://v1.stockhey.com" target="_blank">React MVVM Version</a></li>
+	</br>
+        <li>本网站数据来自互联网，且并未包含所有上市股票，仅供参考，不承担任何因数据有效性和正确性所造成损失的责任。</li>
+        </br>
+        <li>鉴于在多地同时上市的公司市值计算比较模糊，目前仅仅将其所有市场市值列出。待以后修改完善。</li>
+        </br>
+        <li>还有部分功能正在实现，欢迎支持</li>
+        </br>
+        <li>何建议和疑问，欢迎联系:<a style="color:#D53A35;" href="mailto:whsasfdefy@gmail.com" target="_blank">@whsasf</a></li>
+
+    </div>
+    <!-- include banner -->
+    {% include 'footer.html' %}
+    
+    <!-- import javascript-->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="{{ url_for('static',filename='js/myabout.js') }}"></script>
+    </body>  
+</html>

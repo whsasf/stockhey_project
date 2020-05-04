@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="apple-touch-fullscreen" content="YES">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <title>上市公司市值排行榜</title>
+    <link rel="icon" type="image/x-icon" href="{{ url_for('static', filename='img/favicon.ico') }}">
+    <link href="https://cdn.bootcss.com/twitter-bootstrap/3.4.1/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.min.css" rel="stylesheet">
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts/dist/echarts.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts-gl/dist/echarts-gl.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts-stat/dist/ecStat.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts/dist/extension/dataTool.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts/map/js/china.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts/map/js/world.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts/dist/extension/bmap.min.js"></script>
+
+    <style>
+        a.tab {width:300px;text-align:center;}
+        p.red {color:red};
+    </style>
+
+</head>
+<body style="background: #04A466;">
+
+<div class="container">
+        <div> 
+            <div>
+            <h2 style="text-align:center">中国上市公司市值排名</h2>
+            </div>
+            <h6 style="text-align:center;color:green">powered by <a href="mailto:whsasf@126.com">@whsasf</a></h6>
+            
+        </div>
+   
+        <div id="tabs" >
+            <ul>
+                <li id="tab1" style="font-weight:bold"><a class ="tab" href="#tabs-1">图说真相</a></li>
+                <li id="tab2" style="font-weight:bold"><a class ="tab" href="#tabs-2">数据大排行</a></li>
+                <li id="tab3" style="font-weight:bold"><a class ="tab" href="#tabs-3">谈天说地</a></li>
+            </ul>
+        <div id="tabs-1"> 
+            <div id="container" style="height: 550%;"></div>
+
+            <script type="text/javascript">
+            var dom = document.getElementById("container");
+            var myChart = echarts.init(dom);
+            var app = {};
+            option = null;
+            var dataMap = {};
+            var CopList_dict =  {{ CopList_dict|tojson }}
+            var date_range = {{ real_date_range|tojson }};
+            var real_data = {{ all_data|tojson }};
+            dataMap.dataValue = real_data;
+            sorted_data = {{ all_data_top3|tojson }}
+
+            option = {
+                baseOption: {
+                    timeline: {
+                        // y: 0,
+                        axisType: 'category',
+                        // realtime: false,
+                        // loop: false,
+                        autoPlay: true,
+                        // currentIndex: 2,
+                        playInterval: 2000,
+                        left:"5%",
+                        right:"8%",
+                        //controlStyle: {
+                        //     position: 'bottom'
+                        // },
+                        data: date_range,
+                        label: {
+                            formatter : function(s) {
+                                return (s);//(new Date(s)).getFullYear();
+                            }
+                        }
+                    },
+                    title: {
+                        subtext: '数据来自互联网',
+                        left: '1%',
+                    },
+                    tooltip: {
+                        
+                    },
+                    toolbox: {
+                        show: true,
+                        orient: "vertical",
+                        right: "2%",
+                        top: "25%",
+                        feature: {
+                            dataView: {readOnly: false},
+                            magicType: {type: ['bar','line']},
+                            restore: {},
+                            saveAsImage: {}
+                        }
+                    },
+                    legend: {
+                        x: '80%',
+                        data: ['市值'],
+                        selected: {
+                            '市值': true
+                        }
+                    },
+                    calculable : true,
+                    grid: {
+                        top: 80,
+                        bottom: 150,
+                        left: "5.5%",
+                        
+                        tooltip: {
+                            trigger: 'axis',
+                            axisPointer: {
+                                type: 'shadow',
+                                label: {
+                                    show: true,
+                                    formatter: function (params) {
+                                        return params.value;//.replace('\n', '');
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    xAxis: [
+                        {
+                            //'type':'category',
+                            //'axisLabel':{'interval':0,'rotate':-60},
+                            //'data':CopList_dict['2019-11-23'],
+                            //splitLine: {show: false}
+                        }
+                    ],
+                    yAxis: [
+                        {
+                            type: 'value',
+                            name: '市值（亿元/人民币）'
+                        }
+                    ],
+                    series: [
+                        {
+                            name: '市值', 
+                            type: 'bar',
+                            markLine: {
+                                silent: false,
+                                itemStyle: {
+                                    normal: { 
+                                        lineStyle: {
+                                            type: 'dotted',//'solid',
+                                            // 这儿设置的颜色是公共配置，如需单独配置，请在data里配置
+                                            color: '#293B55',
+                                        }, 
+                                        label: { 
+                                            show: true,
+                                            position: 'end'
+
+                                        }
+                                    },
+                                },
+                                data: [{
+                                    yAxis: 5000,
+                                }, {
+                                    yAxis: 15000,
+                                }, {
+                                    yAxis: 30000,
+                                }]
+                        }
+                        }
+                    ]
+                },
+                options: [
+                    {% for date in real_date_range %}
+                    {
+                        title: {text: '{{ date }}中国上市公司市值50强'},
+
+                        series: [
+                            {
+                            data: dataMap.dataValue['{{ date }}'],
+                            markPoint: {
+
+                                //symbolSize: 80,
+                                itemStyle:{
+                                      color: '#293B55',
+                                    },
+                                data: [
+                                    //{type: 'max', name: '最大值'},
+                                    {symbolSize: 80,name: 'NO.1', value: sorted_data['{{ date}}'][0]['name']+'\n*我是老大*', xAxis: sorted_data['{{ date}}'][0]['name'], yAxis:sorted_data['{{ date}}'][0]['value']},
+                                    {symbolSize: 70,name: 'NO.2', value: sorted_data['{{ date}}'][1]['name']+'\n*望穿秋水*', xAxis: sorted_data['{{ date}}'][1]['name'], yAxis:sorted_data['{{ date}}'][1]['value']},
+                                    {symbolSize: 60,name: 'NO.3', value: sorted_data['{{ date}}'][2]['name']+'\n*保三争二*', xAxis: sorted_data['{{ date}}'][2]['name'], yAxis:sorted_data['{{ date}}'][2]['value']},
+                                ]
+                            },
+                            },
+                            
+                        ],
+
+                        xAxis: [
+                        {
+                            'type':'category',
+                            'axisLabel':{'interval':0,'rotate':-50},
+                            'data':CopList_dict['{{ date }}'],
+                            splitLine: {show: false}
+                        }
+                    ],
+
+                    },
+                    {% endfor %}
+                    
+                ]
+            };
+            if (option && typeof option === "object") {
+                myChart.setOption(option, true);
+            }
+            </script>
+        </br>
+        </br>
+        </br>
+        </div>
+
+        <div id="tabs-2">
+        
+        <marquee class="col-md-3 col-md-offset-9 red" behavior=scroll scrollamount=9 direction=left><p style="color: red;">└(^o^)┘ 每天早晚各更新一次，最近更新:{{ latest_update_time}}|上市地区简写对照 US:美国,HK:香港,CN:中国大陆 Y(^_^)Y</p></marquee>
+        <table class="table table-bordered  table-condensed table-hover">
+        <thead class="thead-dark">
+        <tr>
+            <th class="col-md-1">排名</th>
+            <th class="col-md-1">代码</th>
+            <th class="col-md-2">公司名称</th>
+            <th class="col-md-1">市值(亿/人民币)</th>
+            <th class="col-md-1">上市地区</th>
+        </tr>
+        </thead>
+        <tbody id="tbody">
+        
+        {% for item in items %}
+        <tr>
+        <td >{{ loop.index }}</td>
+        <td> {{ item["stock_id"] }}</td>
+        <td> {{ item["stock_name"] }}</td>
+        <td> {{ item["stock_value"] }}</td>
+        <td> {{ item["stock_area"] }}</td>
+        </tr>
+        {% endfor %}
+        </tbody>
+        </table>
+
+        <div class="text-center">
+            <ul  class="pagination"  id="element_add" style="cursor:hand;"></ul>   
+        </div>
+    </div>
+    
+    <div id="tabs-3">
+    <marquee class="col-md-12  red" behavior=scroll scrollamount=9 direction=left>更多功能,敬请期待</marquee>
+    </div>
+    </div>
+    </div>
+
+    <!--scripts here-->
+    <script type="text/javascript" src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="https://cdn.bootcss.com/twitter-bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="../static/js/bootstrap-paginator.js"></script>
+    <script type="text/javascript">
+
+        $(function() {
+          $( "#tabs" ).tabs({ active: 0 });
+        });
+
+        $(function(){
+            var element = $('#element_add');//获得数据装配的位置
+            //初始化所需数据
+            var options = {
+                bootstrapMajorVersion:3,//版本号。3代表的是第三版本
+                currentPage: 1, //当前页数
+                numberOfPages: 10, //显示页码数标个数
+                totalPages:{{ total_page }}, //总共的数据所需要的总页数
+                itemTexts: function (type, page, current) {  
+                        //图标的更改显示可以在这里修改。
+                switch (type) {  
+                        case "first":  
+                            return "<<";  
+                        case "prev":  
+                            return "<";  
+                        case "next":  
+                            return ">";  
+                        case "last":  
+                            return ">>";  
+                        case "page":  
+                            return  page;  
+                    }                 
+                }, 
+                tooltipTitles: function (type, page, current) {
+                    //如果想要去掉页码数字上面的预览功能，则在此操作。例如：可以直接return。
+                    switch (type) {
+                        case "first":
+                            return "Go to first page";
+                        case "prev":
+                            return "Go to previous page";
+                        case "next":
+                            return "Go to next page";
+                        case "last":
+                            return "Go to last page";
+                        case "page":
+                            return (page === current) ? "Current page is " + page : "Go to page " + page;
+                    }
+                },
+                onPageClicked: function (e, originalEvent, type, page) {  
+                    //单击当前页码触发的事件。若需要与后台发生交互事件可在此通过ajax操作。page为目标页数。
+                    //console.log(e);
+                    //console.log(originalEvent);
+                    //console.log(type);
+                    //console.log(page)
+                    $.ajax({
+                        url: "http://localhost:8080/rank?page="+page,
+                        type: "GET",
+                        success: function(data) {
+                            data_list = eval(data)
+                            //console.log(data_list[0])
+                            //清空之前的表格数据
+                            $("#tbody").empty("");
+                            tdata = '';
+                            for (let i = 0; i < data_list.length; i++) {
+                                index = parseInt(i)+1+(page-1)*20
+                                tdata = tdata + '<tr><td>'+ index+ '</td><td>' + data_list[i][0]+ '</td><td>' + data_list[i][1] + '</td><td>' + data_list[i][2]+ '</td><td>' + data_list[i][3] +'</td></tr>'
+                            };
+                            $("#tbody").append(tdata);
+                        },
+                        error:function(e) {
+                            console.log(e);
+                            //$("#save_goods_category_tips").html('保存商品目录失败!!').delay(3000).hide(0);
+                        }
+                        });
+                }
+            };
+            element.bootstrapPaginator(options);	//进行初始化
+        });
+    
+    </script>
+</body>
+</html>

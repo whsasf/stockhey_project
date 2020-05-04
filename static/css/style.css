@@ -1,0 +1,13 @@
+table #id {
+    min-height: 650px
+}
+svg path,svg rect{fill: #D53A35;}
+footer a{ color: #c9c8ce;}
+.bootstrap-table .fixed-table-container .table thead th .both {background: #D53A35;}
+.bootstrap-table .fixed-table-container .table thead th .both {color: rgba(255,255,255,0.9);}
+.pagination>li>a {background: #AAAAAA !important;}
+.pagination>.active>a  {background-color: #D53A35 !important ; border-color: #D53A35 !important;}
+.pagination>li>a {color: rgba(255,255,255,0.9) !important;}
+.pagination>.disabled>a {color: #777 !important;}
+.pagination>.disabled>a {color: #777 !important;}
+.dropdown-menu>.active>a {background-color: #D53A35 !important}

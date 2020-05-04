@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html style="height:100%">
+   <head>
+       <meta charset="utf-8">
+       <title>上市公司市值排行榜-美股市值200强</title>
+       <meta name="google-site-verification" content="9hqB8FQbiTlIrkzcoBM8BC5X4ZQ2FEE1am7bTFSrnEk" />
+       <!-- load css-->
+       
+       <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/css/bootstrap.min.css" rel="stylesheet">
+       <link rel="stylesheet" href="{{ url_for('static',filename='css/ech_all.css') }}">
+       <link rel="stylesheet" href="{{ url_for('static',filename='css/bootstrap-table.min.css') }}">
+       <link href="{{ url_for('static',filename='css/style.css') }}" rel="stylesheet">
+
+   </head>
+   <body style="height:100%;">
+    <!-- include up_to_top -->
+    {% include 'up_to_top.html' %}
+
+    <!-- include banner -->
+    {% include '_banner.html' %}
+    <!-- table display -->
+    <div id="loading" style="display:none;padding-top :250px;padding-left :50%;position:absolute;z-index:1;" >
+        <svg version="1.1" id="Layer_1" x="0px" y="0px" width="24px" height="30px" viewBox="0 0 24 30" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+            <rect x="0" y="0" width="4" height="20" fill="#333" transform="translate(0 15.1665)">
+            <animateTransform attributeType="xml" attributeName="transform" type="translate" values="0 0; 0 20; 0 0" begin="0" dur="0.6s" repeatCount="indefinite"></animateTransform>
+            </rect>
+            <rect x="10" y="0" width="4" height="20" fill="#333" transform="translate(0 11.5002)">
+            <animateTransform attributeType="xml" attributeName="transform" type="translate" values="0 0; 0 20; 0 0" begin="0.2s" dur="0.6s" repeatCount="indefinite"></animateTransform>
+            </rect>
+            <rect x="20" y="0" width="4" height="20" fill="#333" transform="translate(0 1.83315)">
+            <animateTransform attributeType="xml" attributeName="transform" type="translate" values="0 0; 0 20; 0 0" begin="0.4s" dur="0.6s" repeatCount="indefinite"></animateTransform>
+            </rect>
+        </svg>
+    </div>
+    <div  style=" padding-top :60px;padding-left :15%;padding-right :15%;">
+            
+   <table width=100%>
+        <tr>
+        <td class="col-md-3 red"><p style="color: red;">历史访问人次: {{total_visits }}</p></td>
+	<td class="col-md-3 red strong">
+	{% if myhalFvUs  >= 0.5 %}
+	<p>过半数公司市值坚挺</p>
+	{% else %}
+	<p>过半数公司市值下跌</p>
+	{% endif %}
+	</td>
+        <td class="col-md-6 red"><marquee  behavior=scroll scrollamount=9 direction=left><p style="color: red;">└(^o^)┘  每天更新四次(周日除外)，最近更新:{{ latest_update_time}} | 上市地区简写对照 US:美国,HK:香港,CN:中国大陆  Y(^_^)Y</p></marquee></td>
+        </tr>
+    </table> 
+    <table class="table table-bordered  table-condensed table-hover" id="table" ></table>
+    </div>
+
+    <!-- include banner -->
+    {% include 'footer.html' %}
+
+    <!-- import javascript-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="{{ url_for('static',filename='js/bootstrap-table.min.js') }}"></script> 
+    <script type="text/javascript" src="{{ url_for('static',filename='js/bootstrap-table-zh-CN.js') }}"></script>  
+    <script type="text/javascript" src="{{ url_for('static',filename='js/bootstrap-table-export.min.js') }}"></script> 
+    <script type="text/javascript" src="{{ url_for('static',filename='js/tableExport.min.js') }}"></script> 
+    <script type="text/javascript" src="{{ url_for('static',filename='js/myrankus.js') }}"></script> 
+    </body>  
+</html>
