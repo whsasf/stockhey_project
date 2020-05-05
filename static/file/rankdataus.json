@@ -3,8 +3,8 @@
         "stock_id": "MSFT",
         "stock_area": "US",
         "stock_name": "微软",
-        "stock_percent": 0.0,
-        "stock_value": 94265.4222,
+        "stock_percent": 2.446,
+        "stock_value": 96571.1437,
         "stock_buss_alias": "系统软件",
         "index": 1
     },
@@ -12,8 +12,8 @@
         "stock_id": "AAPL",
         "stock_area": "US",
         "stock_name": "苹果",
-        "stock_percent": 0.0,
-        "stock_value": 89215.8488,
+        "stock_percent": 1.4149,
+        "stock_value": 90478.1887,
         "stock_buss_alias": "电脑硬件、储存设备及电脑周边",
         "index": 2
     },
@@ -21,8 +21,8 @@
         "stock_id": "AMZN",
         "stock_area": "US",
         "stock_name": "亚马逊",
-        "stock_percent": 0.0,
-        "stock_value": 81190.6477,
+        "stock_percent": 1.3101,
+        "stock_value": 82254.323,
         "stock_buss_alias": "互联网与直销零售",
         "index": 3
     },
@@ -30,8 +30,8 @@
         "stock_id": "FB",
         "stock_area": "US",
         "stock_name": "Facebook Inc-A",
-        "stock_percent": 0.0,
-        "stock_value": 41035.1633,
+        "stock_percent": 1.4783,
+        "stock_value": 41641.7672,
         "stock_buss_alias": "互联网服务与基础设施",
         "index": 4
     },
@@ -39,8 +39,8 @@
         "stock_id": "GOOG",
         "stock_area": "US",
         "stock_name": "谷歌-C",
-        "stock_percent": 0.0,
-        "stock_value": 35975.0514,
+        "stock_percent": 0.4689,
+        "stock_value": 36143.7384,
         "stock_buss_alias": "互联网服务与基础设施",
         "index": 5
     },
@@ -48,8 +48,8 @@
         "stock_id": "GOOGL",
         "stock_area": "US",
         "stock_name": "谷歌-A",
-        "stock_percent": 0.0,
-        "stock_value": 28145.026,
+        "stock_percent": 0.4238,
+        "stock_value": 28264.296,
         "stock_buss_alias": "互联网服务与基础设施",
         "index": 6
     },
@@ -57,8 +57,8 @@
         "stock_id": "JNJ",
         "stock_area": "US",
         "stock_name": "强生",
-        "stock_percent": 0.0,
-        "stock_value": 27819.0449,
+        "stock_percent": -0.0136,
+        "stock_value": 27815.271,
         "stock_buss_alias": "制药",
         "index": 7
     },
@@ -66,8 +66,8 @@
         "stock_id": "WMT",
         "stock_area": "US",
         "stock_name": "沃尔玛",
-        "stock_percent": 0.0,
-        "stock_value": 24802.4027,
+        "stock_percent": 0.6345,
+        "stock_value": 24959.768,
         "stock_buss_alias": "大卖场与超市",
         "index": 8
     },
@@ -75,8 +75,8 @@
         "stock_id": "V",
         "stock_area": "US",
         "stock_name": "维萨",
-        "stock_percent": 0.0,
-        "stock_value": 24534.5257,
+        "stock_percent": 0.3306,
+        "stock_value": 24615.6294,
         "stock_buss_alias": "数据处理与外包服务",
         "index": 9
     },
@@ -84,8 +84,8 @@
         "stock_id": "PG",
         "stock_area": "US",
         "stock_name": "宝洁",
-        "stock_percent": 0.0,
-        "stock_value": 20593.1312,
+        "stock_percent": -0.899,
+        "stock_value": 20407.9956,
         "stock_buss_alias": "居家用品",
         "index": 10
     },
@@ -93,269 +93,269 @@
         "stock_id": "JPM",
         "stock_area": "US",
         "stock_name": "摩根大通",
-        "stock_percent": 0.0,
-        "stock_value": 20228.9125,
+        "stock_percent": -1.1905,
+        "stock_value": 19988.0938,
         "stock_buss_alias": "综合性银行",
         "index": 11
-    },
-    {
-        "stock_id": "MA",
-        "stock_area": "US",
-        "stock_name": "万事达卡",
-        "stock_percent": 0.0,
-        "stock_value": 19207.4625,
-        "stock_buss_alias": "数据处理与外包服务",
-        "index": 12
     },
     {
         "stock_id": "UNH",
         "stock_area": "US",
         "stock_name": "联合健康",
-        "stock_percent": 0.0,
-        "stock_value": 19193.7197,
+        "stock_percent": 1.0651,
+        "stock_value": 19398.1521,
         "stock_buss_alias": "管理型保健护理",
+        "index": 12
+    },
+    {
+        "stock_id": "TSM",
+        "stock_area": "US",
+        "stock_name": "台积电",
+        "stock_percent": 2.055,
+        "stock_value": 19257.9475,
+        "stock_buss_alias": "半导体产品",
         "index": 13
+    },
+    {
+        "stock_id": "MA",
+        "stock_area": "US",
+        "stock_name": "万事达卡",
+        "stock_percent": 0.1935,
+        "stock_value": 19244.632,
+        "stock_buss_alias": "数据处理与外包服务",
+        "index": 14
     },
     {
         "stock_id": "BRK_B",
         "stock_area": "US",
         "stock_name": "伯克希尔哈撒韦-B",
-        "stock_percent": 0.0,
-        "stock_value": 17980.5119,
+        "stock_percent": -2.5836,
+        "stock_value": 17515.9639,
         "stock_buss_alias": "财产与意外伤害保险",
-        "index": 14
+        "index": 15
     },
     {
         "stock_id": "INTC",
         "stock_area": "US",
         "stock_name": "英特尔",
-        "stock_percent": 0.0,
-        "stock_value": 17326.4136,
+        "stock_percent": 0.905,
+        "stock_value": 17483.2092,
         "stock_buss_alias": "半导体产品",
-        "index": 15
-    },
-    {
-        "stock_id": "VZ",
-        "stock_area": "US",
-        "stock_name": "威瑞森通讯",
-        "stock_percent": 0.0,
-        "stock_value": 16744.9454,
-        "stock_buss_alias": "综合电信业务",
         "index": 16
     },
     {
         "stock_id": "HD",
         "stock_area": "US",
         "stock_name": "家得宝",
-        "stock_percent": 0.0,
-        "stock_value": 16717.0326,
+        "stock_percent": 1.4959,
+        "stock_value": 16967.1081,
         "stock_buss_alias": "家庭装潢零售",
         "index": 17
+    },
+    {
+        "stock_id": "VZ",
+        "stock_area": "US",
+        "stock_name": "威瑞森通讯",
+        "stock_percent": -1.038,
+        "stock_value": 16571.1315,
+        "stock_buss_alias": "综合电信业务",
+        "index": 18
     },
     {
         "stock_id": "T",
         "stock_area": "US",
         "stock_name": "美国电话电报",
-        "stock_percent": 0.0,
-        "stock_value": 15271.4796,
+        "stock_percent": -1.0034,
+        "stock_value": 15118.2443,
         "stock_buss_alias": "综合电信业务",
-        "index": 18
+        "index": 19
     },
     {
         "stock_id": "PFE",
         "stock_area": "US",
         "stock_name": "辉瑞",
-        "stock_percent": 0.0,
-        "stock_value": 14868.7385,
+        "stock_percent": -0.0532,
+        "stock_value": 14860.8346,
         "stock_buss_alias": "制药",
-        "index": 19
+        "index": 20
     },
     {
         "stock_id": "BAC",
         "stock_area": "US",
         "stock_name": "美国银行",
-        "stock_percent": 0.0,
-        "stock_value": 14257.791,
+        "stock_percent": -0.6497,
+        "stock_value": 14165.152,
         "stock_buss_alias": "综合性银行",
-        "index": 20
+        "index": 21
     },
     {
         "stock_id": "MRK",
         "stock_area": "US",
         "stock_name": "默克",
-        "stock_percent": 0.0,
-        "stock_value": 13965.1343,
+        "stock_percent": -1.0427,
+        "stock_value": 13819.5181,
         "stock_buss_alias": "制药",
-        "index": 21
+        "index": 22
     },
     {
         "stock_id": "KO",
         "stock_area": "US",
         "stock_name": "可口可乐",
-        "stock_percent": 0.0,
-        "stock_value": 13945.4815,
+        "stock_percent": -1.009,
+        "stock_value": 13804.7784,
         "stock_buss_alias": "软饮料",
-        "index": 22
-    },
-    {
-        "stock_id": "BRK_A",
-        "stock_area": "US",
-        "stock_name": "伯克希尔哈撒韦-A",
-        "stock_percent": 0.0,
-        "stock_value": 13638.9397,
-        "stock_buss_alias": "财产与意外伤害保险",
         "index": 23
-    },
-    {
-        "stock_id": "DIS",
-        "stock_area": "US",
-        "stock_name": "迪士尼",
-        "stock_percent": 0.0,
-        "stock_value": 13562.8916,
-        "stock_buss_alias": "电影与娱乐",
-        "index": 24
     },
     {
         "stock_id": "NVS",
         "stock_area": "US",
         "stock_name": "诺华制药",
-        "stock_percent": 0.0,
-        "stock_value": 13452.5223,
+        "stock_percent": 0.7077,
+        "stock_value": 13547.7248,
         "stock_buss_alias": "制药",
+        "index": 24
+    },
+    {
+        "stock_id": "XOM",
+        "stock_area": "US",
+        "stock_name": "埃克森美孚",
+        "stock_percent": 4.0334,
+        "stock_value": 13519.3136,
+        "stock_buss_alias": "综合性石油与天然气企业",
         "index": 25
     },
     {
         "stock_id": "NFLX",
         "stock_area": "US",
         "stock_name": "奈飞",
-        "stock_percent": 0.0,
-        "stock_value": 13004.8502,
+        "stock_percent": 3.1018,
+        "stock_value": 13408.2322,
         "stock_buss_alias": "互联网与直销零售",
         "index": 26
     },
     {
-        "stock_id": "XOM",
+        "stock_id": "BRK_A",
         "stock_area": "US",
-        "stock_name": "埃克森美孚",
-        "stock_percent": 0.0,
-        "stock_value": 12995.1662,
-        "stock_buss_alias": "综合性石油与天然气企业",
+        "stock_name": "伯克希尔哈撒韦-A",
+        "stock_percent": -2.5164,
+        "stock_value": 13295.7267,
+        "stock_buss_alias": "财产与意外伤害保险",
         "index": 27
+    },
+    {
+        "stock_id": "DIS",
+        "stock_area": "US",
+        "stock_name": "迪士尼",
+        "stock_percent": -2.1993,
+        "stock_value": 13264.6097,
+        "stock_buss_alias": "电影与娱乐",
+        "index": 28
     },
     {
         "stock_id": "PEP",
         "stock_area": "US",
         "stock_name": "百事",
-        "stock_percent": 0.0,
-        "stock_value": 12857.5962,
+        "stock_percent": 0.5998,
+        "stock_value": 12934.7123,
         "stock_buss_alias": "软饮料",
-        "index": 28
+        "index": 29
     },
     {
         "stock_id": "NVDA",
         "stock_area": "US",
         "stock_name": "英伟达",
-        "stock_percent": 0.0,
-        "stock_value": 12386.1413,
+        "stock_percent": 3.0095,
+        "stock_value": 12758.9047,
         "stock_buss_alias": "半导体产品",
-        "index": 29
+        "index": 30
     },
     {
         "stock_id": "CSCO",
         "stock_area": "US",
         "stock_name": "思科",
-        "stock_percent": 0.0,
-        "stock_value": 12356.8756,
+        "stock_percent": 1.0505,
+        "stock_value": 12486.6842,
         "stock_buss_alias": "通信设备",
-        "index": 30
-    },
-    {
-        "stock_id": "CMCSA",
-        "stock_area": "US",
-        "stock_name": "康卡斯特",
-        "stock_percent": 0.0,
-        "stock_value": 12018.3623,
-        "stock_buss_alias": "有线和卫星电视",
         "index": 31
-    },
-    {
-        "stock_id": "TM",
-        "stock_area": "US",
-        "stock_name": "丰田汽车(US ADR)",
-        "stock_percent": 0.0,
-        "stock_value": 11988.2422,
-        "stock_buss_alias": "汽车制造商",
-        "index": 32
     },
     {
         "stock_id": "CVX",
         "stock_area": "US",
         "stock_name": "雪佛龙",
-        "stock_percent": 0.0,
-        "stock_value": 11890.1915,
+        "stock_percent": 2.2362,
+        "stock_value": 12156.0747,
         "stock_buss_alias": "综合性石油与天然气企业",
-        "index": 33
+        "index": 32
     },
     {
         "stock_id": "ADBE",
         "stock_area": "US",
         "stock_name": "奥多比",
-        "stock_percent": 0.0,
-        "stock_value": 11796.1284,
+        "stock_percent": 1.5326,
+        "stock_value": 11976.9204,
         "stock_buss_alias": "应用软件",
+        "index": 33
+    },
+    {
+        "stock_id": "TM",
+        "stock_area": "US",
+        "stock_name": "丰田汽车(US ADR)",
+        "stock_percent": -0.3469,
+        "stock_value": 11946.6579,
+        "stock_buss_alias": "汽车制造商",
         "index": 34
+    },
+    {
+        "stock_id": "CMCSA",
+        "stock_area": "US",
+        "stock_name": "康卡斯特",
+        "stock_percent": -2.0553,
+        "stock_value": 11771.3487,
+        "stock_buss_alias": "有线和卫星电视",
+        "index": 35
     },
     {
         "stock_id": "ORCL",
         "stock_area": "US",
         "stock_name": "甲骨文",
-        "stock_percent": 0.0,
-        "stock_value": 11629.6487,
+        "stock_percent": -0.0771,
+        "stock_value": 11620.6768,
         "stock_buss_alias": "系统软件",
-        "index": 35
+        "index": 36
     },
     {
         "stock_id": "ABT",
         "stock_area": "US",
         "stock_name": "雅培",
-        "stock_percent": 0.0,
-        "stock_value": 11316.8408,
+        "stock_percent": -0.0227,
+        "stock_value": 11314.2774,
         "stock_buss_alias": "医疗保健设备",
-        "index": 36
+        "index": 37
     },
     {
         "stock_id": "NVO",
         "stock_area": "US",
         "stock_name": "诺和诺德",
-        "stock_percent": 0.0,
-        "stock_value": 10839.8318,
+        "stock_percent": 0.2995,
+        "stock_value": 10872.3017,
         "stock_buss_alias": "制药",
-        "index": 37
+        "index": 38
     },
     {
         "stock_id": "LLY",
         "stock_area": "US",
         "stock_name": "礼来",
-        "stock_percent": 0.0,
-        "stock_value": 10462.9384,
+        "stock_percent": -0.2273,
+        "stock_value": 10439.1556,
         "stock_buss_alias": "制药",
-        "index": 38
-    },
-    {
-        "stock_id": "SAP",
-        "stock_area": "US",
-        "stock_name": "SAP SE ADR",
-        "stock_percent": 0.0,
-        "stock_value": 10232.1598,
-        "stock_buss_alias": "应用软件",
         "index": 39
     },
     {
         "stock_id": "PYPL",
         "stock_area": "US",
         "stock_name": "PayPal Holdings Inc",
-        "stock_percent": 0.0,
-        "stock_value": 10072.9432,
+        "stock_percent": 2.5293,
+        "stock_value": 10327.7182,
         "stock_buss_alias": "数据处理与外包服务",
         "index": 40
     },
@@ -363,314 +363,314 @@
         "stock_id": "CRM",
         "stock_area": "US",
         "stock_name": "赛富时",
-        "stock_percent": 0.0,
-        "stock_value": 9965.3509,
+        "stock_percent": 3.2619,
+        "stock_value": 10290.4063,
         "stock_buss_alias": "应用软件",
         "index": 41
     },
     {
-        "stock_id": "BMY",
+        "stock_id": "SAP",
         "stock_area": "US",
-        "stock_name": "百时美施贵宝",
-        "stock_percent": 0.0,
-        "stock_value": 9707.9412,
-        "stock_buss_alias": "制药",
+        "stock_name": "SAP SE ADR",
+        "stock_percent": 0.1879,
+        "stock_value": 10251.3854,
+        "stock_buss_alias": "应用软件",
         "index": 42
-    },
-    {
-        "stock_id": "AZN",
-        "stock_area": "US",
-        "stock_name": "阿斯利康(US)",
-        "stock_percent": 0.0,
-        "stock_value": 9691.4214,
-        "stock_buss_alias": "制药",
-        "index": 43
-    },
-    {
-        "stock_id": "AMGN",
-        "stock_area": "US",
-        "stock_name": "安进",
-        "stock_percent": 0.0,
-        "stock_value": 9674.9728,
-        "stock_buss_alias": "生物科技",
-        "index": 44
-    },
-    {
-        "stock_id": "MCD",
-        "stock_area": "US",
-        "stock_name": "麦当劳",
-        "stock_percent": 0.0,
-        "stock_value": 9670.4869,
-        "stock_buss_alias": "餐馆",
-        "index": 45
-    },
-    {
-        "stock_id": "COST",
-        "stock_area": "US",
-        "stock_name": "开市客",
-        "stock_percent": 0.0,
-        "stock_value": 9493.3263,
-        "stock_buss_alias": "大卖场与超市",
-        "index": 46
-    },
-    {
-        "stock_id": "NKE",
-        "stock_area": "US",
-        "stock_name": "耐克",
-        "stock_percent": 0.0,
-        "stock_value": 9471.6797,
-        "stock_buss_alias": "鞋类",
-        "index": 47
-    },
-    {
-        "stock_id": "TMO",
-        "stock_area": "US",
-        "stock_name": "赛默飞世尔科技",
-        "stock_percent": 0.0,
-        "stock_value": 9275.2224,
-        "stock_buss_alias": "生命科学工具和服务",
-        "index": 48
     },
     {
         "stock_id": "TSLA",
         "stock_area": "US",
         "stock_name": "特斯拉",
-        "stock_percent": 0.0,
-        "stock_value": 9257.0648,
+        "stock_percent": 8.5374,
+        "stock_value": 10047.3802,
         "stock_buss_alias": "汽车制造商",
+        "index": 43
+    },
+    {
+        "stock_id": "AZN",
+        "stock_area": "US",
+        "stock_name": "阿斯利康(US)",
+        "stock_percent": 0.9449,
+        "stock_value": 9782.9923,
+        "stock_buss_alias": "制药",
+        "index": 44
+    },
+    {
+        "stock_id": "BMY",
+        "stock_area": "US",
+        "stock_name": "百时美施贵宝",
+        "stock_percent": -0.1496,
+        "stock_value": 9693.4152,
+        "stock_buss_alias": "制药",
+        "index": 45
+    },
+    {
+        "stock_id": "AMGN",
+        "stock_area": "US",
+        "stock_name": "安进",
+        "stock_percent": -0.0302,
+        "stock_value": 9672.0534,
+        "stock_buss_alias": "生物科技",
+        "index": 46
+    },
+    {
+        "stock_id": "MCD",
+        "stock_area": "US",
+        "stock_name": "麦当劳",
+        "stock_percent": -0.4322,
+        "stock_value": 9628.6889,
+        "stock_buss_alias": "餐馆",
+        "index": 47
+    },
+    {
+        "stock_id": "COST",
+        "stock_area": "US",
+        "stock_name": "开市客",
+        "stock_percent": 0.8513,
+        "stock_value": 9574.1451,
+        "stock_buss_alias": "大卖场与超市",
+        "index": 48
+    },
+    {
+        "stock_id": "NKE",
+        "stock_area": "US",
+        "stock_name": "耐克",
+        "stock_percent": 0.2451,
+        "stock_value": 9494.8929,
+        "stock_buss_alias": "鞋类",
         "index": 49
+    },
+    {
+        "stock_id": "TMO",
+        "stock_area": "US",
+        "stock_name": "赛默飞世尔科技",
+        "stock_percent": -0.9374,
+        "stock_value": 9188.2798,
+        "stock_buss_alias": "生命科学工具和服务",
+        "index": 50
     },
     {
         "stock_id": "MDT",
         "stock_area": "US",
         "stock_name": "美敦力",
-        "stock_percent": 0.0,
-        "stock_value": 9078.9786,
+        "stock_percent": 0.1263,
+        "stock_value": 9090.4428,
         "stock_buss_alias": "医疗保健设备",
-        "index": 50
-    },
-    {
-        "stock_id": "ABBV",
-        "stock_area": "US",
-        "stock_name": "艾伯维",
-        "stock_percent": 0.0,
-        "stock_value": 8710.4876,
-        "stock_buss_alias": "生物科技",
         "index": 51
-    },
-    {
-        "stock_id": "CHTR",
-        "stock_area": "US",
-        "stock_name": "特许通讯",
-        "stock_percent": 0.0,
-        "stock_value": 8498.7921,
-        "stock_buss_alias": "有线和卫星电视",
-        "index": 52
     },
     {
         "stock_id": "SNY",
         "stock_area": "US",
         "stock_name": "赛诺菲",
-        "stock_percent": 0.0,
-        "stock_value": 8365.5657,
+        "stock_percent": 3.2438,
+        "stock_value": 8636.9318,
         "stock_buss_alias": "制药",
+        "index": 52
+    },
+    {
+        "stock_id": "ABBV",
+        "stock_area": "US",
+        "stock_name": "艾伯维",
+        "stock_percent": -1.1837,
+        "stock_value": 8607.3813,
+        "stock_buss_alias": "生物科技",
         "index": 53
+    },
+    {
+        "stock_id": "CHTR",
+        "stock_area": "US",
+        "stock_name": "特许通讯",
+        "stock_percent": 1.1956,
+        "stock_value": 8600.4031,
+        "stock_buss_alias": "有线和卫星电视",
+        "index": 54
     },
     {
         "stock_id": "ASML",
         "stock_area": "US",
         "stock_name": "阿斯麦",
-        "stock_percent": 0.0,
-        "stock_value": 8341.9253,
+        "stock_percent": 1.4767,
+        "stock_value": 8465.1117,
         "stock_buss_alias": "半导体设备",
-        "index": 54
+        "index": 55
     },
     {
         "stock_id": "ACN",
         "stock_area": "US",
         "stock_name": "埃森哲",
-        "stock_percent": 0.0,
-        "stock_value": 8176.4426,
+        "stock_percent": -0.3109,
+        "stock_value": 8151.022,
         "stock_buss_alias": "信息科技咨询与其它服务",
-        "index": 55
+        "index": 56
     },
     {
         "stock_id": "PM",
         "stock_area": "US",
         "stock_name": "菲利普莫里斯国际",
-        "stock_percent": 0.0,
-        "stock_value": 8125.0318,
+        "stock_percent": 0.0412,
+        "stock_value": 8128.3785,
         "stock_buss_alias": "烟草",
-        "index": 56
-    },
-    {
-        "stock_id": "WFC",
-        "stock_area": "US",
-        "stock_name": "富国银行",
-        "stock_percent": 0.0,
-        "stock_value": 8047.7021,
-        "stock_buss_alias": "综合性银行",
         "index": 57
-    },
-    {
-        "stock_id": "DHR",
-        "stock_area": "US",
-        "stock_name": "丹纳赫",
-        "stock_percent": 0.0,
-        "stock_value": 7977.9202,
-        "stock_buss_alias": "工业集团企业",
-        "index": 58
     },
     {
         "stock_id": "NEE",
         "stock_area": "US",
         "stock_name": "新纪元能源",
-        "stock_percent": 0.0,
-        "stock_value": 7913.1228,
+        "stock_percent": 1.339,
+        "stock_value": 8019.0773,
         "stock_buss_alias": "电力公用事业",
+        "index": 58
+    },
+    {
+        "stock_id": "DHR",
+        "stock_area": "US",
+        "stock_name": "丹纳赫",
+        "stock_percent": 0.2178,
+        "stock_value": 7995.2945,
+        "stock_buss_alias": "工业集团企业",
         "index": 59
     },
     {
-        "stock_id": "IBM",
+        "stock_id": "WFC",
         "stock_area": "US",
-        "stock_name": "IBM国际商业机器(US)",
-        "stock_percent": 0.0,
-        "stock_value": 7704.9876,
-        "stock_buss_alias": "信息科技咨询与其它服务",
+        "stock_name": "富国银行",
+        "stock_percent": -0.8698,
+        "stock_value": 7977.7066,
+        "stock_buss_alias": "综合性银行",
         "index": 60
-    },
-    {
-        "stock_id": "LMT",
-        "stock_area": "US",
-        "stock_name": "洛克希德马丁",
-        "stock_percent": 0.0,
-        "stock_value": 7657.422,
-        "stock_buss_alias": "航天航空与国防",
-        "index": 61
     },
     {
         "stock_id": "TMUS",
         "stock_area": "US",
         "stock_name": "T-Mobile US Inc",
-        "stock_percent": 0.0,
-        "stock_value": 7577.2441,
+        "stock_percent": 3.2017,
+        "stock_value": 7819.8429,
         "stock_buss_alias": "无线电信业务",
+        "index": 61
+    },
+    {
+        "stock_id": "IBM",
+        "stock_area": "US",
+        "stock_name": "IBM国际商业机器(US)",
+        "stock_percent": -0.1553,
+        "stock_value": 7693.025,
+        "stock_buss_alias": "信息科技咨询与其它服务",
         "index": 62
     },
     {
-        "stock_id": "UNP",
+        "stock_id": "LMT",
         "stock_area": "US",
-        "stock_name": "联合太平洋",
-        "stock_percent": 0.0,
-        "stock_value": 7568.5569,
-        "stock_buss_alias": "铁路",
+        "stock_name": "洛克希德马丁",
+        "stock_percent": -0.8639,
+        "stock_value": 7591.2717,
+        "stock_buss_alias": "航天航空与国防",
         "index": 63
-    },
-    {
-        "stock_id": "HSBC",
-        "stock_area": "US",
-        "stock_name": "汇丰控股",
-        "stock_percent": 0.0,
-        "stock_value": 7448.8597,
-        "stock_buss_alias": "综合性银行",
-        "index": 64
-    },
-    {
-        "stock_id": "AMT",
-        "stock_area": "US",
-        "stock_name": "美国电塔",
-        "stock_percent": 0.0,
-        "stock_value": 7395.1703,
-        "stock_buss_alias": "特种房地产投资信托",
-        "index": 65
-    },
-    {
-        "stock_id": "AVGO",
-        "stock_area": "US",
-        "stock_name": "博通",
-        "stock_percent": 0.0,
-        "stock_value": 7393.0342,
-        "stock_buss_alias": "半导体产品",
-        "index": 66
     },
     {
         "stock_id": "GSK",
         "stock_area": "US",
         "stock_name": "葛兰素史克(US)",
-        "stock_percent": 0.0,
-        "stock_value": 7360.9915,
+        "stock_percent": 2.281,
+        "stock_value": 7528.8952,
         "stock_buss_alias": "制药",
+        "index": 64
+    },
+    {
+        "stock_id": "UNP",
+        "stock_area": "US",
+        "stock_name": "联合太平洋",
+        "stock_percent": -1.1619,
+        "stock_value": 7480.6175,
+        "stock_buss_alias": "铁路",
+        "index": 65
+    },
+    {
+        "stock_id": "AMT",
+        "stock_area": "US",
+        "stock_name": "美国电塔",
+        "stock_percent": 1.038,
+        "stock_value": 7471.9304,
+        "stock_buss_alias": "特种房地产投资信托",
+        "index": 66
+    },
+    {
+        "stock_id": "AVGO",
+        "stock_area": "US",
+        "stock_name": "博通",
+        "stock_percent": 0.9853,
+        "stock_value": 7465.8779,
+        "stock_buss_alias": "半导体产品",
         "index": 67
+    },
+    {
+        "stock_id": "HSBC",
+        "stock_area": "US",
+        "stock_name": "汇丰控股",
+        "stock_percent": -2.0572,
+        "stock_value": 7295.6243,
+        "stock_buss_alias": "综合性银行",
+        "index": 68
     },
     {
         "stock_id": "TXN",
         "stock_area": "US",
         "stock_name": "德州仪器",
-        "stock_percent": 0.0,
-        "stock_value": 7169.6609,
+        "stock_percent": 0.72,
+        "stock_value": 7221.2853,
         "stock_buss_alias": "半导体产品",
-        "index": 68
+        "index": 69
     },
     {
         "stock_id": "GILD",
         "stock_area": "US",
         "stock_name": "吉利德科学",
-        "stock_percent": 0.0,
-        "stock_value": 7167.4535,
+        "stock_percent": 0.3755,
+        "stock_value": 7194.3694,
         "stock_buss_alias": "生物科技",
-        "index": 69
-    },
-    {
-        "stock_id": "HON",
-        "stock_area": "US",
-        "stock_name": "霍尼韦尔(US)",
-        "stock_percent": 0.0,
-        "stock_value": 6859.2028,
-        "stock_buss_alias": "工业集团企业",
         "index": 70
     },
     {
         "stock_id": "LIN",
         "stock_area": "US",
         "stock_name": "Linde plc",
-        "stock_percent": 0.0,
-        "stock_value": 6843.5375,
+        "stock_percent": 1.2912,
+        "stock_value": 6931.9041,
         "stock_buss_alias": "商品化工",
         "index": 71
+    },
+    {
+        "stock_id": "HON",
+        "stock_area": "US",
+        "stock_name": "霍尼韦尔(US)",
+        "stock_percent": -1.4938,
+        "stock_value": 6756.7373,
+        "stock_buss_alias": "工业集团企业",
+        "index": 72
     },
     {
         "stock_id": "C",
         "stock_area": "US",
         "stock_name": "花旗集团",
-        "stock_percent": 0.0,
-        "stock_value": 6747.7654,
+        "stock_percent": -0.879,
+        "stock_value": 6688.4508,
         "stock_buss_alias": "综合性银行",
-        "index": 72
+        "index": 73
     },
     {
         "stock_id": "TOT",
         "stock_area": "US",
         "stock_name": "道达尔(US ADR)",
-        "stock_percent": 0.0,
-        "stock_value": 6193.5691,
+        "stock_percent": 0.3886,
+        "stock_value": 6217.6367,
         "stock_buss_alias": "综合性石油与天然气企业",
-        "index": 73
-    },
-    {
-        "stock_id": "SBUX",
-        "stock_area": "US",
-        "stock_name": "星巴克",
-        "stock_percent": 0.0,
-        "stock_value": 6138.5981,
-        "stock_buss_alias": "餐馆",
         "index": 74
     },
     {
         "stock_id": "RY",
         "stock_area": "US",
         "stock_name": "加拿大皇家银行",
-        "stock_percent": 0.0,
-        "stock_value": 6116.809,
+        "stock_percent": 0.4656,
+        "stock_value": 6145.2914,
         "stock_buss_alias": "综合性银行",
         "index": 75
     },
@@ -678,8 +678,8 @@
         "stock_id": "MMM",
         "stock_area": "US",
         "stock_name": "3M公司",
-        "stock_percent": 0.0,
-        "stock_value": 6086.2616,
+        "stock_percent": -0.1345,
+        "stock_value": 6078.073,
         "stock_buss_alias": "工业集团企业",
         "index": 76
     },
@@ -687,458 +687,458 @@
         "stock_id": "QCOM",
         "stock_area": "US",
         "stock_name": "高通",
-        "stock_percent": 0.0,
-        "stock_value": 6058.9185,
+        "stock_percent": 0.0529,
+        "stock_value": 6062.1228,
         "stock_buss_alias": "通信设备",
         "index": 77
     },
     {
-        "stock_id": "DEO",
+        "stock_id": "SBUX",
         "stock_area": "US",
-        "stock_name": "帝亚吉欧(US ADR)",
-        "stock_percent": 0.0,
-        "stock_value": 5704.9535,
-        "stock_buss_alias": "酿酒商与葡萄酒商",
+        "stock_name": "星巴克",
+        "stock_percent": -2.5751,
+        "stock_value": 5980.5207,
+        "stock_buss_alias": "餐馆",
         "index": 78
-    },
-    {
-        "stock_id": "FIS",
-        "stock_area": "US",
-        "stock_name": "富达国民信息服务",
-        "stock_percent": 0.0,
-        "stock_value": 5687.0096,
-        "stock_buss_alias": "数据处理与外包服务",
-        "index": 79
-    },
-    {
-        "stock_id": "BTI",
-        "stock_area": "US",
-        "stock_name": "英美烟草",
-        "stock_percent": 0.0,
-        "stock_value": 5668.2112,
-        "stock_buss_alias": "烟草",
-        "index": 80
-    },
-    {
-        "stock_id": "UPS",
-        "stock_area": "US",
-        "stock_name": "联合包裹服务",
-        "stock_percent": 0.0,
-        "stock_value": 5617.5125,
-        "stock_buss_alias": "航空货运与物流",
-        "index": 81
     },
     {
         "stock_id": "LOW",
         "stock_area": "US",
         "stock_name": "劳氏",
-        "stock_percent": 0.0,
-        "stock_value": 5615.4476,
+        "stock_percent": 2.7669,
+        "stock_value": 5770.8191,
         "stock_buss_alias": "家庭装潢零售",
-        "index": 82
+        "index": 79
     },
     {
-        "stock_id": "CVS",
+        "stock_id": "DEO",
         "stock_area": "US",
-        "stock_name": "CVS Health Corp",
-        "stock_percent": 0.0,
-        "stock_value": 5550.0805,
-        "stock_buss_alias": "药品零售",
-        "index": 83
+        "stock_name": "帝亚吉欧(US ADR)",
+        "stock_percent": 0.1972,
+        "stock_value": 5716.2041,
+        "stock_buss_alias": "酿酒商与葡萄酒商",
+        "index": 80
+    },
+    {
+        "stock_id": "BTI",
+        "stock_area": "US",
+        "stock_name": "英美烟草",
+        "stock_percent": 0.0276,
+        "stock_value": 5669.7777,
+        "stock_buss_alias": "烟草",
+        "index": 81
+    },
+    {
+        "stock_id": "FIS",
+        "stock_area": "US",
+        "stock_name": "富达国民信息服务",
+        "stock_percent": -0.5484,
+        "stock_value": 5655.8214,
+        "stock_buss_alias": "数据处理与外包服务",
+        "index": 82
     },
     {
         "stock_id": "BP",
         "stock_area": "US",
         "stock_name": "英国石油(US)",
-        "stock_percent": 0.0,
-        "stock_value": 5488.9145,
+        "stock_percent": 1.8395,
+        "stock_value": 5589.8846,
         "stock_buss_alias": "综合性石油与天然气企业",
+        "index": 83
+    },
+    {
+        "stock_id": "CVS",
+        "stock_area": "US",
+        "stock_name": "CVS Health Corp",
+        "stock_percent": 0.4182,
+        "stock_value": 5573.2936,
+        "stock_buss_alias": "药品零售",
         "index": 84
     },
     {
-        "stock_id": "HDB",
+        "stock_id": "UPS",
         "stock_area": "US",
-        "stock_name": "HDFC银行",
-        "stock_percent": 0.0,
-        "stock_value": 5466.6982,
-        "stock_buss_alias": "综合性银行",
+        "stock_name": "联合包裹服务",
+        "stock_percent": -1.5883,
+        "stock_value": 5528.2914,
+        "stock_buss_alias": "航空货运与物流",
         "index": 85
-    },
-    {
-        "stock_id": "SNE",
-        "stock_area": "US",
-        "stock_name": "索尼",
-        "stock_percent": 0.0,
-        "stock_value": 5450.1784,
-        "stock_buss_alias": "消费电子产品",
-        "index": 86
-    },
-    {
-        "stock_id": "BUD",
-        "stock_area": "US",
-        "stock_name": "百威英博",
-        "stock_percent": 0.0,
-        "stock_value": 5400.263,
-        "stock_buss_alias": "啤酒酿造商",
-        "index": 87
-    },
-    {
-        "stock_id": "BA",
-        "stock_area": "US",
-        "stock_name": "波音",
-        "stock_percent": 0.0,
-        "stock_value": 5359.2484,
-        "stock_buss_alias": "航天航空与国防",
-        "index": 88
-    },
-    {
-        "stock_id": "BLK",
-        "stock_area": "US",
-        "stock_name": "贝莱德",
-        "stock_percent": 0.0,
-        "stock_value": 5318.2337,
-        "stock_buss_alias": "资产管理与托管银行",
-        "index": 89
-    },
-    {
-        "stock_id": "TD",
-        "stock_area": "US",
-        "stock_name": "道明银行",
-        "stock_percent": 0.0,
-        "stock_value": 5235.1363,
-        "stock_buss_alias": "综合性银行",
-        "index": 90
-    },
-    {
-        "stock_id": "MDLZ",
-        "stock_area": "US",
-        "stock_name": "亿滋国际",
-        "stock_percent": 0.0,
-        "stock_value": 5153.3206,
-        "stock_buss_alias": "包装食品与肉类",
-        "index": 91
-    },
-    {
-        "stock_id": "UN",
-        "stock_area": "US",
-        "stock_name": "联合利华(荷兰)",
-        "stock_percent": 0.0,
-        "stock_value": 5108.0336,
-        "stock_buss_alias": "个人用品",
-        "index": 92
     },
     {
         "stock_id": "SHOP",
         "stock_area": "US",
         "stock_name": "Shopify Inc-A",
-        "stock_percent": 0.0,
-        "stock_value": 5087.3127,
+        "stock_percent": 7.3749,
+        "stock_value": 5462.4971,
         "stock_buss_alias": "互联网服务与基础设施",
+        "index": 86
+    },
+    {
+        "stock_id": "SNE",
+        "stock_area": "US",
+        "stock_name": "索尼",
+        "stock_percent": -1.2595,
+        "stock_value": 5381.5359,
+        "stock_buss_alias": "消费电子产品",
+        "index": 87
+    },
+    {
+        "stock_id": "BLK",
+        "stock_area": "US",
+        "stock_name": "贝莱德",
+        "stock_percent": -0.5476,
+        "stock_value": 5289.1105,
+        "stock_buss_alias": "资产管理与托管银行",
+        "index": 88
+    },
+    {
+        "stock_id": "HDB",
+        "stock_area": "US",
+        "stock_name": "HDFC银行",
+        "stock_percent": -3.3254,
+        "stock_value": 5284.9093,
+        "stock_buss_alias": "综合性银行",
+        "index": 89
+    },
+    {
+        "stock_id": "BA",
+        "stock_area": "US",
+        "stock_name": "波音",
+        "stock_percent": -1.4323,
+        "stock_value": 5282.4883,
+        "stock_buss_alias": "航天航空与国防",
+        "index": 90
+    },
+    {
+        "stock_id": "TD",
+        "stock_area": "US",
+        "stock_name": "道明银行",
+        "stock_percent": 0.5182,
+        "stock_value": 5262.2658,
+        "stock_buss_alias": "综合性银行",
+        "index": 91
+    },
+    {
+        "stock_id": "BUD",
+        "stock_area": "US",
+        "stock_name": "百威英博",
+        "stock_percent": -5.3573,
+        "stock_value": 5110.9531,
+        "stock_buss_alias": "啤酒酿造商",
+        "index": 92
+    },
+    {
+        "stock_id": "MDLZ",
+        "stock_area": "US",
+        "stock_name": "亿滋国际",
+        "stock_percent": -1.2615,
+        "stock_value": 5088.3096,
+        "stock_buss_alias": "包装食品与肉类",
         "index": 93
     },
     {
-        "stock_id": "AXP",
+        "stock_id": "UN",
         "stock_area": "US",
-        "stock_name": "美国运通",
-        "stock_percent": 0.0,
-        "stock_value": 5062.3906,
-        "stock_buss_alias": "消费信贷",
+        "stock_name": "联合利华(荷兰)",
+        "stock_percent": -1.2225,
+        "stock_value": 5045.586,
+        "stock_buss_alias": "个人用品",
         "index": 94
     },
     {
         "stock_id": "MO",
         "stock_area": "US",
         "stock_name": "奥驰亚集团",
-        "stock_percent": 0.0,
-        "stock_value": 5016.5339,
+        "stock_percent": 0.264,
+        "stock_value": 5029.7782,
         "stock_buss_alias": "烟草",
         "index": 95
     },
     {
-        "stock_id": "CI",
+        "stock_id": "INTU",
         "stock_area": "US",
-        "stock_name": "信诺",
-        "stock_percent": 0.0,
-        "stock_value": 4954.6559,
-        "stock_buss_alias": "人寿与健康保险",
+        "stock_name": "财捷",
+        "stock_percent": 2.5462,
+        "stock_value": 4966.9033,
+        "stock_buss_alias": "应用软件",
         "index": 96
     },
     {
-        "stock_id": "SPGI",
+        "stock_id": "AXP",
         "stock_area": "US",
-        "stock_name": "S&P Global Inc",
-        "stock_percent": 0.0,
-        "stock_value": 4906.9479,
-        "stock_buss_alias": "特殊金融服务",
+        "stock_name": "美国运通",
+        "stock_percent": -2.1971,
+        "stock_value": 4951.1668,
+        "stock_buss_alias": "消费信贷",
         "index": 97
     },
     {
         "stock_id": "BDX",
         "stock_area": "US",
         "stock_name": "碧迪",
-        "stock_percent": 0.0,
-        "stock_value": 4863.3698,
+        "stock_percent": 1.3499,
+        "stock_value": 4929.0217,
         "stock_buss_alias": "医疗保健设备",
         "index": 98
     },
     {
-        "stock_id": "INTU",
+        "stock_id": "SPGI",
         "stock_area": "US",
-        "stock_name": "财捷",
-        "stock_percent": 0.0,
-        "stock_value": 4843.5745,
-        "stock_buss_alias": "应用软件",
+        "stock_name": "S&P Global Inc",
+        "stock_percent": -0.1016,
+        "stock_value": 4901.9635,
+        "stock_buss_alias": "特殊金融服务",
         "index": 99
-    },
-    {
-        "stock_id": "ANTM",
-        "stock_area": "US",
-        "stock_name": "Anthem Inc",
-        "stock_percent": 0.0,
-        "stock_value": 4839.8006,
-        "stock_buss_alias": "管理型保健护理",
-        "index": 100
     },
     {
         "stock_id": "FISV",
         "stock_area": "US",
         "stock_name": "费哲金融服务",
-        "stock_percent": 0.0,
-        "stock_value": 4827.9804,
+        "stock_percent": 1.2861,
+        "stock_value": 4890.072,
         "stock_buss_alias": "数据处理与外包服务",
-        "index": 101
+        "index": 100
     },
     {
-        "stock_id": "SYK",
+        "stock_id": "CI",
         "stock_area": "US",
-        "stock_name": "史赛克",
-        "stock_percent": 0.0,
-        "stock_value": 4820.7174,
-        "stock_buss_alias": "医疗保健设备",
-        "index": 102
+        "stock_name": "信诺",
+        "stock_percent": -1.3251,
+        "stock_value": 4889.004,
+        "stock_buss_alias": "人寿与健康保险",
+        "index": 101
     },
     {
         "stock_id": "VRTX",
         "stock_area": "US",
         "stock_name": "福泰制药",
-        "stock_percent": 0.0,
-        "stock_value": 4704.082,
+        "stock_percent": 3.8403,
+        "stock_value": 4884.7316,
         "stock_buss_alias": "生物科技",
+        "index": 102
+    },
+    {
+        "stock_id": "ANTM",
+        "stock_area": "US",
+        "stock_name": "Anthem Inc",
+        "stock_percent": 0.5297,
+        "stock_value": 4865.4348,
+        "stock_buss_alias": "管理型保健护理",
         "index": 103
-    },
-    {
-        "stock_id": "KOF",
-        "stock_area": "US",
-        "stock_name": "可口可乐凡萨瓶装",
-        "stock_percent": 0.0,
-        "stock_value": 4698.3855,
-        "stock_buss_alias": "软饮料",
-        "index": 104
-    },
-    {
-        "stock_id": "CCI",
-        "stock_area": "US",
-        "stock_name": "冠城国际",
-        "stock_percent": 0.0,
-        "stock_value": 4641.4919,
-        "stock_buss_alias": "特种房地产投资信托",
-        "index": 105
     },
     {
         "stock_id": "RDS_A",
         "stock_area": "US",
         "stock_name": "壳牌A",
-        "stock_percent": 0.0,
-        "stock_value": 4625.1857,
+        "stock_percent": 4.6663,
+        "stock_value": 4841.0111,
         "stock_buss_alias": "综合性石油与天然气企业",
-        "index": 106
+        "index": 104
     },
     {
         "stock_id": "NOW",
         "stock_area": "US",
         "stock_name": "现在服务公司",
-        "stock_percent": 0.0,
-        "stock_value": 4610.3037,
+        "stock_percent": 4.4559,
+        "stock_value": 4815.733,
         "stock_buss_alias": "系统软件",
+        "index": 105
+    },
+    {
+        "stock_id": "SYK",
+        "stock_area": "US",
+        "stock_name": "史赛克",
+        "stock_percent": -1.1344,
+        "stock_value": 4766.0312,
+        "stock_buss_alias": "医疗保健设备",
+        "index": 106
+    },
+    {
+        "stock_id": "KOF",
+        "stock_area": "US",
+        "stock_name": "可口可乐凡萨瓶装",
+        "stock_percent": 0.0258,
+        "stock_value": 4699.596,
+        "stock_buss_alias": "软饮料",
         "index": 107
+    },
+    {
+        "stock_id": "CCI",
+        "stock_area": "US",
+        "stock_name": "冠城国际",
+        "stock_percent": 0.8438,
+        "stock_value": 4680.6552,
+        "stock_buss_alias": "特种房地产投资信托",
+        "index": 108
     },
     {
         "stock_id": "PLD",
         "stock_area": "US",
         "stock_name": "安博",
-        "stock_percent": 0.0,
-        "stock_value": 4567.5801,
+        "stock_percent": 0.3227,
+        "stock_value": 4582.3197,
         "stock_buss_alias": "工业房地产投资信托",
-        "index": 108
+        "index": 109
     },
     {
         "stock_id": "D",
         "stock_area": "US",
         "stock_name": "道明尼能源",
-        "stock_percent": 0.0,
-        "stock_value": 4513.1787,
+        "stock_percent": 0.2509,
+        "stock_value": 4524.5004,
         "stock_buss_alias": "复合型公用事业",
-        "index": 109
-    },
-    {
-        "stock_id": "AGN",
-        "stock_area": "US",
-        "stock_name": "艾尔建医疗",
-        "stock_percent": 0.0,
-        "stock_value": 4455.3594,
-        "stock_buss_alias": "制药",
         "index": 110
-    },
-    {
-        "stock_id": "CME",
-        "stock_area": "US",
-        "stock_name": "芝加哥商业交易所",
-        "stock_percent": 0.0,
-        "stock_value": 4432.5735,
-        "stock_buss_alias": "特殊金融服务",
-        "index": 111
     },
     {
         "stock_id": "EL",
         "stock_area": "US",
         "stock_name": "雅诗兰黛",
-        "stock_percent": 0.0,
-        "stock_value": 4422.8895,
+        "stock_percent": 1.0674,
+        "stock_value": 4470.0991,
         "stock_buss_alias": "个人用品",
-        "index": 112
-    },
-    {
-        "stock_id": "GS",
-        "stock_area": "US",
-        "stock_name": "高盛",
-        "stock_percent": 0.0,
-        "stock_value": 4336.5878,
-        "stock_buss_alias": "投资银行业与经纪业",
-        "index": 113
-    },
-    {
-        "stock_id": "DUK",
-        "stock_area": "US",
-        "stock_name": "杜克能源",
-        "stock_percent": 0.0,
-        "stock_value": 4319.356,
-        "stock_buss_alias": "电力公用事业",
-        "index": 114
+        "index": 111
     },
     {
         "stock_id": "ADP",
         "stock_area": "US",
         "stock_name": "自动数据处理",
-        "stock_percent": 0.0,
-        "stock_value": 4317.0062,
+        "stock_percent": 2.8915,
+        "stock_value": 4441.8303,
         "stock_buss_alias": "数据处理与外包服务",
-        "index": 115
+        "index": 112
     },
     {
-        "stock_id": "ZTS",
+        "stock_id": "AGN",
         "stock_area": "US",
-        "stock_name": "硕腾",
-        "stock_percent": 0.0,
-        "stock_value": 4312.5914,
+        "stock_name": "艾尔建医疗",
+        "stock_percent": -0.5482,
+        "stock_value": 4430.9358,
         "stock_buss_alias": "制药",
-        "index": 116
+        "index": 113
     },
     {
-        "stock_id": "MS",
+        "stock_id": "CME",
         "stock_area": "US",
-        "stock_name": "摩根士丹利",
-        "stock_percent": 0.0,
-        "stock_value": 4308.0342,
-        "stock_buss_alias": "投资银行业与经纪业",
-        "index": 117
+        "stock_name": "芝加哥商业交易所",
+        "stock_percent": -0.6281,
+        "stock_value": 4404.732,
+        "stock_buss_alias": "特殊金融服务",
+        "index": 114
+    },
+    {
+        "stock_id": "AMD",
+        "stock_area": "US",
+        "stock_name": "超威半导体",
+        "stock_percent": 5.3733,
+        "stock_value": 4383.2989,
+        "stock_buss_alias": "半导体产品",
+        "index": 115
     },
     {
         "stock_id": "ENB",
         "stock_area": "US",
         "stock_name": "恩桥",
-        "stock_percent": 0.0,
-        "stock_value": 4305.186,
+        "stock_percent": 0.8369,
+        "stock_value": 4341.2162,
         "stock_buss_alias": "石油与天然气的储存和运输",
-        "index": 118
-    },
-    {
-        "stock_id": "UL",
-        "stock_area": "US",
-        "stock_name": "联合利华(英国)",
-        "stock_percent": 0.0,
-        "stock_value": 4285.1059,
-        "stock_buss_alias": "个人用品",
-        "index": 119
-    },
-    {
-        "stock_id": "CAT",
-        "stock_area": "US",
-        "stock_name": "卡特彼勒",
-        "stock_percent": 0.0,
-        "stock_value": 4273.2857,
-        "stock_buss_alias": "工业机械",
-        "index": 120
-    },
-    {
-        "stock_id": "BKNG",
-        "stock_area": "US",
-        "stock_name": "普利斯林",
-        "stock_percent": 0.0,
-        "stock_value": 4222.5158,
-        "stock_buss_alias": "互联网与直销零售",
-        "index": 121
+        "index": 116
     },
     {
         "stock_id": "REGN",
         "stock_area": "US",
         "stock_name": "再生元制药",
-        "stock_percent": 0.0,
-        "stock_value": 4210.4108,
+        "stock_percent": 3.1067,
+        "stock_value": 4341.2162,
         "stock_buss_alias": "生物科技",
+        "index": 117
+    },
+    {
+        "stock_id": "DUK",
+        "stock_area": "US",
+        "stock_name": "杜克能源",
+        "stock_percent": -0.0115,
+        "stock_value": 4318.8575,
+        "stock_buss_alias": "电力公用事业",
+        "index": 118
+    },
+    {
+        "stock_id": "GS",
+        "stock_area": "US",
+        "stock_name": "高盛",
+        "stock_percent": -0.6042,
+        "stock_value": 4310.384,
+        "stock_buss_alias": "投资银行业与经纪业",
+        "index": 119
+    },
+    {
+        "stock_id": "ZTS",
+        "stock_area": "US",
+        "stock_name": "硕腾",
+        "stock_percent": -0.0693,
+        "stock_value": 4309.6007,
+        "stock_buss_alias": "制药",
+        "index": 120
+    },
+    {
+        "stock_id": "MS",
+        "stock_area": "US",
+        "stock_name": "摩根士丹利",
+        "stock_percent": -0.8066,
+        "stock_value": 4273.2857,
+        "stock_buss_alias": "投资银行业与经纪业",
+        "index": 121
+    },
+    {
+        "stock_id": "UL",
+        "stock_area": "US",
+        "stock_name": "联合利华(英国)",
+        "stock_percent": -1.0485,
+        "stock_value": 4240.1749,
+        "stock_buss_alias": "个人用品",
         "index": 122
     },
     {
         "stock_id": "CL",
         "stock_area": "US",
         "stock_name": "高露洁",
-        "stock_percent": 0.0,
-        "stock_value": 4179.6498,
+        "stock_percent": 1.3868,
+        "stock_value": 4237.6115,
         "stock_buss_alias": "居家用品",
         "index": 123
-    },
-    {
-        "stock_id": "AMD",
-        "stock_area": "US",
-        "stock_name": "超威半导体",
-        "stock_percent": 0.0,
-        "stock_value": 4159.7833,
-        "stock_buss_alias": "半导体产品",
-        "index": 124
     },
     {
         "stock_id": "ISRG",
         "stock_area": "US",
         "stock_name": "直觉外科",
-        "stock_percent": 0.0,
-        "stock_value": 4142.4803,
+        "stock_percent": 0.6274,
+        "stock_value": 4168.4704,
         "stock_buss_alias": "医疗保健设备",
+        "index": 124
+    },
+    {
+        "stock_id": "CAT",
+        "stock_area": "US",
+        "stock_name": "卡特彼勒",
+        "stock_percent": -2.851,
+        "stock_value": 4151.4522,
+        "stock_buss_alias": "工业机械",
         "index": 125
     },
     {
-        "stock_id": "TJX",
+        "stock_id": "RDS_B",
         "stock_area": "US",
-        "stock_name": "The TJX Companies Inc",
-        "stock_percent": 0.0,
-        "stock_value": 4115.3508,
-        "stock_buss_alias": "服装零售",
+        "stock_name": "壳牌B",
+        "stock_percent": 4.694,
+        "stock_value": 4146.6814,
+        "stock_buss_alias": "综合性石油与天然气企业",
         "index": 126
     },
     {
         "stock_id": "EQIX",
         "stock_area": "US",
         "stock_name": "易昆尼克斯",
-        "stock_percent": 0.0,
-        "stock_value": 4104.5987,
+        "stock_percent": 0.7633,
+        "stock_value": 4135.9293,
         "stock_buss_alias": "互联网服务与基础设施",
         "index": 127
     },
@@ -1146,242 +1146,242 @@
         "stock_id": "SO",
         "stock_area": "US",
         "stock_name": "南方电力",
-        "stock_percent": 0.0,
-        "stock_value": 4095.1995,
+        "stock_percent": 0.9372,
+        "stock_value": 4133.5795,
         "stock_buss_alias": "电力公用事业",
         "index": 128
     },
     {
-        "stock_id": "CNI",
+        "stock_id": "BKNG",
         "stock_area": "US",
-        "stock_name": "加拿大国家铁路",
-        "stock_percent": 0.0,
-        "stock_value": 4094.6298,
-        "stock_buss_alias": "铁路",
+        "stock_name": "普利斯林",
+        "stock_percent": -2.4503,
+        "stock_value": 4119.0535,
+        "stock_buss_alias": "互联网与直销零售",
         "index": 129
-    },
-    {
-        "stock_id": "GE",
-        "stock_area": "US",
-        "stock_name": "通用电气(US)",
-        "stock_percent": 0.0,
-        "stock_value": 4048.4883,
-        "stock_buss_alias": "工业集团企业",
-        "index": 130
     },
     {
         "stock_id": "BHP",
         "stock_area": "US",
         "stock_name": "必和必拓(US ADR)",
-        "stock_percent": 0.0,
-        "stock_value": 4031.6125,
+        "stock_percent": 1.1445,
+        "stock_value": 4077.754,
         "stock_buss_alias": "多种金属与采矿",
+        "index": 130
+    },
+    {
+        "stock_id": "TJX",
+        "stock_area": "US",
+        "stock_name": "The TJX Companies Inc",
+        "stock_percent": -1.1402,
+        "stock_value": 4068.426,
+        "stock_buss_alias": "服装零售",
         "index": 131
+    },
+    {
+        "stock_id": "CNI",
+        "stock_area": "US",
+        "stock_name": "加拿大国家铁路",
+        "stock_percent": -1.1686,
+        "stock_value": 4046.7794,
+        "stock_buss_alias": "铁路",
+        "index": 132
     },
     {
         "stock_id": "RIO",
         "stock_area": "US",
         "stock_name": "力拓(US)",
-        "stock_percent": 0.0,
-        "stock_value": 4027.2689,
+        "stock_percent": -0.1326,
+        "stock_value": 4021.9285,
         "stock_buss_alias": "多种金属与采矿",
-        "index": 132
-    },
-    {
-        "stock_id": "RDS_B",
-        "stock_area": "US",
-        "stock_name": "壳牌B",
-        "stock_percent": 0.0,
-        "stock_value": 3960.7625,
-        "stock_buss_alias": "综合性石油与天然气企业",
         "index": 133
     },
     {
-        "stock_id": "TAK",
+        "stock_id": "TGT",
         "stock_area": "US",
-        "stock_name": "武田制药",
-        "stock_percent": 0.0,
-        "stock_value": 3951.0073,
-        "stock_buss_alias": "制药",
+        "stock_name": "塔吉特",
+        "stock_percent": 3.2165,
+        "stock_value": 3975.8582,
+        "stock_buss_alias": "综合货品商店",
         "index": 134
     },
     {
         "stock_id": "ECL",
         "stock_area": "US",
         "stock_name": "艺康",
-        "stock_percent": 0.0,
-        "stock_value": 3912.2001,
+        "stock_percent": 0.799,
+        "stock_value": 3943.4595,
         "stock_buss_alias": "特种化学制品",
         "index": 135
+    },
+    {
+        "stock_id": "TAK",
+        "stock_area": "US",
+        "stock_name": "武田制药",
+        "stock_percent": -0.2811,
+        "stock_value": 3939.8992,
+        "stock_buss_alias": "制药",
+        "index": 136
+    },
+    {
+        "stock_id": "GE",
+        "stock_area": "US",
+        "stock_name": "通用电气(US)",
+        "stock_percent": -4.4621,
+        "stock_value": 3867.8387,
+        "stock_buss_alias": "工业集团企业",
+        "index": 137
     },
     {
         "stock_id": "NOC",
         "stock_area": "US",
         "stock_name": "诺斯罗普-格鲁曼(US)",
-        "stock_percent": 0.0,
-        "stock_value": 3894.1137,
-        "stock_buss_alias": "航天航空与国防",
-        "index": 136
-    },
-    {
-        "stock_id": "TGT",
-        "stock_area": "US",
-        "stock_name": "塔吉特",
-        "stock_percent": 0.0,
-        "stock_value": 3851.9598,
-        "stock_buss_alias": "综合货品商店",
-        "index": 137
-    },
-    {
-        "stock_id": "RTX",
-        "stock_area": "US",
-        "stock_name": "雷神技术",
-        "stock_percent": 0.0,
-        "stock_value": 3769.0048,
+        "stock_percent": -1.675,
+        "stock_value": 3828.889,
         "stock_buss_alias": "航天航空与国防",
         "index": 138
-    },
-    {
-        "stock_id": "USB",
-        "stock_area": "US",
-        "stock_name": "美国合众",
-        "stock_percent": 0.0,
-        "stock_value": 3746.8597,
-        "stock_buss_alias": "综合性银行",
-        "index": 139
     },
     {
         "stock_id": "VMW",
         "stock_area": "US",
         "stock_name": "威睿",
-        "stock_percent": 0.0,
-        "stock_value": 3730.696,
+        "stock_percent": 0.7978,
+        "stock_value": 3760.4601,
         "stock_buss_alias": "系统软件",
-        "index": 140
+        "index": 139
     },
     {
-        "stock_id": "ITW",
+        "stock_id": "USB",
         "stock_area": "US",
-        "stock_name": "伊利诺伊工具",
-        "stock_percent": 0.0,
-        "stock_value": 3605.0174,
-        "stock_buss_alias": "工业机械",
-        "index": 141
-    },
-    {
-        "stock_id": "BSX",
-        "stock_area": "US",
-        "stock_name": "波士顿科学",
-        "stock_percent": 0.0,
-        "stock_value": 3585.7205,
-        "stock_buss_alias": "医疗保健设备",
-        "index": 142
-    },
-    {
-        "stock_id": "MUFG",
-        "stock_area": "US",
-        "stock_name": "三菱日联金融",
-        "stock_percent": 0.0,
-        "stock_value": 3570.1976,
+        "stock_name": "美国合众",
+        "stock_percent": -1.3455,
+        "stock_value": 3696.4459,
         "stock_buss_alias": "综合性银行",
-        "index": 143
-    },
-    {
-        "stock_id": "MU",
-        "stock_area": "US",
-        "stock_name": "美光科技",
-        "stock_percent": 0.0,
-        "stock_value": 3568.4887,
-        "stock_buss_alias": "半导体产品",
-        "index": 144
+        "index": 140
     },
     {
         "stock_id": "ATVI",
         "stock_area": "US",
         "stock_name": "动视暴雪",
-        "stock_percent": 0.0,
-        "stock_value": 3550.1887,
+        "stock_percent": 3.0607,
+        "stock_value": 3658.8491,
         "stock_buss_alias": "互动家庭娱乐",
-        "index": 145
+        "index": 141
     },
     {
-        "stock_id": "CSX",
+        "stock_id": "RTX",
         "stock_area": "US",
-        "stock_name": "CSX运输",
-        "stock_percent": 0.0,
-        "stock_value": 3542.8545,
-        "stock_buss_alias": "铁路",
-        "index": 146
+        "stock_name": "雷神技术",
+        "stock_percent": -3.6973,
+        "stock_value": 3629.6546,
+        "stock_buss_alias": "航天航空与国防",
+        "index": 142
     },
     {
         "stock_id": "NEM",
         "stock_area": "US",
         "stock_name": "纽蒙特",
-        "stock_percent": 0.0,
-        "stock_value": 3508.106,
+        "stock_percent": 2.8701,
+        "stock_value": 3608.7913,
         "stock_buss_alias": "黄金",
-        "index": 147
+        "index": 143
+    },
+    {
+        "stock_id": "ITW",
+        "stock_area": "US",
+        "stock_name": "伊利诺伊工具",
+        "stock_percent": -0.6953,
+        "stock_value": 3579.9529,
+        "stock_buss_alias": "工业机械",
+        "index": 144
+    },
+    {
+        "stock_id": "BSX",
+        "stock_area": "US",
+        "stock_name": "波士顿科学",
+        "stock_percent": -0.4448,
+        "stock_value": 3569.7704,
+        "stock_buss_alias": "医疗保健设备",
+        "index": 145
     },
     {
         "stock_id": "HUM",
         "stock_area": "US",
         "stock_name": "哈门那",
-        "stock_percent": 0.0,
-        "stock_value": 3502.0535,
+        "stock_percent": 1.5046,
+        "stock_value": 3554.7459,
         "stock_buss_alias": "管理型保健护理",
-        "index": 148
-    },
-    {
-        "stock_id": "APD",
-        "stock_area": "US",
-        "stock_name": "空气化工",
-        "stock_percent": 0.0,
-        "stock_value": 3495.1465,
-        "stock_buss_alias": "工业气体",
-        "index": 149
-    },
-    {
-        "stock_id": "UBER",
-        "stock_area": "US",
-        "stock_name": "优步",
-        "stock_percent": 0.0,
-        "stock_value": 3491.7998,
-        "stock_buss_alias": "公路与铁路",
-        "index": 150
+        "index": 146
     },
     {
         "stock_id": "MMC",
         "stock_area": "US",
         "stock_name": "威达信",
-        "stock_percent": 0.0,
-        "stock_value": 3485.3913,
+        "stock_percent": 1.6875,
+        "stock_value": 3544.2074,
         "stock_buss_alias": "保险经纪商",
-        "index": 151
+        "index": 147
     },
     {
-        "stock_id": "SHW",
+        "stock_id": "MU",
         "stock_area": "US",
-        "stock_name": "宣伟",
-        "stock_percent": 0.0,
-        "stock_value": 3457.1937,
-        "stock_buss_alias": "特种化学制品",
-        "index": 152
+        "stock_name": "美光科技",
+        "stock_percent": -1.3309,
+        "stock_value": 3520.9943,
+        "stock_buss_alias": "半导体产品",
+        "index": 148
+    },
+    {
+        "stock_id": "MUFG",
+        "stock_area": "US",
+        "stock_name": "三菱日联金融",
+        "stock_percent": -1.5457,
+        "stock_value": 3515.013,
+        "stock_buss_alias": "综合性银行",
+        "index": 149
+    },
+    {
+        "stock_id": "APD",
+        "stock_area": "US",
+        "stock_name": "空气化工",
+        "stock_percent": 0.4951,
+        "stock_value": 3512.4496,
+        "stock_buss_alias": "工业气体",
+        "index": 150
     },
     {
         "stock_id": "ICE",
         "stock_area": "US",
         "stock_name": "洲际交易所",
-        "stock_percent": 0.0,
-        "stock_value": 3455.0575,
+        "stock_percent": 1.1273,
+        "stock_value": 3494.0072,
         "stock_buss_alias": "特殊金融服务",
+        "index": 151
+    },
+    {
+        "stock_id": "CSX",
+        "stock_area": "US",
+        "stock_name": "CSX运输",
+        "stock_percent": -1.9375,
+        "stock_value": 3474.2119,
+        "stock_buss_alias": "铁路",
+        "index": 152
+    },
+    {
+        "stock_id": "SHW",
+        "stock_area": "US",
+        "stock_name": "宣伟",
+        "stock_percent": 0.4572,
+        "stock_value": 3473.0014,
+        "stock_buss_alias": "特种化学制品",
         "index": 153
     },
     {
         "stock_id": "GPN",
         "stock_area": "US",
         "stock_name": "环汇",
-        "stock_percent": 0.0,
-        "stock_value": 3454.4167,
+        "stock_percent": 0.4762,
+        "stock_value": 3470.8653,
         "stock_buss_alias": "数据处理与外包服务",
         "index": 154
     },
@@ -1389,8 +1389,8 @@
         "stock_id": "GOLD",
         "stock_area": "US",
         "stock_name": "巴里克黄金",
-        "stock_percent": 0.0,
-        "stock_value": 3409.4857,
+        "stock_percent": 1.6729,
+        "stock_value": 3466.5217,
         "stock_buss_alias": "黄金",
         "index": 155
     },
@@ -1398,8 +1398,8 @@
         "stock_id": "BIIB",
         "stock_area": "US",
         "stock_name": "生化基因",
-        "stock_percent": 0.0,
-        "stock_value": 3405.7118,
+        "stock_percent": 1.1687,
+        "stock_value": 3445.5159,
         "stock_buss_alias": "生物科技",
         "index": 156
     },
@@ -1407,208 +1407,217 @@
         "stock_id": "TFC",
         "stock_area": "US",
         "stock_name": "Truist Financial Corp",
-        "stock_percent": 0.0,
-        "stock_value": 3394.1764,
+        "stock_percent": 0.3378,
+        "stock_value": 3405.6406,
         "stock_buss_alias": "区域性银行",
         "index": 157
-    },
-    {
-        "stock_id": "NSC",
-        "stock_area": "US",
-        "stock_name": "诺福克南方",
-        "stock_percent": 0.0,
-        "stock_value": 3372.6722,
-        "stock_buss_alias": "铁路",
-        "index": 158
     },
     {
         "stock_id": "BAM",
         "stock_area": "US",
         "stock_name": "布鲁克菲尔德资产管理",
-        "stock_percent": 0.0,
-        "stock_value": 3350.8119,
+        "stock_percent": 0.9456,
+        "stock_value": 3382.4986,
         "stock_buss_alias": "多样化房地产活动",
+        "index": 158
+    },
+    {
+        "stock_id": "UBER",
+        "stock_area": "US",
+        "stock_name": "优步",
+        "stock_percent": -3.4178,
+        "stock_value": 3372.4586,
+        "stock_buss_alias": "公路与铁路",
         "index": 159
     },
     {
-        "stock_id": "SCHW",
+        "stock_id": "NSC",
         "stock_area": "US",
-        "stock_name": "嘉信理财",
-        "stock_percent": 0.0,
-        "stock_value": 3341.0567,
-        "stock_buss_alias": "投资银行业与经纪业",
+        "stock_name": "诺福克南方",
+        "stock_percent": -1.594,
+        "stock_value": 3318.9117,
+        "stock_buss_alias": "铁路",
         "index": 160
-    },
-    {
-        "stock_id": "BNS",
-        "stock_area": "US",
-        "stock_name": "加拿大丰业银行",
-        "stock_percent": 0.0,
-        "stock_value": 3337.7812,
-        "stock_buss_alias": "综合性银行",
-        "index": 161
     },
     {
         "stock_id": "KMB",
         "stock_area": "US",
         "stock_name": "金佰利",
-        "stock_percent": 0.0,
-        "stock_value": 3316.7755,
+        "stock_percent": -0.7686,
+        "stock_value": 3291.2837,
         "stock_buss_alias": "居家用品",
-        "index": 162
+        "index": 161
     },
     {
-        "stock_id": "CB",
+        "stock_id": "BNS",
         "stock_area": "US",
-        "stock_name": "安达保险",
-        "stock_percent": 0.0,
-        "stock_value": 3265.0799,
-        "stock_buss_alias": "财产与意外伤害保险",
-        "index": 163
+        "stock_name": "加拿大丰业银行",
+        "stock_percent": -1.4763,
+        "stock_value": 3288.5067,
+        "stock_buss_alias": "综合性银行",
+        "index": 162
     },
     {
         "stock_id": "MCO",
         "stock_area": "US",
         "stock_name": "穆迪",
-        "stock_percent": 0.0,
-        "stock_value": 3229.1209,
+        "stock_percent": 1.4686,
+        "stock_value": 3276.5441,
         "stock_buss_alias": "特殊金融服务",
+        "index": 163
+    },
+    {
+        "stock_id": "SCHW",
+        "stock_area": "US",
+        "stock_name": "嘉信理财",
+        "stock_percent": -2.2485,
+        "stock_value": 3265.9344,
+        "stock_buss_alias": "投资银行业与经纪业",
         "index": 164
     },
     {
         "stock_id": "ILMN",
         "stock_area": "US",
         "stock_name": "Illumina Inc",
-        "stock_percent": 0.0,
-        "stock_value": 3197.719,
+        "stock_percent": 0.7571,
+        "stock_value": 3221.9291,
         "stock_buss_alias": "生命科学工具和服务",
         "index": 165
+    },
+    {
+        "stock_id": "CB",
+        "stock_area": "US",
+        "stock_name": "安达保险",
+        "stock_percent": -2.2135,
+        "stock_value": 3192.8058,
+        "stock_buss_alias": "财产与意外伤害保险",
+        "index": 166
     },
     {
         "stock_id": "BAX",
         "stock_area": "US",
         "stock_name": "百特国际",
-        "stock_percent": 0.0,
-        "stock_value": 3182.6234,
+        "stock_percent": -0.6488,
+        "stock_value": 3161.9736,
         "stock_buss_alias": "医疗保健设备",
-        "index": 166
+        "index": 167
     },
     {
         "stock_id": "PGR",
         "stock_area": "US",
         "stock_name": "前进保险",
-        "stock_percent": 0.0,
-        "stock_value": 3174.9331,
+        "stock_percent": -0.4329,
+        "stock_value": 3161.1904,
         "stock_buss_alias": "财产与意外伤害保险",
-        "index": 167
-    },
-    {
-        "stock_id": "PNC",
-        "stock_area": "US",
-        "stock_name": "The PNC Financial Services Grou",
-        "stock_percent": 0.0,
-        "stock_value": 3108.7828,
-        "stock_buss_alias": "区域性银行",
         "index": 168
-    },
-    {
-        "stock_id": "RELX",
-        "stock_area": "US",
-        "stock_name": "RELX",
-        "stock_percent": 0.0,
-        "stock_value": 3106.8602,
-        "stock_buss_alias": "出版",
-        "index": 169
     },
     {
         "stock_id": "DG",
         "stock_area": "US",
         "stock_name": "达乐",
-        "stock_percent": 0.0,
-        "stock_value": 3098.3155,
+        "stock_percent": 1.4111,
+        "stock_value": 3142.036,
         "stock_buss_alias": "综合货品商店",
-        "index": 170
-    },
-    {
-        "stock_id": "DE",
-        "stock_area": "US",
-        "stock_name": "迪尔",
-        "stock_percent": 0.0,
-        "stock_value": 3085.9968,
-        "stock_buss_alias": "建筑机械与重型卡车",
-        "index": 171
-    },
-    {
-        "stock_id": "EW",
-        "stock_area": "US",
-        "stock_name": "爱德华兹生命科学",
-        "stock_percent": 0.0,
-        "stock_value": 3078.805,
-        "stock_buss_alias": "医疗保健设备",
-        "index": 172
+        "index": 169
     },
     {
         "stock_id": "AMAT",
         "stock_area": "US",
         "stock_name": "应用材料",
-        "stock_percent": 0.0,
-        "stock_value": 3066.0592,
+        "stock_percent": 1.4724,
+        "stock_value": 3111.2038,
         "stock_buss_alias": "半导体设备",
-        "index": 173
+        "index": 170
     },
     {
         "stock_id": "EQNR",
         "stock_area": "US",
         "stock_name": "Equinor ASA ADR",
-        "stock_percent": 0.0,
-        "stock_value": 3049.9666,
+        "stock_percent": 1.5432,
+        "stock_value": 3097.0338,
         "stock_buss_alias": "综合性石油与天然气企业",
-        "index": 174
-    },
-    {
-        "stock_id": "TRP",
-        "stock_area": "US",
-        "stock_name": "TC Energy Corp",
-        "stock_percent": 0.0,
-        "stock_value": 3018.9208,
-        "stock_buss_alias": "石油与天然气的储存和运输",
-        "index": 175
+        "index": 171
     },
     {
         "stock_id": "COP",
         "stock_area": "US",
         "stock_name": "康菲石油",
-        "stock_percent": 0.0,
-        "stock_value": 3001.1905,
+        "stock_percent": 3.1176,
+        "stock_value": 3094.7552,
         "stock_buss_alias": "石油与天然气的勘探与生产",
+        "index": 172
+    },
+    {
+        "stock_id": "RELX",
+        "stock_area": "US",
+        "stock_name": "RELX",
+        "stock_percent": -0.3988,
+        "stock_value": 3094.4703,
+        "stock_buss_alias": "出版",
+        "index": 173
+    },
+    {
+        "stock_id": "TRP",
+        "stock_area": "US",
+        "stock_name": "TC Energy Corp",
+        "stock_percent": 1.7029,
+        "stock_value": 3070.3315,
+        "stock_buss_alias": "石油与天然气的储存和运输",
+        "index": 174
+    },
+    {
+        "stock_id": "PNC",
+        "stock_area": "US",
+        "stock_name": "The PNC Financial Services Grou",
+        "stock_percent": -1.3193,
+        "stock_value": 3067.7681,
+        "stock_buss_alias": "区域性银行",
+        "index": 175
+    },
+    {
+        "stock_id": "EW",
+        "stock_area": "US",
+        "stock_name": "爱德华兹生命科学",
+        "stock_percent": -1.1425,
+        "stock_value": 3043.6293,
+        "stock_buss_alias": "医疗保健设备",
         "index": 176
     },
     {
         "stock_id": "WM",
         "stock_area": "US",
         "stock_name": "美国废物管理",
-        "stock_percent": 0.0,
-        "stock_value": 2962.4544,
+        "stock_percent": 1.3749,
+        "stock_value": 3003.1843,
         "stock_buss_alias": "环境与设施服务",
         "index": 177
+    },
+    {
+        "stock_id": "DE",
+        "stock_area": "US",
+        "stock_name": "迪尔",
+        "stock_percent": -3.798,
+        "stock_value": 2968.7918,
+        "stock_buss_alias": "建筑机械与重型卡车",
+        "index": 178
+    },
+    {
+        "stock_id": "AEP",
+        "stock_area": "US",
+        "stock_name": "美国电力",
+        "stock_percent": 2.041,
+        "stock_value": 2926.2818,
+        "stock_buss_alias": "电力公用事业",
+        "index": 179
     },
     {
         "stock_id": "AON",
         "stock_area": "US",
         "stock_name": "怡安保险",
-        "stock_percent": 0.0,
-        "stock_value": 2932.3343,
+        "stock_percent": -0.2963,
+        "stock_value": 2923.6472,
         "stock_buss_alias": "保险经纪商",
-        "index": 178
-    },
-    {
-        "stock_id": "LHX",
-        "stock_area": "US",
-        "stock_name": "L3Harris Technologies Inc",
-        "stock_percent": 0.0,
-        "stock_value": 2926.0682,
-        "stock_buss_alias": "通信设备",
-        "index": 179
+        "index": 180
     },
     {
         "stock_id": "VALE",
@@ -1617,96 +1626,96 @@
         "stock_percent": 0.0,
         "stock_value": 2914.0343,
         "stock_buss_alias": "钢铁",
-        "index": 180
-    },
-    {
-        "stock_id": "HMC",
-        "stock_area": "US",
-        "stock_name": "本田汽车",
-        "stock_percent": 0.0,
-        "stock_value": 2874.159,
-        "stock_buss_alias": "汽车制造商",
         "index": 181
-    },
-    {
-        "stock_id": "AEP",
-        "stock_area": "US",
-        "stock_name": "美国电力",
-        "stock_percent": 0.0,
-        "stock_value": 2867.7504,
-        "stock_buss_alias": "电力公用事业",
-        "index": 182
     },
     {
         "stock_id": "NGG",
         "stock_area": "US",
         "stock_name": "英国国家电网",
-        "stock_percent": 0.0,
-        "stock_value": 2865.8279,
+        "stock_percent": 1.2721,
+        "stock_value": 2902.2854,
         "stock_buss_alias": "复合型公用事业",
+        "index": 182
+    },
+    {
+        "stock_id": "LHX",
+        "stock_area": "US",
+        "stock_name": "L3Harris Technologies Inc",
+        "stock_percent": -1.392,
+        "stock_value": 2885.3383,
+        "stock_buss_alias": "通信设备",
         "index": 183
     },
     {
-        "stock_id": "ITUB",
+        "stock_id": "TEAM",
         "stock_area": "US",
-        "stock_name": "艾涛巴西联合银行",
+        "stock_name": "Atlassian Corp Plc-A",
         "stock_percent": 0.0,
-        "stock_value": 2810.5008,
-        "stock_buss_alias": "综合性银行",
+        "stock_value": 2850.8034,
+        "stock_buss_alias": "应用软件",
         "index": 184
-    },
-    {
-        "stock_id": "ABB",
-        "stock_area": "US",
-        "stock_name": "阿西布朗勃法瑞",
-        "stock_percent": 0.0,
-        "stock_value": 2793.7674,
-        "stock_buss_alias": "重型电气设备",
-        "index": 185
     },
     {
         "stock_id": "ZM",
         "stock_area": "US",
         "stock_name": "Zoom",
-        "stock_percent": 0.0,
-        "stock_value": 2752.6815,
+        "stock_percent": 3.5232,
+        "stock_value": 2849.6641,
         "stock_buss_alias": "应用软件",
+        "index": 185
+    },
+    {
+        "stock_id": "HMC",
+        "stock_area": "US",
+        "stock_name": "本田汽车",
+        "stock_percent": -1.0009,
+        "stock_value": 2845.3918,
+        "stock_buss_alias": "汽车制造商",
         "index": 186
     },
     {
-        "stock_id": "INFY",
+        "stock_id": "RACE",
         "stock_area": "US",
-        "stock_name": "印孚瑟斯",
-        "stock_percent": 0.0,
-        "stock_value": 2735.8057,
-        "stock_buss_alias": "信息科技咨询与其它服务",
+        "stock_name": "法拉利",
+        "stock_percent": 1.2709,
+        "stock_value": 2806.5845,
+        "stock_buss_alias": "汽车制造商",
         "index": 187
+    },
+    {
+        "stock_id": "ITUB",
+        "stock_area": "US",
+        "stock_name": "艾涛巴西联合银行",
+        "stock_percent": -0.494,
+        "stock_value": 2796.6156,
+        "stock_buss_alias": "综合性银行",
+        "index": 188
     },
     {
         "stock_id": "ADSK",
         "stock_area": "US",
         "stock_name": "欧特克",
-        "stock_percent": 0.0,
-        "stock_value": 2733.8832,
+        "stock_percent": 1.6591,
+        "stock_value": 2779.2414,
         "stock_buss_alias": "应用软件",
-        "index": 188
+        "index": 189
+    },
+    {
+        "stock_id": "ABB",
+        "stock_area": "US",
+        "stock_name": "阿西布朗勃法瑞",
+        "stock_percent": -1.5216,
+        "stock_value": 2751.2574,
+        "stock_buss_alias": "重型电气设备",
+        "index": 190
     },
     {
         "stock_id": "ADI",
         "stock_area": "US",
         "stock_name": "亚德诺",
-        "stock_percent": 0.0,
-        "stock_value": 2722.775,
+        "stock_percent": -0.2301,
+        "stock_value": 2716.5089,
         "stock_buss_alias": "半导体产品",
-        "index": 189
-    },
-    {
-        "stock_id": "PHG",
-        "stock_area": "US",
-        "stock_name": "飞利浦",
-        "stock_percent": 0.0,
-        "stock_value": 2708.1778,
-        "stock_buss_alias": "工业集团企业",
-        "index": 190
+        "index": 191
     }
 ]

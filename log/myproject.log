@@ -10112,3 +10112,48 @@ spawned uWSGI master process (pid: 19652)
 spawned uWSGI worker 1 (pid: 19657, cores: 1)
 spawned uWSGI worker 2 (pid: 19658, cores: 1)
 spawned uWSGI worker 3 (pid: 19659, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 2 seconds
+worker 2 buried after 2 seconds
+worker 3 buried after 2 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /home/whsasf/stockhey_project/myproject.sock removed.
+*** Starting uWSGI 2.0.18 (64bit) on [Mon May  4 23:59:37 2020] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-39) on 23 April 2020 11:07:30
+os: Linux-3.10.0-1062.12.1.el7.x86_64 #1 SMP Tue Feb 4 23:02:59 UTC 2020
+nodename: stockhey.com
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 2
+current working directory: /home/whsasf/stockhey_project
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/whsasf/stockhey_project
+your processes number limit is 31199
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/whsasf/stockhey_project/myproject.sock fd 3
+uwsgi socket 1 bound to TCP address 127.0.0.1:8888 fd 4
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.8.2 (default, Apr 23 2020, 19:04:10)  [GCC 4.8.5 20150623 (Red Hat 4.8.5-39)]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0xb27e30
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 291616 bytes (284 KB) for 3 cores
+*** Operational MODE: preforking ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0xb27e30 pid: 3993 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 3993)
+spawned uWSGI worker 1 (pid: 3996, cores: 1)
+spawned uWSGI worker 2 (pid: 3997, cores: 1)
+spawned uWSGI worker 3 (pid: 4004, cores: 1)

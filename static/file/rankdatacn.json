@@ -3,8 +3,8 @@
         "stock_id": "09988",
         "stock_area": "HK",
         "stock_name": "阿里巴巴-SW",
-        "stock_percent": -3.7825,
-        "stock_value": 37378.88,
+        "stock_percent": -0.4806,
+        "stock_value": 37199.25,
         "stock_buss_alias": "软件服务",
         "index": 1
     },
@@ -12,8 +12,8 @@
         "stock_id": "BABA",
         "stock_area": "US",
         "stock_name": "阿里巴巴",
-        "stock_percent": 0.0,
-        "stock_value": 37150.7336,
+        "stock_percent": -1.7122,
+        "stock_value": 36514.6504,
         "stock_buss_alias": "互联网服务与基础设施",
         "index": 2
     },
@@ -21,19 +21,10 @@
         "stock_id": "00700",
         "stock_area": "HK",
         "stock_name": "腾讯控股",
-        "stock_percent": -4.0201,
-        "stock_value": 35082.88,
+        "stock_percent": 1.5817,
+        "stock_value": 35637.8,
         "stock_buss_alias": "软件服务",
         "index": 3
-    },
-    {
-        "stock_id": "TSM",
-        "stock_area": "US",
-        "stock_name": "台积电",
-        "stock_percent": 0.0,
-        "stock_value": 18870.1596,
-        "stock_buss_alias": "半导体产品",
-        "index": 4
     },
     {
         "stock_id": "601398",
@@ -42,16 +33,16 @@
         "stock_percent": 0.0,
         "stock_value": 18426.2,
         "stock_buss_alias": "银行",
-        "index": 5
+        "index": 4
     },
     {
         "stock_id": "01398",
         "stock_area": "HK",
         "stock_name": "工商银行",
-        "stock_percent": -4.2553,
-        "stock_value": 16531.2,
+        "stock_percent": 0.0109,
+        "stock_value": 16533.0,
         "stock_buss_alias": "银行",
-        "index": 6
+        "index": 5
     },
     {
         "stock_id": "601939",
@@ -60,7 +51,7 @@
         "stock_percent": 0.0,
         "stock_value": 16075.71,
         "stock_buss_alias": "银行",
-        "index": 7
+        "index": 6
     },
     {
         "stock_id": "600519",
@@ -69,16 +60,16 @@
         "stock_percent": 0.0,
         "stock_value": 15899.7,
         "stock_buss_alias": "酿酒行业",
-        "index": 8
+        "index": 7
     },
     {
         "stock_id": "00939",
         "stock_area": "HK",
         "stock_name": "建设银行",
-        "stock_percent": -3.7975,
-        "stock_value": 13959.68,
+        "stock_percent": 0.0109,
+        "stock_value": 13961.2,
         "stock_buss_alias": "银行",
-        "index": 9
+        "index": 8
     },
     {
         "stock_id": "601318",
@@ -87,16 +78,16 @@
         "stock_percent": 0.0,
         "stock_value": 13611.47,
         "stock_buss_alias": "保险",
-        "index": 10
+        "index": 9
     },
     {
         "stock_id": "02318",
         "stock_area": "HK",
         "stock_name": "中国平安",
-        "stock_percent": -2.0548,
-        "stock_value": 13133.12,
+        "stock_percent": 0.0109,
+        "stock_value": 13134.55,
         "stock_buss_alias": "保险",
-        "index": 11
+        "index": 10
     },
     {
         "stock_id": "601288",
@@ -105,25 +96,25 @@
         "stock_percent": 0.0,
         "stock_value": 12109.41,
         "stock_buss_alias": "银行",
+        "index": 11
+    },
+    {
+        "stock_id": "00941",
+        "stock_area": "HK",
+        "stock_name": "中国移动",
+        "stock_percent": 0.0109,
+        "stock_value": 11297.55,
+        "stock_buss_alias": "电讯",
         "index": 12
     },
     {
         "stock_id": "CHL",
         "stock_area": "US",
         "stock_name": "中国移动",
-        "stock_percent": 0.0,
-        "stock_value": 11302.2436,
+        "stock_percent": -0.2325,
+        "stock_value": 11275.9685,
         "stock_buss_alias": "无线电信业务",
         "index": 13
-    },
-    {
-        "stock_id": "00941",
-        "stock_area": "HK",
-        "stock_name": "中国移动",
-        "stock_percent": -3.9063,
-        "stock_value": 11296.32,
-        "stock_buss_alias": "电讯",
-        "index": 14
     },
     {
         "stock_id": "601988",
@@ -132,16 +123,16 @@
         "stock_percent": 0.0,
         "stock_value": 10244.7,
         "stock_buss_alias": "银行",
-        "index": 15
+        "index": 14
     },
     {
         "stock_id": "01288",
         "stock_area": "HK",
         "stock_name": "农业银行",
-        "stock_percent": -5.2632,
-        "stock_value": 9918.72,
+        "stock_percent": 0.0109,
+        "stock_value": 9919.8,
         "stock_buss_alias": "银行",
-        "index": 16
+        "index": 15
     },
     {
         "stock_id": "600036",
@@ -150,16 +141,16 @@
         "stock_percent": 0.0,
         "stock_value": 8849.64,
         "stock_buss_alias": "银行",
-        "index": 17
+        "index": 16
     },
     {
         "stock_id": "03968",
         "stock_area": "HK",
         "stock_name": "招商银行",
-        "stock_percent": -5.5181,
-        "stock_value": 8129.8329,
+        "stock_percent": 5.567,
+        "stock_value": 8582.4181,
         "stock_buss_alias": "银行",
-        "index": 18
+        "index": 17
     },
     {
         "stock_id": "601857",
@@ -168,7 +159,7 @@
         "stock_percent": 0.0,
         "stock_value": 8126.13,
         "stock_buss_alias": "石油行业",
-        "index": 19
+        "index": 18
     },
     {
         "stock_id": "601628",
@@ -177,33 +168,42 @@
         "stock_percent": 0.0,
         "stock_value": 8066.75,
         "stock_buss_alias": "保险",
-        "index": 20
+        "index": 19
     },
     {
         "stock_id": "03988",
         "stock_area": "HK",
         "stock_name": "中国银行",
-        "stock_percent": -3.367,
-        "stock_value": 7759.4973,
+        "stock_percent": 0.0109,
+        "stock_value": 7760.3422,
         "stock_buss_alias": "银行",
-        "index": 21
+        "index": 20
     },
     {
         "stock_id": "01299",
         "stock_area": "HK",
         "stock_name": "友邦保险",
-        "stock_percent": -5.6289,
-        "stock_value": 7538.6037,
+        "stock_percent": -0.0628,
+        "stock_value": 7533.8677,
         "stock_buss_alias": "保险",
-        "index": 22
+        "index": 21
     },
     {
         "stock_id": "00005",
         "stock_area": "HK",
         "stock_name": "汇丰控股",
-        "stock_percent": -4.0994,
-        "stock_value": 7334.7649,
+        "stock_percent": 1.0473,
+        "stock_value": 7411.5786,
         "stock_buss_alias": "银行",
+        "index": 22
+    },
+    {
+        "stock_id": "03690",
+        "stock_area": "HK",
+        "stock_name": "美团点评-W",
+        "stock_percent": 3.5864,
+        "stock_value": 5581.9909,
+        "stock_buss_alias": "软件服务",
         "index": 23
     },
     {
@@ -216,22 +216,13 @@
         "index": 24
     },
     {
-        "stock_id": "03690",
-        "stock_area": "HK",
-        "stock_name": "美团点评-W",
-        "stock_percent": -2.8719,
-        "stock_value": 5388.7304,
-        "stock_buss_alias": "软件服务",
-        "index": 25
-    },
-    {
         "stock_id": "000858",
         "stock_area": "CN",
         "stock_name": "五 粮 液",
         "stock_percent": 0.0,
         "stock_value": 5270.06,
         "stock_buss_alias": "酿酒行业",
-        "index": 26
+        "index": 25
     },
     {
         "stock_id": "601658",
@@ -240,43 +231,34 @@
         "stock_percent": 0.0,
         "stock_value": 4540.28,
         "stock_buss_alias": "银行",
-        "index": 27
-    },
-    {
-        "stock_id": "PTR",
-        "stock_area": "US",
-        "stock_name": "中石油",
-        "stock_percent": 0.0,
-        "stock_value": 4476.5788,
-        "stock_buss_alias": "综合性石油与天然气企业",
-        "index": 28
+        "index": 26
     },
     {
         "stock_id": "JD",
         "stock_area": "US",
         "stock_name": "京东",
-        "stock_percent": 0.0,
-        "stock_value": 4327.331,
+        "stock_percent": 2.1013,
+        "stock_value": 4418.2611,
         "stock_buss_alias": "互联网与直销零售",
-        "index": 29
+        "index": 27
     },
     {
         "stock_id": "00857",
         "stock_area": "HK",
         "stock_name": "中国石油股份",
-        "stock_percent": -8.6023,
-        "stock_value": 4286.2004,
+        "stock_percent": 1.9721,
+        "stock_value": 4370.7282,
         "stock_buss_alias": "石油及天然气",
-        "index": 30
+        "index": 28
     },
     {
-        "stock_id": "SNP",
+        "stock_id": "PTR",
         "stock_area": "US",
-        "stock_name": "中石化(US)",
-        "stock_percent": 0.0,
-        "stock_value": 4150.1705,
+        "stock_name": "中石油",
+        "stock_percent": -3.9018,
+        "stock_value": 4301.9105,
         "stock_buss_alias": "综合性石油与天然气企业",
-        "index": 31
+        "index": 29
     },
     {
         "stock_id": "600276",
@@ -285,43 +267,52 @@
         "stock_percent": 0.0,
         "stock_value": 4112.73,
         "stock_buss_alias": "医药制造",
-        "index": 32
-    },
-    {
-        "stock_id": "LFC",
-        "stock_area": "US",
-        "stock_name": "中国人寿",
-        "stock_percent": 0.0,
-        "stock_value": 4093.6329,
-        "stock_buss_alias": "人寿与健康保险",
-        "index": 33
+        "index": 30
     },
     {
         "stock_id": "02628",
         "stock_area": "HK",
         "stock_name": "中国人寿",
-        "stock_percent": -5.1994,
-        "stock_value": 4070.2661,
+        "stock_percent": 0.2659,
+        "stock_value": 4081.0884,
         "stock_buss_alias": "保险",
-        "index": 34
+        "index": 31
+    },
+    {
+        "stock_id": "LFC",
+        "stock_area": "US",
+        "stock_name": "中国人寿",
+        "stock_percent": -0.6871,
+        "stock_value": 4065.5066,
+        "stock_buss_alias": "人寿与健康保险",
+        "index": 32
     },
     {
         "stock_id": "00386",
         "stock_area": "HK",
         "stock_name": "中国石油化工股份",
-        "stock_percent": -8.4183,
-        "stock_value": 3991.7889,
+        "stock_percent": 1.6823,
+        "stock_value": 4058.9434,
         "stock_buss_alias": "石油及天然气",
-        "index": 35
+        "index": 33
+    },
+    {
+        "stock_id": "SNP",
+        "stock_area": "US",
+        "stock_name": "中石化(US)",
+        "stock_percent": -3.4692,
+        "stock_value": 4006.192,
+        "stock_buss_alias": "综合性石油与天然气企业",
+        "index": 34
     },
     {
         "stock_id": "PDD",
         "stock_area": "US",
         "stock_name": "拼多多",
-        "stock_percent": 0.0,
-        "stock_value": 3874.176,
+        "stock_percent": 2.0695,
+        "stock_value": 3954.354,
         "stock_buss_alias": "互联网与直销零售",
-        "index": 36
+        "index": 35
     },
     {
         "stock_id": "601328",
@@ -330,7 +321,7 @@
         "stock_percent": 0.0,
         "stock_value": 3846.81,
         "stock_buss_alias": "银行",
-        "index": 37
+        "index": 36
     },
     {
         "stock_id": "600900",
@@ -339,7 +330,7 @@
         "stock_percent": 0.0,
         "stock_value": 3839.0,
         "stock_buss_alias": "电力行业",
-        "index": 38
+        "index": 37
     },
     {
         "stock_id": "000333",
@@ -348,16 +339,7 @@
         "stock_percent": 0.0,
         "stock_value": 3754.68,
         "stock_buss_alias": "家电行业",
-        "index": 39
-    },
-    {
-        "stock_id": "CEO",
-        "stock_area": "US",
-        "stock_name": "中海油",
-        "stock_percent": 0.0,
-        "stock_value": 3457.0513,
-        "stock_buss_alias": "石油与天然气的勘探与生产",
-        "index": 40
+        "index": 38
     },
     {
         "stock_id": "601166",
@@ -366,25 +348,34 @@
         "stock_percent": 0.0,
         "stock_value": 3452.67,
         "stock_buss_alias": "银行",
-        "index": 41
-    },
-    {
-        "stock_id": "01658",
-        "stock_area": "HK",
-        "stock_name": "邮储银行",
-        "stock_percent": -8.3869,
-        "stock_value": 3402.9383,
-        "stock_buss_alias": "银行",
-        "index": 42
+        "index": 39
     },
     {
         "stock_id": "00883",
         "stock_area": "HK",
         "stock_name": "中国海洋石油",
-        "stock_percent": -7.1673,
-        "stock_value": 3345.9424,
+        "stock_percent": 2.8298,
+        "stock_value": 3440.6275,
         "stock_buss_alias": "石油及天然气",
-        "index": 43
+        "index": 40
+    },
+    {
+        "stock_id": "01658",
+        "stock_area": "HK",
+        "stock_name": "邮储银行",
+        "stock_percent": 0.7151,
+        "stock_value": 3427.2725,
+        "stock_buss_alias": "银行",
+        "index": 41
+    },
+    {
+        "stock_id": "CEO",
+        "stock_area": "US",
+        "stock_name": "中海油",
+        "stock_percent": -1.9403,
+        "stock_value": 3389.9752,
+        "stock_buss_alias": "石油与天然气的勘探与生产",
+        "index": 42
     },
     {
         "stock_id": "603288",
@@ -393,7 +384,7 @@
         "stock_percent": 0.0,
         "stock_value": 3319.56,
         "stock_buss_alias": "食品饮料",
-        "index": 44
+        "index": 43
     },
     {
         "stock_id": "000651",
@@ -402,6 +393,15 @@
         "stock_percent": 0.0,
         "stock_value": 3294.82,
         "stock_buss_alias": "家电行业",
+        "index": 44
+    },
+    {
+        "stock_id": "03328",
+        "stock_area": "HK",
+        "stock_name": "交通银行",
+        "stock_percent": 0.8655,
+        "stock_value": 3219.5262,
+        "stock_buss_alias": "银行",
         "index": 45
     },
     {
@@ -414,22 +414,13 @@
         "index": 46
     },
     {
-        "stock_id": "03328",
-        "stock_area": "HK",
-        "stock_name": "交通银行",
-        "stock_percent": -4.878,
-        "stock_value": 3191.8992,
-        "stock_buss_alias": "银行",
-        "index": 47
-    },
-    {
         "stock_id": "300750",
         "stock_area": "CN",
         "stock_name": "宁德时代",
         "stock_percent": 0.0,
         "stock_value": 3188.49,
         "stock_buss_alias": "汽车行业",
-        "index": 48
+        "index": 47
     },
     {
         "stock_id": "600585",
@@ -438,7 +429,7 @@
         "stock_percent": 0.0,
         "stock_value": 3177.46,
         "stock_buss_alias": "水泥建材",
-        "index": 49
+        "index": 48
     },
     {
         "stock_id": "601088",
@@ -447,7 +438,7 @@
         "stock_percent": 0.0,
         "stock_value": 3168.42,
         "stock_buss_alias": "煤炭采选",
-        "index": 50
+        "index": 49
     },
     {
         "stock_id": "600000",
@@ -456,7 +447,7 @@
         "stock_percent": 0.0,
         "stock_value": 3120.13,
         "stock_buss_alias": "银行",
-        "index": 51
+        "index": 50
     },
     {
         "stock_id": "300760",
@@ -465,7 +456,7 @@
         "stock_percent": 0.0,
         "stock_value": 3115.82,
         "stock_buss_alias": "医疗行业",
-        "index": 52
+        "index": 51
     },
     {
         "stock_id": "600030",
@@ -474,6 +465,15 @@
         "stock_percent": 0.0,
         "stock_value": 3063.65,
         "stock_buss_alias": "券商信托",
+        "index": 52
+    },
+    {
+        "stock_id": "NTES",
+        "stock_area": "US",
+        "stock_name": "网易",
+        "stock_percent": 1.3019,
+        "stock_value": 3030.6698,
+        "stock_buss_alias": "互联网服务与基础设施",
         "index": 53
     },
     {
@@ -495,12 +495,12 @@
         "index": 55
     },
     {
-        "stock_id": "NTES",
-        "stock_area": "US",
-        "stock_name": "网易",
-        "stock_percent": 0.0,
-        "stock_value": 2991.7201,
-        "stock_buss_alias": "互联网服务与基础设施",
+        "stock_id": "00388",
+        "stock_area": "HK",
+        "stock_name": "香港交易所",
+        "stock_percent": 2.9331,
+        "stock_value": 2953.1888,
+        "stock_buss_alias": "其他金融",
         "index": 56
     },
     {
@@ -516,19 +516,10 @@
         "stock_id": "00914",
         "stock_area": "HK",
         "stock_name": "海螺水泥",
-        "stock_percent": -2.7866,
-        "stock_value": 2886.0628,
+        "stock_percent": 0.7696,
+        "stock_value": 2908.2741,
         "stock_buss_alias": "建筑",
         "index": 58
-    },
-    {
-        "stock_id": "00388",
-        "stock_area": "HK",
-        "stock_name": "香港交易所",
-        "stock_percent": -2.2223,
-        "stock_value": 2869.0357,
-        "stock_buss_alias": "其他金融",
-        "index": 59
     },
     {
         "stock_id": "002714",
@@ -537,7 +528,7 @@
         "stock_percent": 0.0,
         "stock_value": 2808.67,
         "stock_buss_alias": "农牧饲渔",
-        "index": 60
+        "index": 59
     },
     {
         "stock_id": "601319",
@@ -546,7 +537,7 @@
         "stock_percent": 0.0,
         "stock_value": 2808.22,
         "stock_buss_alias": "保险",
-        "index": 61
+        "index": 60
     },
     {
         "stock_id": "601601",
@@ -555,34 +546,25 @@
         "stock_percent": 0.0,
         "stock_value": 2788.38,
         "stock_buss_alias": "保险",
-        "index": 62
+        "index": 61
     },
     {
         "stock_id": "00016",
         "stock_area": "HK",
         "stock_name": "新鸿基地产",
-        "stock_percent": -3.5716,
-        "stock_value": 2730.5134,
+        "stock_percent": 1.278,
+        "stock_value": 2765.4106,
         "stock_buss_alias": "地产",
+        "index": 62
+    },
+    {
+        "stock_id": "00788",
+        "stock_area": "HK",
+        "stock_name": "中国铁塔",
+        "stock_percent": 1.2086,
+        "stock_value": 2732.115,
+        "stock_buss_alias": "电讯",
         "index": 63
-    },
-    {
-        "stock_id": "00688",
-        "stock_area": "HK",
-        "stock_name": "中国海外发展五百",
-        "stock_percent": -5.4481,
-        "stock_value": 2706.7268,
-        "stock_buss_alias": "地产",
-        "index": 64
-    },
-    {
-        "stock_id": "01876",
-        "stock_area": "HK",
-        "stock_name": "百威亚太",
-        "stock_percent": 5.201,
-        "stock_value": 2706.2125,
-        "stock_buss_alias": "食物饮品",
-        "index": 65
     },
     {
         "stock_id": "000001",
@@ -591,16 +573,25 @@
         "stock_percent": 0.0,
         "stock_value": 2703.24,
         "stock_buss_alias": "银行",
-        "index": 66
+        "index": 64
     },
     {
-        "stock_id": "00788",
+        "stock_id": "01876",
         "stock_area": "HK",
-        "stock_name": "中国铁塔",
-        "stock_percent": -4.0231,
-        "stock_value": 2699.4899,
-        "stock_buss_alias": "电讯",
-        "index": 67
+        "stock_name": "百威亚太",
+        "stock_percent": -0.6635,
+        "stock_value": 2688.2566,
+        "stock_buss_alias": "食物饮品",
+        "index": 65
+    },
+    {
+        "stock_id": "00688",
+        "stock_area": "HK",
+        "stock_name": "中国海外发展五百",
+        "stock_percent": -0.7326,
+        "stock_value": 2686.8972,
+        "stock_buss_alias": "地产",
+        "index": 66
     },
     {
         "stock_id": "601066",
@@ -609,16 +600,16 @@
         "stock_percent": 0.0,
         "stock_value": 2675.47,
         "stock_buss_alias": "券商信托",
-        "index": 68
+        "index": 67
     },
     {
         "stock_id": "02995",
         "stock_area": "HK",
         "stock_name": "中国海外发展二千",
-        "stock_percent": 0.0,
-        "stock_value": 2631.2619,
+        "stock_percent": 0.0109,
+        "stock_value": 2631.5484,
         "stock_buss_alias": "地产",
-        "index": 69
+        "index": 68
     },
     {
         "stock_id": "600016",
@@ -627,16 +618,16 @@
         "stock_percent": 0.0,
         "stock_value": 2578.78,
         "stock_buss_alias": "银行",
-        "index": 70
+        "index": 69
     },
     {
         "stock_id": "02202",
         "stock_area": "HK",
         "stock_name": "万科企业",
-        "stock_percent": -4.0697,
-        "stock_value": 2569.022,
+        "stock_percent": 0.0109,
+        "stock_value": 2569.3017,
         "stock_buss_alias": "地产",
-        "index": 71
+        "index": 70
     },
     {
         "stock_id": "601998",
@@ -645,7 +636,7 @@
         "stock_percent": 0.0,
         "stock_value": 2544.61,
         "stock_buss_alias": "银行",
-        "index": 72
+        "index": 71
     },
     {
         "stock_id": "002475",
@@ -654,79 +645,79 @@
         "stock_percent": 0.0,
         "stock_value": 2541.4,
         "stock_buss_alias": "电子元件",
-        "index": 73
+        "index": 72
     },
     {
         "stock_id": "01088",
         "stock_area": "HK",
         "stock_name": "中国神华",
-        "stock_percent": -5.339,
-        "stock_value": 2396.5832,
+        "stock_percent": 0.6206,
+        "stock_value": 2411.4575,
         "stock_buss_alias": "煤炭",
-        "index": 74
-    },
-    {
-        "stock_id": "BIDU",
-        "stock_area": "US",
-        "stock_name": "百度",
-        "stock_percent": 0.0,
-        "stock_value": 2364.6088,
-        "stock_buss_alias": "互联网服务与基础设施",
-        "index": 75
+        "index": 73
     },
     {
         "stock_id": "00066",
         "stock_area": "HK",
         "stock_name": "港铁公司",
-        "stock_percent": -4.065,
-        "stock_value": 2335.8494,
+        "stock_percent": 2.6746,
+        "stock_value": 2398.3229,
         "stock_buss_alias": "旅游及消闲设施",
-        "index": 76
+        "index": 74
     },
     {
         "stock_id": "00011",
         "stock_area": "HK",
         "stock_name": "恒生银行",
-        "stock_percent": -3.2238,
-        "stock_value": 2319.4559,
+        "stock_percent": 0.8437,
+        "stock_value": 2339.0245,
         "stock_buss_alias": "银行",
-        "index": 77
+        "index": 75
+    },
+    {
+        "stock_id": "BIDU",
+        "stock_area": "US",
+        "stock_name": "百度",
+        "stock_percent": -1.3099,
+        "stock_value": 2333.6342,
+        "stock_buss_alias": "互联网服务与基础设施",
+        "index": 76
     },
     {
         "stock_id": "02388",
         "stock_area": "HK",
         "stock_name": "中银香港",
-        "stock_percent": -2.0967,
-        "stock_value": 2267.2908,
+        "stock_percent": 1.7245,
+        "stock_value": 2306.3902,
         "stock_buss_alias": "银行",
-        "index": 78
+        "index": 77
     },
     {
         "stock_id": "01928",
         "stock_area": "HK",
         "stock_name": "金沙中国有限公司",
-        "stock_percent": -4.7021,
-        "stock_value": 2258.364,
+        "stock_percent": 1.6556,
+        "stock_value": 2295.754,
         "stock_buss_alias": "旅游及消闲设施",
+        "index": 78
+    },
+    {
+        "stock_id": "01810",
+        "stock_area": "HK",
+        "stock_name": "小米集团-W",
+        "stock_percent": 0.8108,
+        "stock_value": 2227.1329,
+        "stock_buss_alias": "资讯科技器材",
         "index": 79
     },
     {
         "stock_id": "01988",
         "stock_area": "HK",
         "stock_name": "民生银行",
-        "stock_percent": -4.138,
-        "stock_value": 2235.6611,
+        "stock_percent": -0.5285,
+        "stock_value": 2223.8446,
         "stock_buss_alias": "银行",
         "index": 80
-    },
-    {
-        "stock_id": "01810",
-        "stock_area": "HK",
-        "stock_name": "小米集团-W",
-        "stock_percent": -1.9608,
-        "stock_value": 2209.2204,
-        "stock_buss_alias": "资讯科技器材",
-        "index": 81
     },
     {
         "stock_id": "600104",
@@ -735,7 +726,7 @@
         "stock_percent": 0.0,
         "stock_value": 2208.17,
         "stock_buss_alias": "汽车行业",
-        "index": 82
+        "index": 81
     },
     {
         "stock_id": "601668",
@@ -744,34 +735,34 @@
         "stock_percent": 0.0,
         "stock_value": 2198.97,
         "stock_buss_alias": "工程建设",
-        "index": 83
+        "index": 82
     },
     {
         "stock_id": "00241",
         "stock_area": "HK",
         "stock_name": "阿里健康",
-        "stock_percent": -4.7974,
-        "stock_value": 2121.7887,
+        "stock_percent": 0.3468,
+        "stock_value": 2129.1473,
         "stock_buss_alias": "药品及生物科技",
+        "index": 83
+    },
+    {
+        "stock_id": "00003",
+        "stock_area": "HK",
+        "stock_name": "香港中华煤气",
+        "stock_percent": 1.205,
+        "stock_value": 2107.9942,
+        "stock_buss_alias": "公用事业",
         "index": 84
     },
     {
         "stock_id": "TAL",
         "stock_area": "US",
         "stock_name": "好未来",
-        "stock_percent": 0.0,
-        "stock_value": 2102.5708,
+        "stock_percent": -0.6231,
+        "stock_value": 2089.4689,
         "stock_buss_alias": "教育服务",
         "index": 85
-    },
-    {
-        "stock_id": "00003",
-        "stock_area": "HK",
-        "stock_name": "香港中华煤气",
-        "stock_percent": -3.3187,
-        "stock_value": 2082.8945,
-        "stock_buss_alias": "公用事业",
-        "index": 86
     },
     {
         "stock_id": "002352",
@@ -780,43 +771,61 @@
         "stock_percent": 0.0,
         "stock_value": 2065.46,
         "stock_buss_alias": "交运物流",
-        "index": 87
+        "index": 86
     },
     {
         "stock_id": "00960",
         "stock_area": "HK",
         "stock_name": "龙湖集团",
-        "stock_percent": -5.7326,
-        "stock_value": 2035.4867,
+        "stock_percent": 0.2812,
+        "stock_value": 2041.2101,
         "stock_buss_alias": "地产",
-        "index": 88
+        "index": 87
     },
     {
         "stock_id": "02601",
         "stock_area": "HK",
         "stock_name": "中国太保",
-        "stock_percent": -5.8366,
-        "stock_value": 2014.0512,
+        "stock_percent": 0.4245,
+        "stock_value": 2022.6013,
         "stock_buss_alias": "保险",
-        "index": 89
+        "index": 88
     },
     {
         "stock_id": "01109",
         "stock_area": "HK",
         "stock_name": "华润置地",
-        "stock_percent": -5.8175,
-        "stock_value": 1961.4452,
+        "stock_percent": 2.1814,
+        "stock_value": 2004.2313,
         "stock_buss_alias": "地产",
+        "index": 89
+    },
+    {
+        "stock_id": "00027",
+        "stock_area": "HK",
+        "stock_name": "银河娱乐",
+        "stock_percent": 2.7833,
+        "stock_value": 1993.044,
+        "stock_buss_alias": "旅游及消闲设施",
         "index": 90
     },
     {
         "stock_id": "00001",
         "stock_area": "HK",
         "stock_name": "长和",
-        "stock_percent": -3.6585,
-        "stock_value": 1958.488,
+        "stock_percent": 1.0056,
+        "stock_value": 1978.1826,
         "stock_buss_alias": "综合企业",
         "index": 91
+    },
+    {
+        "stock_id": "00267",
+        "stock_area": "HK",
+        "stock_name": "中信股份",
+        "stock_percent": 1.1053,
+        "stock_value": 1974.5637,
+        "stock_buss_alias": "综合企业",
+        "index": 92
     },
     {
         "stock_id": "601818",
@@ -825,25 +834,7 @@
         "stock_percent": 0.0,
         "stock_value": 1957.85,
         "stock_buss_alias": "银行",
-        "index": 92
-    },
-    {
-        "stock_id": "00267",
-        "stock_area": "HK",
-        "stock_name": "中信股份",
-        "stock_percent": -9.4174,
-        "stock_value": 1952.9776,
-        "stock_buss_alias": "综合企业",
         "index": 93
-    },
-    {
-        "stock_id": "00027",
-        "stock_area": "HK",
-        "stock_name": "银河娱乐",
-        "stock_percent": -3.4688,
-        "stock_value": 1939.073,
-        "stock_buss_alias": "旅游及消闲设施",
-        "index": 94
     },
     {
         "stock_id": "600048",
@@ -852,23 +843,32 @@
         "stock_percent": 0.0,
         "stock_value": 1937.87,
         "stock_buss_alias": "房地产",
-        "index": 95
+        "index": 94
     },
     {
         "stock_id": "00728",
         "stock_area": "HK",
         "stock_name": "中国电信",
-        "stock_percent": -3.7452,
-        "stock_value": 1910.2353,
+        "stock_percent": 1.1783,
+        "stock_value": 1932.7444,
         "stock_buss_alias": "电讯",
+        "index": 95
+    },
+    {
+        "stock_id": "02007",
+        "stock_area": "HK",
+        "stock_name": "碧桂园",
+        "stock_percent": 1.1837,
+        "stock_value": 1906.5764,
+        "stock_buss_alias": "地产",
         "index": 96
     },
     {
         "stock_id": "CHA",
         "stock_area": "US",
         "stock_name": "中国电信",
-        "stock_percent": 0.0,
-        "stock_value": 1898.8504,
+        "stock_percent": -0.15,
+        "stock_value": 1896.0022,
         "stock_buss_alias": "综合电信业务",
         "index": 97
     },
@@ -882,22 +882,13 @@
         "index": 98
     },
     {
-        "stock_id": "02007",
-        "stock_area": "HK",
-        "stock_name": "碧桂园",
-        "stock_percent": -6.1063,
-        "stock_value": 1884.2721,
-        "stock_buss_alias": "地产",
-        "index": 99
-    },
-    {
         "stock_id": "00002",
         "stock_area": "HK",
         "stock_name": "中电控股",
-        "stock_percent": -2.2946,
-        "stock_value": 1877.1178,
+        "stock_percent": -0.2362,
+        "stock_value": 1872.6837,
         "stock_buss_alias": "公用事业",
-        "index": 100
+        "index": 99
     },
     {
         "stock_id": "601888",
@@ -906,7 +897,7 @@
         "stock_percent": 0.0,
         "stock_value": 1782.61,
         "stock_buss_alias": "旅游酒店",
-        "index": 101
+        "index": 100
     },
     {
         "stock_id": "600887",
@@ -915,7 +906,7 @@
         "stock_percent": 0.0,
         "stock_value": 1782.58,
         "stock_buss_alias": "食品饮料",
-        "index": 102
+        "index": 101
     },
     {
         "stock_id": "601766",
@@ -924,6 +915,15 @@
         "stock_percent": 0.0,
         "stock_value": 1776.46,
         "stock_buss_alias": "交运设备",
+        "index": 102
+    },
+    {
+        "stock_id": "03333",
+        "stock_area": "HK",
+        "stock_name": "中国恒大",
+        "stock_percent": 5.4909,
+        "stock_value": 1685.9159,
+        "stock_buss_alias": "地产",
         "index": 103
     },
     {
@@ -948,8 +948,8 @@
         "stock_id": "06030",
         "stock_area": "HK",
         "stock_name": "中信证券",
-        "stock_percent": -6.4172,
-        "stock_value": 1662.0744,
+        "stock_percent": 1.0111,
+        "stock_value": 1678.8802,
         "stock_buss_alias": "其他金融",
         "index": 106
     },
@@ -972,39 +972,39 @@
         "index": 108
     },
     {
+        "stock_id": "06862",
+        "stock_area": "HK",
+        "stock_name": "海底捞",
+        "stock_percent": 1.9719,
+        "stock_value": 1645.4009,
+        "stock_buss_alias": "旅游及消闲设施",
+        "index": 109
+    },
+    {
         "stock_id": "002594",
         "stock_area": "CN",
         "stock_name": "比亚迪",
         "stock_percent": 0.0,
         "stock_value": 1635.79,
         "stock_buss_alias": "汽车行业",
-        "index": 109
-    },
-    {
-        "stock_id": "00998",
-        "stock_area": "HK",
-        "stock_name": "中信银行",
-        "stock_percent": -4.4855,
-        "stock_value": 1626.8905,
-        "stock_buss_alias": "银行",
         "index": 110
-    },
-    {
-        "stock_id": "02359",
-        "stock_area": "HK",
-        "stock_name": "药明康德",
-        "stock_percent": -2.2827,
-        "stock_value": 1622.5465,
-        "stock_buss_alias": "药品及生物科技",
-        "index": 111
     },
     {
         "stock_id": "01113",
         "stock_area": "HK",
         "stock_name": "长实集团",
-        "stock_percent": -2.4489,
-        "stock_value": 1621.3893,
+        "stock_percent": 0.6386,
+        "stock_value": 1631.7428,
         "stock_buss_alias": "地产",
+        "index": 111
+    },
+    {
+        "stock_id": "00998",
+        "stock_area": "HK",
+        "stock_name": "中信银行",
+        "stock_percent": 0.287,
+        "stock_value": 1631.5591,
+        "stock_buss_alias": "银行",
         "index": 112
     },
     {
@@ -1017,22 +1017,13 @@
         "index": 113
     },
     {
-        "stock_id": "06862",
+        "stock_id": "02359",
         "stock_area": "HK",
-        "stock_name": "海底捞",
-        "stock_percent": -1.7778,
-        "stock_value": 1613.5829,
-        "stock_buss_alias": "旅游及消闲设施",
-        "index": 114
-    },
-    {
-        "stock_id": "03692",
-        "stock_area": "HK",
-        "stock_name": "翰森制药",
-        "stock_percent": -1.8275,
-        "stock_value": 1606.3367,
+        "stock_name": "药明康德",
+        "stock_percent": -0.2699,
+        "stock_value": 1618.1674,
         "stock_buss_alias": "药品及生物科技",
-        "index": 115
+        "index": 114
     },
     {
         "stock_id": "300498",
@@ -1041,16 +1032,16 @@
         "stock_percent": 0.0,
         "stock_value": 1605.67,
         "stock_buss_alias": "农牧饲渔",
-        "index": 116
+        "index": 115
     },
     {
-        "stock_id": "03333",
+        "stock_id": "03692",
         "stock_area": "HK",
-        "stock_name": "中国恒大",
-        "stock_percent": -4.5054,
-        "stock_value": 1598.1629,
-        "stock_buss_alias": "地产",
-        "index": 117
+        "stock_name": "翰森制药",
+        "stock_percent": -0.1584,
+        "stock_value": 1603.7928,
+        "stock_buss_alias": "药品及生物科技",
+        "index": 116
     },
     {
         "stock_id": "002607",
@@ -1059,25 +1050,25 @@
         "stock_percent": 0.0,
         "stock_value": 1590.57,
         "stock_buss_alias": "文教休闲",
+        "index": 117
+    },
+    {
+        "stock_id": "02020",
+        "stock_area": "HK",
+        "stock_name": "安踏体育",
+        "stock_percent": 0.653,
+        "stock_value": 1563.5442,
+        "stock_buss_alias": "纺织及服饰",
         "index": 118
     },
     {
         "stock_id": "ZTO",
         "stock_area": "US",
         "stock_name": "中通快递",
-        "stock_percent": 0.0,
-        "stock_value": 1585.7576,
+        "stock_percent": -2.9187,
+        "stock_value": 1539.4737,
         "stock_buss_alias": "航空货运与物流",
         "index": 119
-    },
-    {
-        "stock_id": "02020",
-        "stock_area": "HK",
-        "stock_name": "安踏体育",
-        "stock_percent": -4.3547,
-        "stock_value": 1553.4001,
-        "stock_buss_alias": "纺织及服饰",
-        "index": 120
     },
     {
         "stock_id": "601211",
@@ -1086,16 +1077,16 @@
         "stock_percent": 0.0,
         "stock_value": 1507.22,
         "stock_buss_alias": "券商信托",
-        "index": 121
+        "index": 120
     },
     {
         "stock_id": "06818",
         "stock_area": "HK",
         "stock_name": "中国光大银行",
-        "stock_percent": -6.0791,
-        "stock_value": 1489.5713,
+        "stock_percent": 0.3346,
+        "stock_value": 1494.5556,
         "stock_buss_alias": "银行",
-        "index": 122
+        "index": 121
     },
     {
         "stock_id": "002304",
@@ -1104,7 +1095,7 @@
         "stock_percent": 0.0,
         "stock_value": 1483.48,
         "stock_buss_alias": "酿酒行业",
-        "index": 123
+        "index": 122
     },
     {
         "stock_id": "600837",
@@ -1113,7 +1104,7 @@
         "stock_percent": 0.0,
         "stock_value": 1482.57,
         "stock_buss_alias": "券商信托",
-        "index": 124
+        "index": 123
     },
     {
         "stock_id": "002142",
@@ -1122,16 +1113,7 @@
         "stock_percent": 0.0,
         "stock_value": 1466.18,
         "stock_buss_alias": "银行",
-        "index": 125
-    },
-    {
-        "stock_id": "02328",
-        "stock_area": "HK",
-        "stock_name": "中国财险",
-        "stock_percent": -4.4414,
-        "stock_value": 1450.374,
-        "stock_buss_alias": "保险",
-        "index": 126
+        "index": 124
     },
     {
         "stock_id": "601390",
@@ -1140,7 +1122,7 @@
         "stock_percent": 0.0,
         "stock_value": 1439.86,
         "stock_buss_alias": "工程建设",
-        "index": 127
+        "index": 125
     },
     {
         "stock_id": "003816",
@@ -1149,7 +1131,16 @@
         "stock_percent": 0.0,
         "stock_value": 1439.21,
         "stock_buss_alias": "电力行业",
-        "index": 128
+        "index": 126
+    },
+    {
+        "stock_id": "02328",
+        "stock_area": "HK",
+        "stock_name": "中国财险",
+        "stock_percent": -1.1164,
+        "stock_value": 1434.1826,
+        "stock_buss_alias": "保险",
+        "index": 127
     },
     {
         "stock_id": "600309",
@@ -1158,6 +1149,15 @@
         "stock_percent": 0.0,
         "stock_value": 1412.89,
         "stock_buss_alias": "化工行业",
+        "index": 128
+    },
+    {
+        "stock_id": "01918",
+        "stock_area": "HK",
+        "stock_name": "融创中国",
+        "stock_percent": 3.6214,
+        "stock_value": 1410.5588,
+        "stock_buss_alias": "地产",
         "index": 129
     },
     {
@@ -1173,8 +1173,8 @@
         "stock_id": "02269",
         "stock_area": "HK",
         "stock_name": "药明生物",
-        "stock_percent": -3.5538,
-        "stock_value": 1394.2781,
+        "stock_percent": 0.1828,
+        "stock_value": 1396.8272,
         "stock_buss_alias": "药品及生物科技",
         "index": 131
     },
@@ -1188,13 +1188,22 @@
         "index": 132
     },
     {
+        "stock_id": "00762",
+        "stock_area": "HK",
+        "stock_name": "中国联通",
+        "stock_percent": 2.3077,
+        "stock_value": 1377.1162,
+        "stock_buss_alias": "电讯",
+        "index": 133
+    },
+    {
         "stock_id": "300015",
         "stock_area": "CN",
         "stock_name": "爱尔眼科",
         "stock_percent": 0.0,
         "stock_value": 1375.12,
         "stock_buss_alias": "医药制造",
-        "index": 133
+        "index": 134
     },
     {
         "stock_id": "600009",
@@ -1203,15 +1212,6 @@
         "stock_percent": 0.0,
         "stock_value": 1362.36,
         "stock_buss_alias": "民航机场",
-        "index": 134
-    },
-    {
-        "stock_id": "01918",
-        "stock_area": "HK",
-        "stock_name": "融创中国",
-        "stock_percent": -7.4128,
-        "stock_value": 1361.2617,
-        "stock_buss_alias": "地产",
         "index": 135
     },
     {
@@ -1224,31 +1224,13 @@
         "index": 136
     },
     {
-        "stock_id": "EDU",
-        "stock_area": "US",
-        "stock_name": "新东方",
-        "stock_percent": 0.0,
-        "stock_value": 1354.979,
-        "stock_buss_alias": "教育服务",
-        "index": 137
-    },
-    {
-        "stock_id": "CHU",
-        "stock_area": "US",
-        "stock_name": "中国联通",
-        "stock_percent": 0.0,
-        "stock_value": 1346.5055,
-        "stock_buss_alias": "综合电信业务",
-        "index": 138
-    },
-    {
-        "stock_id": "00762",
+        "stock_id": "00012",
         "stock_area": "HK",
-        "stock_name": "中国联通",
-        "stock_percent": -4.3915,
-        "stock_value": 1346.053,
-        "stock_buss_alias": "电讯",
-        "index": 139
+        "stock_name": "恒基地产",
+        "stock_percent": 0.6752,
+        "stock_value": 1347.3844,
+        "stock_buss_alias": "地产",
+        "index": 137
     },
     {
         "stock_id": "000895",
@@ -1257,16 +1239,25 @@
         "stock_percent": 0.0,
         "stock_value": 1341.32,
         "stock_buss_alias": "食品饮料",
-        "index": 140
+        "index": 138
     },
     {
-        "stock_id": "00012",
-        "stock_area": "HK",
-        "stock_name": "恒基地产",
-        "stock_percent": -5.0472,
-        "stock_value": 1338.3476,
-        "stock_buss_alias": "地产",
-        "index": 141
+        "stock_id": "CHU",
+        "stock_area": "US",
+        "stock_name": "中国联通",
+        "stock_percent": -0.8091,
+        "stock_value": 1335.6109,
+        "stock_buss_alias": "综合电信业务",
+        "index": 139
+    },
+    {
+        "stock_id": "EDU",
+        "stock_area": "US",
+        "stock_name": "新东方",
+        "stock_percent": -1.4662,
+        "stock_value": 1335.1125,
+        "stock_buss_alias": "教育服务",
+        "index": 140
     },
     {
         "stock_id": "601186",
@@ -1275,6 +1266,15 @@
         "stock_percent": 0.0,
         "stock_value": 1328.08,
         "stock_buss_alias": "工程建设",
+        "index": 141
+    },
+    {
+        "stock_id": "00384",
+        "stock_area": "HK",
+        "stock_name": "中国燃气",
+        "stock_percent": 1.2974,
+        "stock_value": 1320.5366,
+        "stock_buss_alias": "公用事业",
         "index": 142
     },
     {
@@ -1296,31 +1296,22 @@
         "index": 144
     },
     {
-        "stock_id": "00384",
+        "stock_id": "01177",
         "stock_area": "HK",
-        "stock_name": "中国燃气",
-        "stock_percent": -5.0611,
-        "stock_value": 1303.6229,
-        "stock_buss_alias": "公用事业",
+        "stock_name": "中国生物制药",
+        "stock_percent": 1.9581,
+        "stock_value": 1296.6189,
+        "stock_buss_alias": "药品及生物科技",
         "index": 145
     },
     {
         "stock_id": "06186",
         "stock_area": "HK",
         "stock_name": "中国飞鹤",
-        "stock_percent": -3.8369,
-        "stock_value": 1274.9596,
+        "stock_percent": 0.7832,
+        "stock_value": 1284.9448,
         "stock_buss_alias": "食物饮品",
         "index": 146
-    },
-    {
-        "stock_id": "01177",
-        "stock_area": "HK",
-        "stock_name": "中国生物制药",
-        "stock_percent": -2.9982,
-        "stock_value": 1271.7177,
-        "stock_buss_alias": "药品及生物科技",
-        "index": 147
     },
     {
         "stock_id": "300122",
@@ -1329,7 +1320,7 @@
         "stock_percent": 0.0,
         "stock_value": 1266.56,
         "stock_buss_alias": "医药制造",
-        "index": 148
+        "index": 147
     },
     {
         "stock_id": "601360",
@@ -1338,6 +1329,15 @@
         "stock_percent": 0.0,
         "stock_value": 1262.17,
         "stock_buss_alias": "软件服务",
+        "index": 148
+    },
+    {
+        "stock_id": "02313",
+        "stock_area": "HK",
+        "stock_name": "申洲国际",
+        "stock_percent": 4.5597,
+        "stock_value": 1253.6882,
+        "stock_buss_alias": "纺织及服饰",
         "index": 149
     },
     {
@@ -1386,22 +1386,13 @@
         "index": 154
     },
     {
-        "stock_id": "02313",
-        "stock_area": "HK",
-        "stock_name": "申洲国际",
-        "stock_percent": -3.8736,
-        "stock_value": 1199.0171,
-        "stock_buss_alias": "纺织及服饰",
-        "index": 155
-    },
-    {
         "stock_id": "01211",
         "stock_area": "HK",
         "stock_name": "比亚迪股份",
-        "stock_percent": -2.8686,
-        "stock_value": 1187.6198,
+        "stock_percent": 0.7495,
+        "stock_value": 1196.5208,
         "stock_buss_alias": "汽车",
-        "index": 156
+        "index": 155
     },
     {
         "stock_id": "601012",
@@ -1410,7 +1401,7 @@
         "stock_percent": 0.0,
         "stock_value": 1162.16,
         "stock_buss_alias": "材料行业",
-        "index": 157
+        "index": 156
     },
     {
         "stock_id": "600588",
@@ -1419,7 +1410,7 @@
         "stock_percent": 0.0,
         "stock_value": 1161.52,
         "stock_buss_alias": "软件服务",
-        "index": 158
+        "index": 157
     },
     {
         "stock_id": "601229",
@@ -1428,7 +1419,7 @@
         "stock_percent": 0.0,
         "stock_value": 1160.67,
         "stock_buss_alias": "银行",
-        "index": 159
+        "index": 158
     },
     {
         "stock_id": "000568",
@@ -1437,7 +1428,7 @@
         "stock_percent": 0.0,
         "stock_value": 1159.64,
         "stock_buss_alias": "酿酒行业",
-        "index": 160
+        "index": 159
     },
     {
         "stock_id": "000538",
@@ -1446,15 +1437,24 @@
         "stock_percent": 0.0,
         "stock_value": 1153.75,
         "stock_buss_alias": "医药制造",
+        "index": 160
+    },
+    {
+        "stock_id": "02888",
+        "stock_area": "HK",
+        "stock_name": "渣打集团",
+        "stock_percent": 2.2394,
+        "stock_value": 1130.5908,
+        "stock_buss_alias": "银行",
         "index": 161
     },
     {
-        "stock_id": "01972",
+        "stock_id": "00291",
         "stock_area": "HK",
-        "stock_name": "太古地产",
-        "stock_percent": -2.5291,
-        "stock_value": 1138.9997,
-        "stock_buss_alias": "地产",
+        "stock_name": "华润啤酒",
+        "stock_percent": 0.9439,
+        "stock_value": 1127.8445,
+        "stock_buss_alias": "食物饮品",
         "index": 162
     },
     {
@@ -1467,12 +1467,12 @@
         "index": 163
     },
     {
-        "stock_id": "00291",
+        "stock_id": "01972",
         "stock_area": "HK",
-        "stock_name": "华润啤酒",
-        "stock_percent": 1.4891,
-        "stock_value": 1117.2979,
-        "stock_buss_alias": "食物饮品",
+        "stock_name": "太古地产",
+        "stock_percent": -1.6406,
+        "stock_value": 1120.3128,
+        "stock_buss_alias": "地产",
         "index": 164
     },
     {
@@ -1485,20 +1485,20 @@
         "index": 165
     },
     {
-        "stock_id": "02888",
+        "stock_id": "01038",
         "stock_area": "HK",
-        "stock_name": "渣打集团",
-        "stock_percent": -3.662,
-        "stock_value": 1105.8271,
-        "stock_buss_alias": "银行",
+        "stock_name": "长江基建集团",
+        "stock_percent": 1.4588,
+        "stock_value": 1108.9785,
+        "stock_buss_alias": "公用事业",
         "index": 166
     },
     {
         "stock_id": "06808",
         "stock_area": "HK",
         "stock_name": "高鑫零售",
-        "stock_percent": -3.0961,
-        "stock_value": 1096.9094,
+        "stock_percent": 0.9697,
+        "stock_value": 1107.5457,
         "stock_buss_alias": "消费者主要零售商",
         "index": 167
     },
@@ -1512,12 +1512,12 @@
         "index": 168
     },
     {
-        "stock_id": "01038",
+        "stock_id": "02382",
         "stock_area": "HK",
-        "stock_name": "长江基建集团",
-        "stock_percent": -2.814,
-        "stock_value": 1093.0338,
-        "stock_buss_alias": "公用事业",
+        "stock_name": "舜宇光学科技",
+        "stock_percent": 3.6686,
+        "stock_value": 1085.0332,
+        "stock_buss_alias": "工业工程",
         "index": 169
     },
     {
@@ -1575,58 +1575,67 @@
         "index": 175
     },
     {
-        "stock_id": "02382",
-        "stock_area": "HK",
-        "stock_name": "舜宇光学科技",
-        "stock_percent": -5.6309,
-        "stock_value": 1046.6362,
-        "stock_buss_alias": "工业工程",
-        "index": 176
-    },
-    {
         "stock_id": "000776",
         "stock_area": "CN",
         "stock_name": "广发证券",
         "stock_percent": 0.0,
         "stock_value": 1044.85,
         "stock_buss_alias": "券商信托",
-        "index": 177
-    },
-    {
-        "stock_id": "01766",
-        "stock_area": "HK",
-        "stock_name": "中国中车",
-        "stock_percent": -3.6489,
-        "stock_value": 1043.7432,
-        "stock_buss_alias": "工业工程",
-        "index": 178
+        "index": 176
     },
     {
         "stock_id": "00020",
         "stock_area": "HK",
         "stock_name": "会德丰",
-        "stock_percent": -2.9957,
-        "stock_value": 1037.8747,
+        "stock_percent": 0.6472,
+        "stock_value": 1044.5917,
         "stock_buss_alias": "地产",
+        "index": 177
+    },
+    {
+        "stock_id": "00669",
+        "stock_area": "HK",
+        "stock_name": "创科实业",
+        "stock_percent": 8.8716,
+        "stock_value": 1043.1313,
+        "stock_buss_alias": "家庭电器及用品",
+        "index": 178
+    },
+    {
+        "stock_id": "01766",
+        "stock_area": "HK",
+        "stock_name": "中国中车",
+        "stock_percent": -0.2417,
+        "stock_value": 1041.2208,
+        "stock_buss_alias": "工业工程",
         "index": 179
     },
     {
-        "stock_id": "00390",
+        "stock_id": "02338",
         "stock_area": "HK",
-        "stock_name": "中国中铁",
-        "stock_percent": -1.717,
-        "stock_value": 1033.5214,
-        "stock_buss_alias": "建筑",
+        "stock_name": "潍柴动力",
+        "stock_percent": 2.4754,
+        "stock_value": 1030.4192,
+        "stock_buss_alias": "工业工程",
         "index": 180
     },
     {
         "stock_id": "01833",
         "stock_area": "HK",
         "stock_name": "平安好医生",
-        "stock_percent": -2.2342,
-        "stock_value": 1029.2141,
+        "stock_percent": -0.6558,
+        "stock_value": 1022.465,
         "stock_buss_alias": "医疗保健设备和服务",
         "index": 181
+    },
+    {
+        "stock_id": "00175",
+        "stock_area": "HK",
+        "stock_name": "吉利汽车",
+        "stock_percent": 4.7049,
+        "stock_value": 1022.1527,
+        "stock_buss_alias": "汽车",
+        "index": 182
     },
     {
         "stock_id": "600690",
@@ -1635,7 +1644,16 @@
         "stock_percent": 0.0,
         "stock_value": 1017.2,
         "stock_buss_alias": "家电行业",
-        "index": 182
+        "index": 183
+    },
+    {
+        "stock_id": "06886",
+        "stock_area": "HK",
+        "stock_name": "华泰证券",
+        "stock_percent": 1.8507,
+        "stock_value": 1015.4385,
+        "stock_buss_alias": "其他金融",
+        "index": 184
     },
     {
         "stock_id": "600015",
@@ -1644,16 +1662,16 @@
         "stock_percent": 0.0,
         "stock_value": 1009.4,
         "stock_buss_alias": "银行",
-        "index": 183
+        "index": 185
     },
     {
-        "stock_id": "01186",
+        "stock_id": "00390",
         "stock_area": "HK",
-        "stock_name": "中国铁建",
-        "stock_percent": -4.8239,
-        "stock_value": 1008.9359,
+        "stock_name": "中国中铁",
+        "stock_percent": -2.3913,
+        "stock_value": 1008.8069,
         "stock_buss_alias": "建筑",
-        "index": 184
+        "index": 186
     },
     {
         "stock_id": "601881",
@@ -1662,16 +1680,16 @@
         "stock_percent": 0.0,
         "stock_value": 1006.63,
         "stock_buss_alias": "券商信托",
-        "index": 185
+        "index": 187
     },
     {
-        "stock_id": "02338",
+        "stock_id": "01339",
         "stock_area": "HK",
-        "stock_name": "潍柴动力",
-        "stock_percent": 1.7698,
-        "stock_value": 1005.5286,
-        "stock_buss_alias": "工业工程",
-        "index": 186
+        "stock_name": "中国人民保险集团",
+        "stock_percent": 0.4172,
+        "stock_value": 1003.3051,
+        "stock_buss_alias": "保险",
+        "index": 188
     },
     {
         "stock_id": "601238",
@@ -1680,24 +1698,6 @@
         "stock_percent": 0.0,
         "stock_value": 1003.3,
         "stock_buss_alias": "汽车行业",
-        "index": 187
-    },
-    {
-        "stock_id": "01339",
-        "stock_area": "HK",
-        "stock_name": "中国人民保险集团",
-        "stock_percent": -3.1497,
-        "stock_value": 999.1365,
-        "stock_buss_alias": "保险",
-        "index": 188
-    },
-    {
-        "stock_id": "06886",
-        "stock_area": "HK",
-        "stock_name": "华泰证券",
-        "stock_percent": -7.4299,
-        "stock_value": 996.9875,
-        "stock_buss_alias": "其他金融",
         "index": 189
     },
     {
@@ -1710,31 +1710,49 @@
         "index": 190
     },
     {
+        "stock_id": "01186",
+        "stock_area": "HK",
+        "stock_name": "中国铁建",
+        "stock_percent": -1.4721,
+        "stock_value": 994.0834,
+        "stock_buss_alias": "建筑",
+        "index": 191
+    },
+    {
         "stock_id": "601899",
         "stock_area": "CN",
         "stock_name": "紫金矿业",
         "stock_percent": 0.0,
         "stock_value": 992.25,
         "stock_buss_alias": "贵金属",
-        "index": 191
+        "index": 192
     },
     {
         "stock_id": "00006",
         "stock_area": "HK",
         "stock_name": "电能实业",
-        "stock_percent": -2.6992,
-        "stock_value": 988.878,
+        "stock_percent": 0.3081,
+        "stock_value": 991.9249,
         "stock_buss_alias": "公用事业",
-        "index": 192
+        "index": 193
     },
     {
-        "stock_id": "00175",
+        "stock_id": "00288",
         "stock_area": "HK",
-        "stock_name": "吉利汽车",
-        "stock_percent": -4.7698,
-        "stock_value": 976.2225,
-        "stock_buss_alias": "汽车",
-        "index": 193
+        "stock_name": "万洲国际",
+        "stock_percent": 1.6948,
+        "stock_value": 980.7284,
+        "stock_buss_alias": "农业产品",
+        "index": 194
+    },
+    {
+        "stock_id": "02319",
+        "stock_area": "HK",
+        "stock_name": "蒙牛乳业",
+        "stock_percent": 3.0525,
+        "stock_value": 979.6537,
+        "stock_buss_alias": "食物饮品",
+        "index": 195
     },
     {
         "stock_id": "601933",
@@ -1743,7 +1761,7 @@
         "stock_percent": 0.0,
         "stock_value": 972.36,
         "stock_buss_alias": "商业百货",
-        "index": 194
+        "index": 196
     },
     {
         "stock_id": "600018",
@@ -1752,7 +1770,7 @@
         "stock_percent": 0.0,
         "stock_value": 968.66,
         "stock_buss_alias": "港口水运",
-        "index": 195
+        "index": 197
     },
     {
         "stock_id": "002938",
@@ -1761,25 +1779,16 @@
         "stock_percent": 0.0,
         "stock_value": 965.95,
         "stock_buss_alias": "电子元件",
-        "index": 196
-    },
-    {
-        "stock_id": "00288",
-        "stock_area": "HK",
-        "stock_name": "万洲国际",
-        "stock_percent": -4.6795,
-        "stock_value": 964.3843,
-        "stock_buss_alias": "农业产品",
-        "index": 197
-    },
-    {
-        "stock_id": "00669",
-        "stock_area": "HK",
-        "stock_name": "创科实业",
-        "stock_percent": -3.4716,
-        "stock_value": 958.13,
-        "stock_buss_alias": "家庭电器及用品",
         "index": 198
+    },
+    {
+        "stock_id": "00763",
+        "stock_area": "HK",
+        "stock_name": "中兴通讯",
+        "stock_percent": 2.5001,
+        "stock_value": 959.557,
+        "stock_buss_alias": "资讯科技器材",
+        "index": 199
     },
     {
         "stock_id": "601989",
@@ -1788,23 +1797,14 @@
         "stock_percent": 0.0,
         "stock_value": 950.84,
         "stock_buss_alias": "船舶制造",
-        "index": 199
-    },
-    {
-        "stock_id": "02319",
-        "stock_area": "HK",
-        "stock_name": "蒙牛乳业",
-        "stock_percent": -4.8822,
-        "stock_value": 950.6358,
-        "stock_buss_alias": "食物饮品",
         "index": 200
     },
     {
         "stock_id": "00813",
         "stock_area": "HK",
         "stock_name": "世茂房地产",
-        "stock_percent": -4.9519,
-        "stock_value": 945.2173,
+        "stock_percent": 0.5152,
+        "stock_value": 950.0872,
         "stock_buss_alias": "地产",
         "index": 201
     },
@@ -1812,19 +1812,10 @@
         "stock_id": "00270",
         "stock_area": "HK",
         "stock_name": "粤海投资",
-        "stock_percent": -2.6056,
-        "stock_value": 942.6825,
+        "stock_percent": 0.3928,
+        "stock_value": 946.3857,
         "stock_buss_alias": "公用事业",
         "index": 202
-    },
-    {
-        "stock_id": "00763",
-        "stock_area": "HK",
-        "stock_name": "中兴通讯",
-        "stock_percent": -0.4434,
-        "stock_value": 936.1527,
-        "stock_buss_alias": "资讯科技器材",
-        "index": 203
     },
     {
         "stock_id": "600809",
@@ -1833,7 +1824,7 @@
         "stock_percent": 0.0,
         "stock_value": 935.24,
         "stock_buss_alias": "酿酒行业",
-        "index": 204
+        "index": 203
     },
     {
         "stock_id": "600406",
@@ -1842,7 +1833,7 @@
         "stock_percent": 0.0,
         "stock_value": 929.01,
         "stock_buss_alias": "输配电气",
-        "index": 205
+        "index": 204
     },
     {
         "stock_id": "000617",
@@ -1851,7 +1842,7 @@
         "stock_percent": 0.0,
         "stock_value": 908.42,
         "stock_buss_alias": "多元金融",
-        "index": 206
+        "index": 205
     },
     {
         "stock_id": "603195",
@@ -1860,7 +1851,7 @@
         "stock_percent": 0.0,
         "stock_value": 901.62,
         "stock_buss_alias": "输配电气",
-        "index": 207
+        "index": 206
     },
     {
         "stock_id": "688012",
@@ -1869,7 +1860,7 @@
         "stock_percent": 0.0,
         "stock_value": 898.89,
         "stock_buss_alias": [],
-        "index": 208
+        "index": 207
     },
     {
         "stock_id": "600703",
@@ -1878,6 +1869,15 @@
         "stock_percent": 0.0,
         "stock_value": 895.62,
         "stock_buss_alias": "电子元件",
+        "index": 208
+    },
+    {
+        "stock_id": "02688",
+        "stock_area": "HK",
+        "stock_name": "新奥能源",
+        "stock_percent": 1.716,
+        "stock_value": 894.2057,
+        "stock_buss_alias": "公用事业",
         "index": 209
     },
     {
@@ -1890,31 +1890,22 @@
         "index": 210
     },
     {
-        "stock_id": "02688",
+        "stock_id": "01997",
         "stock_area": "HK",
-        "stock_name": "新奥能源",
-        "stock_percent": -2.911,
-        "stock_value": 879.12,
-        "stock_buss_alias": "公用事业",
+        "stock_name": "九龙仓置业",
+        "stock_percent": 1.9314,
+        "stock_value": 888.2262,
+        "stock_buss_alias": "地产",
         "index": 211
-    },
-    {
-        "stock_id": "01193",
-        "stock_area": "HK",
-        "stock_name": "华润燃气",
-        "stock_percent": -1.8263,
-        "stock_value": 878.2935,
-        "stock_buss_alias": "公用事业",
-        "index": 212
     },
     {
         "stock_id": "06098",
         "stock_area": "HK",
         "stock_name": "碧桂园服务",
-        "stock_percent": -2.9167,
-        "stock_value": 878.2384,
+        "stock_percent": 0.4397,
+        "stock_value": 882.0998,
         "stock_buss_alias": "地产",
-        "index": 213
+        "index": 212
     },
     {
         "stock_id": "002736",
@@ -1923,25 +1914,7 @@
         "stock_percent": 0.0,
         "stock_value": 876.58,
         "stock_buss_alias": "券商信托",
-        "index": 214
-    },
-    {
-        "stock_id": "01816",
-        "stock_area": "HK",
-        "stock_name": "中广核电力",
-        "stock_percent": -2.5774,
-        "stock_value": 876.5393,
-        "stock_buss_alias": "公用事业",
-        "index": 215
-    },
-    {
-        "stock_id": "01997",
-        "stock_area": "HK",
-        "stock_name": "九龙仓置业",
-        "stock_percent": -4.5798,
-        "stock_value": 871.3963,
-        "stock_buss_alias": "地产",
-        "index": 216
+        "index": 213
     },
     {
         "stock_id": "601916",
@@ -1950,7 +1923,7 @@
         "stock_percent": 0.0,
         "stock_value": 867.76,
         "stock_buss_alias": "银行",
-        "index": 217
+        "index": 214
     },
     {
         "stock_id": "002602",
@@ -1959,7 +1932,7 @@
         "stock_percent": 0.0,
         "stock_value": 865.51,
         "stock_buss_alias": "塑胶制品",
-        "index": 218
+        "index": 215
     },
     {
         "stock_id": "300601",
@@ -1968,7 +1941,7 @@
         "stock_percent": 0.0,
         "stock_value": 864.6,
         "stock_buss_alias": "医药制造",
-        "index": 219
+        "index": 216
     },
     {
         "stock_id": "600196",
@@ -1977,16 +1950,34 @@
         "stock_percent": 0.0,
         "stock_value": 861.9,
         "stock_buss_alias": "医药制造",
-        "index": 220
+        "index": 217
+    },
+    {
+        "stock_id": "01093",
+        "stock_area": "HK",
+        "stock_name": "石药集团",
+        "stock_percent": 3.4593,
+        "stock_value": 859.2108,
+        "stock_buss_alias": "药品及生物科技",
+        "index": 218
     },
     {
         "stock_id": "IQ",
         "stock_area": "US",
         "stock_name": "爱奇艺",
-        "stock_percent": 0.0,
-        "stock_value": 854.6144,
+        "stock_percent": 0.4333,
+        "stock_value": 858.3171,
         "stock_buss_alias": "互联网服务与基础设施",
-        "index": 221
+        "index": 219
+    },
+    {
+        "stock_id": "01193",
+        "stock_area": "HK",
+        "stock_name": "华润燃气",
+        "stock_percent": -2.3149,
+        "stock_value": 857.9617,
+        "stock_buss_alias": "公用事业",
+        "index": 220
     },
     {
         "stock_id": "000938",
@@ -1995,7 +1986,7 @@
         "stock_percent": 0.0,
         "stock_value": 851.08,
         "stock_buss_alias": "电子信息",
-        "index": 222
+        "index": 221
     },
     {
         "stock_id": "600436",
@@ -2004,15 +1995,24 @@
         "stock_percent": 0.0,
         "stock_value": 846.15,
         "stock_buss_alias": "医药制造",
+        "index": 222
+    },
+    {
+        "stock_id": "00017",
+        "stock_area": "HK",
+        "stock_name": "新世界发展",
+        "stock_percent": 1.9344,
+        "stock_value": 838.6824,
+        "stock_buss_alias": "地产",
         "index": 223
     },
     {
-        "stock_id": "01093",
+        "stock_id": "01816",
         "stock_area": "HK",
-        "stock_name": "石药集团",
-        "stock_percent": -5.8444,
-        "stock_value": 830.4816,
-        "stock_buss_alias": "药品及生物科技",
+        "stock_name": "中广核电力",
+        "stock_percent": -4.7517,
+        "stock_value": 834.8889,
+        "stock_buss_alias": "公用事业",
         "index": 224
     },
     {
@@ -2034,31 +2034,22 @@
         "index": 226
     },
     {
-        "stock_id": "00017",
-        "stock_area": "HK",
-        "stock_name": "新世界发展",
-        "stock_percent": -3.7165,
-        "stock_value": 822.767,
-        "stock_buss_alias": "地产",
-        "index": 227
-    },
-    {
-        "stock_id": "02611",
-        "stock_area": "HK",
-        "stock_name": "国泰君安",
-        "stock_percent": -10.4845,
-        "stock_value": 817.2842,
-        "stock_buss_alias": "其他金融",
-        "index": 228
-    },
-    {
         "stock_id": "000708",
         "stock_area": "CN",
         "stock_name": "中信特钢",
         "stock_percent": 0.0,
         "stock_value": 807.54,
         "stock_buss_alias": "钢铁行业",
-        "index": 229
+        "index": 227
+    },
+    {
+        "stock_id": "02611",
+        "stock_area": "HK",
+        "stock_name": "国泰君安",
+        "stock_percent": -1.2905,
+        "stock_value": 806.7369,
+        "stock_buss_alias": "其他金融",
+        "index": 228
     },
     {
         "stock_id": "300433",
@@ -2067,7 +2058,7 @@
         "stock_percent": 0.0,
         "stock_value": 800.93,
         "stock_buss_alias": "材料行业",
-        "index": 230
+        "index": 229
     },
     {
         "stock_id": "002916",
@@ -2076,7 +2067,7 @@
         "stock_percent": 0.0,
         "stock_value": 792.07,
         "stock_buss_alias": "电子元件",
-        "index": 231
+        "index": 230
     },
     {
         "stock_id": "600150",
@@ -2085,7 +2076,7 @@
         "stock_percent": 0.0,
         "stock_value": 789.09,
         "stock_buss_alias": "船舶制造",
-        "index": 232
+        "index": 231
     },
     {
         "stock_id": "002024",
@@ -2094,7 +2085,7 @@
         "stock_percent": 0.0,
         "stock_value": 783.91,
         "stock_buss_alias": "商业百货",
-        "index": 233
+        "index": 232
     },
     {
         "stock_id": "300454",
@@ -2103,16 +2094,7 @@
         "stock_percent": 0.0,
         "stock_value": 783.18,
         "stock_buss_alias": "软件服务",
-        "index": 234
-    },
-    {
-        "stock_id": "BGNE",
-        "stock_area": "US",
-        "stock_name": "百济神州",
-        "stock_percent": 0.0,
-        "stock_value": 772.1579,
-        "stock_buss_alias": "生物科技",
-        "index": 235
+        "index": 233
     },
     {
         "stock_id": "601009",
@@ -2121,7 +2103,16 @@
         "stock_percent": 0.0,
         "stock_value": 769.54,
         "stock_buss_alias": "银行",
-        "index": 236
+        "index": 234
+    },
+    {
+        "stock_id": "01336",
+        "stock_area": "HK",
+        "stock_name": "新华保险",
+        "stock_percent": 4.0817,
+        "stock_value": 769.3356,
+        "stock_buss_alias": "保险",
+        "index": 235
     },
     {
         "stock_id": "002555",
@@ -2130,7 +2121,25 @@
         "stock_percent": 0.0,
         "stock_value": 763.79,
         "stock_buss_alias": "电子信息",
+        "index": 236
+    },
+    {
+        "stock_id": "02899",
+        "stock_area": "HK",
+        "stock_name": "紫金矿业",
+        "stock_percent": 4.1646,
+        "stock_value": 759.875,
+        "stock_buss_alias": "黄金及贵金属",
         "index": 237
+    },
+    {
+        "stock_id": "BGNE",
+        "stock_area": "US",
+        "stock_name": "百济神州",
+        "stock_percent": -1.9366,
+        "stock_value": 757.2046,
+        "stock_buss_alias": "生物科技",
+        "index": 238
     },
     {
         "stock_id": "601225",
@@ -2139,7 +2148,7 @@
         "stock_percent": 0.0,
         "stock_value": 754.0,
         "stock_buss_alias": "煤炭采选",
-        "index": 238
+        "index": 239
     },
     {
         "stock_id": "002371",
@@ -2148,7 +2157,7 @@
         "stock_percent": 0.0,
         "stock_value": 753.42,
         "stock_buss_alias": "电子元件",
-        "index": 239
+        "index": 240
     },
     {
         "stock_id": "603993",
@@ -2157,7 +2166,7 @@
         "stock_percent": 0.0,
         "stock_value": 751.65,
         "stock_buss_alias": "有色金属",
-        "index": 240
+        "index": 241
     },
     {
         "stock_id": "002493",
@@ -2166,16 +2175,16 @@
         "stock_percent": 0.0,
         "stock_value": 750.53,
         "stock_buss_alias": "化纤行业",
-        "index": 241
+        "index": 242
     },
     {
-        "stock_id": "01336",
+        "stock_id": "00656",
         "stock_area": "HK",
-        "stock_name": "新华保险",
-        "stock_percent": -4.0898,
-        "stock_value": 739.1651,
-        "stock_buss_alias": "保险",
-        "index": 242
+        "stock_name": "复星国际",
+        "stock_percent": 2.2655,
+        "stock_value": 744.481,
+        "stock_buss_alias": "综合企业",
+        "index": 243
     },
     {
         "stock_id": "600183",
@@ -2184,7 +2193,7 @@
         "stock_percent": 0.0,
         "stock_value": 738.85,
         "stock_buss_alias": "电子元件",
-        "index": 243
+        "index": 244
     },
     {
         "stock_id": "601633",
@@ -2193,7 +2202,7 @@
         "stock_percent": 0.0,
         "stock_value": 735.66,
         "stock_buss_alias": "汽车行业",
-        "index": 244
+        "index": 245
     },
     {
         "stock_id": "601727",
@@ -2202,7 +2211,7 @@
         "stock_percent": 0.0,
         "stock_value": 734.89,
         "stock_buss_alias": "输配电气",
-        "index": 245
+        "index": 246
     },
     {
         "stock_id": "002230",
@@ -2211,61 +2220,43 @@
         "stock_percent": 0.0,
         "stock_value": 731.69,
         "stock_buss_alias": "软件服务",
-        "index": 246
-    },
-    {
-        "stock_id": "02016",
-        "stock_area": "HK",
-        "stock_name": "浙商银行",
-        "stock_percent": 0.0,
-        "stock_value": 730.5413,
-        "stock_buss_alias": "银行",
         "index": 247
-    },
-    {
-        "stock_id": "02899",
-        "stock_area": "HK",
-        "stock_name": "紫金矿业",
-        "stock_percent": -2.187,
-        "stock_value": 729.4943,
-        "stock_buss_alias": "黄金及贵金属",
-        "index": 248
-    },
-    {
-        "stock_id": "00656",
-        "stock_area": "HK",
-        "stock_name": "复星国际",
-        "stock_percent": -5.0922,
-        "stock_value": 727.9881,
-        "stock_buss_alias": "综合企业",
-        "index": 249
-    },
-    {
-        "stock_id": "VIPS",
-        "stock_area": "US",
-        "stock_name": "唯品会",
-        "stock_percent": 0.0,
-        "stock_value": 727.7965,
-        "stock_buss_alias": "互联网与直销零售",
-        "index": 250
-    },
-    {
-        "stock_id": "01044",
-        "stock_area": "HK",
-        "stock_name": "恒安国际",
-        "stock_percent": -3.8315,
-        "stock_value": 726.583,
-        "stock_buss_alias": "消费者主要零售商",
-        "index": 251
     },
     {
         "stock_id": "01800",
         "stock_area": "HK",
         "stock_name": "中国交通建设",
-        "stock_percent": -6.3588,
-        "stock_value": 721.9451,
+        "stock_percent": 0.6279,
+        "stock_value": 726.4784,
         "stock_buss_alias": "建筑",
-        "index": 252
+        "index": 248
+    },
+    {
+        "stock_id": "01044",
+        "stock_area": "HK",
+        "stock_name": "恒安国际",
+        "stock_percent": -0.5163,
+        "stock_value": 722.8319,
+        "stock_buss_alias": "消费者主要零售商",
+        "index": 249
+    },
+    {
+        "stock_id": "02016",
+        "stock_area": "HK",
+        "stock_name": "浙商银行",
+        "stock_percent": -1.0591,
+        "stock_value": 722.8044,
+        "stock_buss_alias": "银行",
+        "index": 250
+    },
+    {
+        "stock_id": "00981",
+        "stock_area": "HK",
+        "stock_name": "中芯国际",
+        "stock_percent": 0.4065,
+        "stock_value": 722.5931,
+        "stock_buss_alias": "半导体",
+        "index": 251
     },
     {
         "stock_id": "600340",
@@ -2274,16 +2265,16 @@
         "stock_percent": 0.0,
         "stock_value": 721.38,
         "stock_buss_alias": "房地产",
-        "index": 253
+        "index": 252
     },
     {
-        "stock_id": "00981",
+        "stock_id": "03323",
         "stock_area": "HK",
-        "stock_name": "中芯国际",
-        "stock_percent": 2.5641,
-        "stock_value": 719.6674,
-        "stock_buss_alias": "半导体",
-        "index": 254
+        "stock_name": "中国建材",
+        "stock_percent": 0.7688,
+        "stock_value": 720.499,
+        "stock_buss_alias": "建筑",
+        "index": 253
     },
     {
         "stock_id": "600115",
@@ -2292,7 +2283,7 @@
         "stock_percent": 0.0,
         "stock_value": 717.42,
         "stock_buss_alias": "民航机场",
-        "index": 255
+        "index": 254
     },
     {
         "stock_id": "601155",
@@ -2301,16 +2292,16 @@
         "stock_percent": 0.0,
         "stock_value": 716.74,
         "stock_buss_alias": "房地产",
-        "index": 256
+        "index": 255
     },
     {
-        "stock_id": "03323",
-        "stock_area": "HK",
-        "stock_name": "中国建材",
-        "stock_percent": -5.3332,
-        "stock_value": 715.002,
-        "stock_buss_alias": "建筑",
-        "index": 257
+        "stock_id": "VIPS",
+        "stock_area": "US",
+        "stock_name": "唯品会",
+        "stock_percent": -1.6437,
+        "stock_value": 715.8339,
+        "stock_buss_alias": "互联网与直销零售",
+        "index": 256
     },
     {
         "stock_id": "600600",
@@ -2319,7 +2310,7 @@
         "stock_percent": 0.0,
         "stock_value": 712.64,
         "stock_buss_alias": "酿酒行业",
-        "index": 258
+        "index": 257
     },
     {
         "stock_id": "002007",
@@ -2328,7 +2319,7 @@
         "stock_percent": 0.0,
         "stock_value": 709.13,
         "stock_buss_alias": "医药制造",
-        "index": 259
+        "index": 258
     },
     {
         "stock_id": "002027",
@@ -2337,7 +2328,7 @@
         "stock_percent": 0.0,
         "stock_value": 707.47,
         "stock_buss_alias": "文化传媒",
-        "index": 260
+        "index": 259
     },
     {
         "stock_id": "601236",
@@ -2346,25 +2337,25 @@
         "stock_percent": 0.0,
         "stock_value": 706.33,
         "stock_buss_alias": "券商信托",
-        "index": 261
+        "index": 260
     },
     {
         "stock_id": "00322",
         "stock_area": "HK",
         "stock_name": "康师傅控股",
-        "stock_percent": -0.7284,
-        "stock_value": 703.4577,
+        "stock_percent": 0.1571,
+        "stock_value": 704.563,
         "stock_buss_alias": "食物饮品",
-        "index": 262
+        "index": 261
     },
     {
         "stock_id": "00753",
         "stock_area": "HK",
         "stock_name": "中国国航",
-        "stock_percent": -5.9244,
-        "stock_value": 698.9942,
+        "stock_percent": 0.7743,
+        "stock_value": 704.4068,
         "stock_buss_alias": "旅游及消闲设施",
-        "index": 263
+        "index": 262
     },
     {
         "stock_id": "600919",
@@ -2373,16 +2364,7 @@
         "stock_percent": 0.0,
         "stock_value": 697.29,
         "stock_buss_alias": "银行",
-        "index": 264
-    },
-    {
-        "stock_id": "HTHT",
-        "stock_area": "US",
-        "stock_name": "华住",
-        "stock_percent": 0.0,
-        "stock_value": 696.8219,
-        "stock_buss_alias": "酒店、度假村与豪华游轮",
-        "index": 265
+        "index": 263
     },
     {
         "stock_id": "600029",
@@ -2391,16 +2373,7 @@
         "stock_percent": 0.0,
         "stock_value": 695.3,
         "stock_buss_alias": "民航机场",
-        "index": 266
-    },
-    {
-        "stock_id": "06837",
-        "stock_area": "HK",
-        "stock_name": "海通证券",
-        "stock_percent": -6.9309,
-        "stock_value": 695.0543,
-        "stock_buss_alias": "其他金融",
-        "index": 267
+        "index": 264
     },
     {
         "stock_id": "600606",
@@ -2409,7 +2382,25 @@
         "stock_percent": 0.0,
         "stock_value": 688.72,
         "stock_buss_alias": "房地产",
-        "index": 268
+        "index": 265
+    },
+    {
+        "stock_id": "06837",
+        "stock_area": "HK",
+        "stock_name": "海通证券",
+        "stock_percent": -1.3568,
+        "stock_value": 685.6235,
+        "stock_buss_alias": "其他金融",
+        "index": 266
+    },
+    {
+        "stock_id": "00083",
+        "stock_area": "HK",
+        "stock_name": "信和置业",
+        "stock_percent": 2.5309,
+        "stock_value": 684.6315,
+        "stock_buss_alias": "地产",
+        "index": 267
     },
     {
         "stock_id": "002311",
@@ -2418,7 +2409,7 @@
         "stock_percent": 0.0,
         "stock_value": 681.92,
         "stock_buss_alias": "农牧饲渔",
-        "index": 269
+        "index": 268
     },
     {
         "stock_id": "601698",
@@ -2427,7 +2418,7 @@
         "stock_percent": 0.0,
         "stock_value": 680.8,
         "stock_buss_alias": "通讯行业",
-        "index": 270
+        "index": 269
     },
     {
         "stock_id": "000596",
@@ -2436,7 +2427,7 @@
         "stock_percent": 0.0,
         "stock_value": 679.31,
         "stock_buss_alias": "酿酒行业",
-        "index": 271
+        "index": 270
     },
     {
         "stock_id": "300003",
@@ -2445,6 +2436,15 @@
         "stock_percent": 0.0,
         "stock_value": 678.99,
         "stock_buss_alias": "医疗行业",
+        "index": 271
+    },
+    {
+        "stock_id": "HTHT",
+        "stock_area": "US",
+        "stock_name": "华住",
+        "stock_percent": -2.6671,
+        "stock_value": 678.2371,
+        "stock_buss_alias": "酒店、度假村与豪华游轮",
         "index": 272
     },
     {
@@ -2457,22 +2457,31 @@
         "index": 273
     },
     {
-        "stock_id": "00083",
+        "stock_id": "02196",
         "stock_area": "HK",
-        "stock_name": "信和置业",
-        "stock_percent": -4.7977,
-        "stock_value": 667.7319,
-        "stock_buss_alias": "地产",
+        "stock_name": "复星医药",
+        "stock_percent": 2.348,
+        "stock_value": 669.7151,
+        "stock_buss_alias": "药品及生物科技",
         "index": 274
     },
     {
-        "stock_id": "00101",
+        "stock_id": "01787",
         "stock_area": "HK",
-        "stock_name": "恒隆地产",
-        "stock_percent": -3.0086,
-        "stock_value": 665.8676,
-        "stock_buss_alias": "地产",
+        "stock_name": "山东黄金",
+        "stock_percent": 1.9679,
+        "stock_value": 667.6209,
+        "stock_buss_alias": "黄金及贵金属",
         "index": 275
+    },
+    {
+        "stock_id": "01313",
+        "stock_area": "HK",
+        "stock_name": "华润水泥控股",
+        "stock_percent": 0.5935,
+        "stock_value": 664.4705,
+        "stock_buss_alias": "建筑",
+        "index": 276
     },
     {
         "stock_id": "600011",
@@ -2481,16 +2490,16 @@
         "stock_percent": 0.0,
         "stock_value": 662.46,
         "stock_buss_alias": "电力行业",
-        "index": 276
+        "index": 277
     },
     {
-        "stock_id": "01313",
+        "stock_id": "00881",
         "stock_area": "HK",
-        "stock_name": "华润水泥控股",
-        "stock_percent": -1.9053,
-        "stock_value": 660.55,
-        "stock_buss_alias": "建筑",
-        "index": 277
+        "stock_name": "中升控股",
+        "stock_percent": 2.6095,
+        "stock_value": 659.3544,
+        "stock_buss_alias": "专业零售",
+        "index": 278
     },
     {
         "stock_id": "002120",
@@ -2499,7 +2508,7 @@
         "stock_percent": 0.0,
         "stock_value": 658.31,
         "stock_buss_alias": "交运物流",
-        "index": 278
+        "index": 279
     },
     {
         "stock_id": "600958",
@@ -2508,24 +2517,15 @@
         "stock_percent": 0.0,
         "stock_value": 657.4,
         "stock_buss_alias": "券商信托",
-        "index": 279
-    },
-    {
-        "stock_id": "01787",
-        "stock_area": "HK",
-        "stock_name": "山东黄金",
-        "stock_percent": -0.217,
-        "stock_value": 654.7365,
-        "stock_buss_alias": "黄金及贵金属",
         "index": 280
     },
     {
-        "stock_id": "02196",
-        "stock_area": "HK",
-        "stock_name": "复星医药",
-        "stock_percent": -6.0808,
-        "stock_value": 654.3508,
-        "stock_buss_alias": "药品及生物科技",
+        "stock_id": "BILI",
+        "stock_area": "US",
+        "stock_name": "哔哩哔哩",
+        "stock_percent": 5.518,
+        "stock_value": 656.3057,
+        "stock_buss_alias": "互动家庭娱乐",
         "index": 281
     },
     {
@@ -2547,13 +2547,31 @@
         "index": 283
     },
     {
+        "stock_id": "00101",
+        "stock_area": "HK",
+        "stock_name": "恒隆地产",
+        "stock_percent": -2.4707,
+        "stock_value": 649.4162,
+        "stock_buss_alias": "地产",
+        "index": 284
+    },
+    {
         "stock_id": "600438",
         "stock_area": "CN",
         "stock_name": "通威股份",
         "stock_percent": 0.0,
         "stock_value": 647.89,
         "stock_buss_alias": "农牧饲渔",
-        "index": 284
+        "index": 285
+    },
+    {
+        "stock_id": "ATHM",
+        "stock_area": "US",
+        "stock_name": "汽车之家",
+        "stock_percent": 2.3448,
+        "stock_value": 643.3462,
+        "stock_buss_alias": "互联网服务与基础设施",
+        "index": 286
     },
     {
         "stock_id": "600741",
@@ -2562,16 +2580,7 @@
         "stock_percent": 0.0,
         "stock_value": 643.16,
         "stock_buss_alias": "汽车行业",
-        "index": 285
-    },
-    {
-        "stock_id": "00881",
-        "stock_area": "HK",
-        "stock_name": "中升控股",
-        "stock_percent": -1.5977,
-        "stock_value": 642.5861,
-        "stock_buss_alias": "专业零售",
-        "index": 286
+        "index": 287
     },
     {
         "stock_id": "300033",
@@ -2580,7 +2589,25 @@
         "stock_percent": 0.0,
         "stock_value": 642.16,
         "stock_buss_alias": "软件服务",
-        "index": 287
+        "index": 288
+    },
+    {
+        "stock_id": "01128",
+        "stock_area": "HK",
+        "stock_name": "永利澳门",
+        "stock_percent": 3.4068,
+        "stock_value": 639.6434,
+        "stock_buss_alias": "旅游及消闲设施",
+        "index": 289
+    },
+    {
+        "stock_id": "02238",
+        "stock_area": "HK",
+        "stock_name": "广汽集团",
+        "stock_percent": 5.1112,
+        "stock_value": 639.423,
+        "stock_buss_alias": "汽车",
+        "index": 290
     },
     {
         "stock_id": "600025",
@@ -2589,7 +2616,7 @@
         "stock_percent": 0.0,
         "stock_value": 639.0,
         "stock_buss_alias": "电力行业",
-        "index": 288
+        "index": 291
     },
     {
         "stock_id": "300782",
@@ -2598,7 +2625,7 @@
         "stock_percent": 0.0,
         "stock_value": 637.61,
         "stock_buss_alias": "电子元件",
-        "index": 289
+        "index": 292
     },
     {
         "stock_id": "002600",
@@ -2607,16 +2634,7 @@
         "stock_percent": 0.0,
         "stock_value": 633.55,
         "stock_buss_alias": "电子元件",
-        "index": 290
-    },
-    {
-        "stock_id": "ATHM",
-        "stock_area": "US",
-        "stock_name": "汽车之家",
-        "stock_percent": 0.0,
-        "stock_value": 628.6066,
-        "stock_buss_alias": "互联网服务与基础设施",
-        "index": 291
+        "index": 293
     },
     {
         "stock_id": "002241",
@@ -2625,7 +2643,7 @@
         "stock_percent": 0.0,
         "stock_value": 627.93,
         "stock_buss_alias": "电子元件",
-        "index": 292
+        "index": 294
     },
     {
         "stock_id": "000100",
@@ -2634,7 +2652,7 @@
         "stock_percent": 0.0,
         "stock_value": 627.72,
         "stock_buss_alias": "电子元件",
-        "index": 293
+        "index": 295
     },
     {
         "stock_id": "300142",
@@ -2643,16 +2661,16 @@
         "stock_percent": 0.0,
         "stock_value": 622.2,
         "stock_buss_alias": "医药制造",
-        "index": 294
+        "index": 296
     },
     {
-        "stock_id": "BILI",
-        "stock_area": "US",
-        "stock_name": "哔哩哔哩",
-        "stock_percent": 0.0,
-        "stock_value": 621.9844,
-        "stock_buss_alias": "互动家庭娱乐",
-        "index": 295
+        "stock_id": "00151",
+        "stock_area": "HK",
+        "stock_name": "中国旺旺",
+        "stock_percent": 2.2698,
+        "stock_value": 619.1976,
+        "stock_buss_alias": "食物饮品",
+        "index": 297
     },
     {
         "stock_id": "600989",
@@ -2661,16 +2679,7 @@
         "stock_percent": 0.0,
         "stock_value": 618.94,
         "stock_buss_alias": "化工行业",
-        "index": 296
-    },
-    {
-        "stock_id": "01128",
-        "stock_area": "HK",
-        "stock_name": "永利澳门",
-        "stock_percent": -4.7058,
-        "stock_value": 618.57,
-        "stock_buss_alias": "旅游及消闲设施",
-        "index": 297
+        "index": 298
     },
     {
         "stock_id": "601100",
@@ -2679,7 +2688,7 @@
         "stock_percent": 0.0,
         "stock_value": 612.11,
         "stock_buss_alias": "机械行业",
-        "index": 298
+        "index": 299
     },
     {
         "stock_id": "002624",
@@ -2688,7 +2697,7 @@
         "stock_percent": 0.0,
         "stock_value": 611.54,
         "stock_buss_alias": "文化传媒",
-        "index": 299
+        "index": 300
     },
     {
         "stock_id": "002050",
@@ -2697,15 +2706,6 @@
         "stock_percent": 0.0,
         "stock_value": 609.21,
         "stock_buss_alias": "家电行业",
-        "index": 300
-    },
-    {
-        "stock_id": "02238",
-        "stock_area": "HK",
-        "stock_name": "广汽集团",
-        "stock_percent": -7.4397,
-        "stock_value": 608.3298,
-        "stock_buss_alias": "汽车",
         "index": 301
     },
     {
@@ -2727,11 +2727,11 @@
         "index": 303
     },
     {
-        "stock_id": "00151",
+        "stock_id": "00168",
         "stock_area": "HK",
-        "stock_name": "中国旺旺",
-        "stock_percent": -4.4953,
-        "stock_value": 605.4552,
+        "stock_name": "青岛啤酒股份",
+        "stock_percent": 0.2184,
+        "stock_value": 598.7242,
         "stock_buss_alias": "食物饮品",
         "index": 304
     },
@@ -2754,12 +2754,12 @@
         "index": 306
     },
     {
-        "stock_id": "00168",
-        "stock_area": "HK",
-        "stock_name": "青岛啤酒股份",
-        "stock_percent": 2.1209,
-        "stock_value": 597.4192,
-        "stock_buss_alias": "食物饮品",
+        "stock_id": "GDS",
+        "stock_area": "US",
+        "stock_name": "万国数据",
+        "stock_percent": 1.3554,
+        "stock_value": 596.3502,
+        "stock_buss_alias": "数据处理与外包服务",
         "index": 307
     },
     {
@@ -2772,13 +2772,22 @@
         "index": 308
     },
     {
-        "stock_id": "00586",
+        "stock_id": "03799",
         "stock_area": "HK",
-        "stock_name": "海螺创业",
-        "stock_percent": -4.0321,
-        "stock_value": 591.7251,
-        "stock_buss_alias": "工业工程",
+        "stock_name": "达利食品",
+        "stock_percent": 0.4376,
+        "stock_value": 592.4233,
+        "stock_buss_alias": "食物饮品",
         "index": 309
+    },
+    {
+        "stock_id": "01579",
+        "stock_area": "HK",
+        "stock_name": "颐海国际",
+        "stock_percent": 2.3392,
+        "stock_value": 591.8538,
+        "stock_buss_alias": "食物饮品",
+        "index": 310
     },
     {
         "stock_id": "601808",
@@ -2787,25 +2796,25 @@
         "stock_percent": 0.0,
         "stock_value": 591.68,
         "stock_buss_alias": "石油行业",
-        "index": 310
-    },
-    {
-        "stock_id": "03799",
-        "stock_area": "HK",
-        "stock_name": "达利食品",
-        "stock_percent": -1.6779,
-        "stock_value": 589.8424,
-        "stock_buss_alias": "食物饮品",
         "index": 311
     },
     {
-        "stock_id": "GDS",
-        "stock_area": "US",
-        "stock_name": "万国数据",
-        "stock_percent": 0.0,
-        "stock_value": 588.3752,
-        "stock_buss_alias": "数据处理与外包服务",
+        "stock_id": "01929",
+        "stock_area": "HK",
+        "stock_name": "周大福",
+        "stock_percent": 1.1151,
+        "stock_value": 588.7585,
+        "stock_buss_alias": "专业零售",
         "index": 312
+    },
+    {
+        "stock_id": "01099",
+        "stock_area": "HK",
+        "stock_name": "国药控股",
+        "stock_percent": 2.8187,
+        "stock_value": 587.592,
+        "stock_buss_alias": "药品及生物科技",
+        "index": 313
     },
     {
         "stock_id": "002001",
@@ -2814,7 +2823,7 @@
         "stock_percent": 0.0,
         "stock_value": 586.37,
         "stock_buss_alias": "医药制造",
-        "index": 313
+        "index": 314
     },
     {
         "stock_id": "601901",
@@ -2823,16 +2832,25 @@
         "stock_percent": 0.0,
         "stock_value": 586.13,
         "stock_buss_alias": "券商信托",
-        "index": 314
+        "index": 315
     },
     {
-        "stock_id": "01929",
+        "stock_id": "00586",
         "stock_area": "HK",
-        "stock_name": "周大福",
-        "stock_percent": -4.2296,
-        "stock_value": 582.2656,
-        "stock_buss_alias": "专业零售",
-        "index": 315
+        "stock_name": "海螺创业",
+        "stock_percent": -1.3908,
+        "stock_value": 583.4955,
+        "stock_buss_alias": "工业工程",
+        "index": 316
+    },
+    {
+        "stock_id": "01913",
+        "stock_area": "HK",
+        "stock_name": "普拉达",
+        "stock_percent": 2.0766,
+        "stock_value": 580.5196,
+        "stock_buss_alias": "纺织及服饰",
+        "index": 317
     },
     {
         "stock_id": "603658",
@@ -2841,16 +2859,7 @@
         "stock_percent": 0.0,
         "stock_value": 579.59,
         "stock_buss_alias": "医药制造",
-        "index": 316
-    },
-    {
-        "stock_id": "01579",
-        "stock_area": "HK",
-        "stock_name": "颐海国际",
-        "stock_percent": -2.9842,
-        "stock_value": 578.3257,
-        "stock_buss_alias": "食物饮品",
-        "index": 317
+        "index": 318
     },
     {
         "stock_id": "600845",
@@ -2859,7 +2868,16 @@
         "stock_percent": 0.0,
         "stock_value": 578.17,
         "stock_buss_alias": "软件服务",
-        "index": 318
+        "index": 319
+    },
+    {
+        "stock_id": "03380",
+        "stock_area": "HK",
+        "stock_name": "龙光地产",
+        "stock_percent": 1.4501,
+        "stock_value": 578.1682,
+        "stock_buss_alias": "地产",
+        "index": 320
     },
     {
         "stock_id": "300347",
@@ -2868,16 +2886,16 @@
         "stock_percent": 0.0,
         "stock_value": 577.12,
         "stock_buss_alias": "医药制造",
-        "index": 319
+        "index": 321
     },
     {
-        "stock_id": "01099",
+        "stock_id": "00817",
         "stock_area": "HK",
-        "stock_name": "国药控股",
-        "stock_percent": -5.0478,
-        "stock_value": 571.4836,
-        "stock_buss_alias": "药品及生物科技",
-        "index": 320
+        "stock_name": "中国金茂",
+        "stock_percent": 1.7372,
+        "stock_value": 573.2267,
+        "stock_buss_alias": "地产",
+        "index": 322
     },
     {
         "stock_id": "002252",
@@ -2886,7 +2904,7 @@
         "stock_percent": 0.0,
         "stock_value": 570.94,
         "stock_buss_alias": "医药制造",
-        "index": 321
+        "index": 323
     },
     {
         "stock_id": "601077",
@@ -2895,24 +2913,6 @@
         "stock_percent": 0.0,
         "stock_value": 570.12,
         "stock_buss_alias": "银行",
-        "index": 322
-    },
-    {
-        "stock_id": "03380",
-        "stock_area": "HK",
-        "stock_name": "龙光地产",
-        "stock_percent": -7.7044,
-        "stock_value": 569.9039,
-        "stock_buss_alias": "地产",
-        "index": 323
-    },
-    {
-        "stock_id": "01913",
-        "stock_area": "HK",
-        "stock_name": "普拉达",
-        "stock_percent": -3.5842,
-        "stock_value": 568.71,
-        "stock_buss_alias": "纺织及服饰",
         "index": 324
     },
     {
@@ -2928,8 +2928,8 @@
         "stock_id": "01776",
         "stock_area": "HK",
         "stock_name": "广发证券",
-        "stock_percent": -4.6057,
-        "stock_value": 565.5324,
+        "stock_percent": -0.7313,
+        "stock_value": 561.3964,
         "stock_buss_alias": "其他金融",
         "index": 326
     },
@@ -2937,28 +2937,10 @@
         "stock_id": "WB",
         "stock_area": "US",
         "stock_name": "微博",
-        "stock_percent": 0.0,
-        "stock_value": 563.6667,
+        "stock_percent": -1.0864,
+        "stock_value": 557.543,
         "stock_buss_alias": "互联网服务与基础设施",
         "index": 327
-    },
-    {
-        "stock_id": "00817",
-        "stock_area": "HK",
-        "stock_name": "中国金茂",
-        "stock_percent": -3.6967,
-        "stock_value": 563.4384,
-        "stock_buss_alias": "地产",
-        "index": 328
-    },
-    {
-        "stock_id": "01169",
-        "stock_area": "HK",
-        "stock_name": "海尔电器",
-        "stock_percent": 0.9362,
-        "stock_value": 557.478,
-        "stock_buss_alias": "家庭电器及用品",
-        "index": 329
     },
     {
         "stock_id": "600893",
@@ -2967,7 +2949,7 @@
         "stock_percent": 0.0,
         "stock_value": 556.84,
         "stock_buss_alias": "航天航空",
-        "index": 330
+        "index": 328
     },
     {
         "stock_id": "600801",
@@ -2976,6 +2958,24 @@
         "stock_percent": 0.0,
         "stock_value": 556.65,
         "stock_buss_alias": "水泥建材",
+        "index": 329
+    },
+    {
+        "stock_id": "01169",
+        "stock_area": "HK",
+        "stock_name": "海尔电器",
+        "stock_percent": -0.6844,
+        "stock_value": 553.6626,
+        "stock_buss_alias": "家庭电器及用品",
+        "index": 330
+    },
+    {
+        "stock_id": "02331",
+        "stock_area": "HK",
+        "stock_name": "李宁",
+        "stock_percent": 2.7776,
+        "stock_value": 546.2779,
+        "stock_buss_alias": "纺织及服饰",
         "index": 331
     },
     {
@@ -2991,8 +2991,8 @@
         "stock_id": "WUBA",
         "stock_area": "US",
         "stock_name": "58同城",
-        "stock_percent": 0.0,
-        "stock_value": 544.7971,
+        "stock_percent": -0.2483,
+        "stock_value": 543.4442,
         "stock_buss_alias": "互联网服务与基础设施",
         "index": 333
     },
@@ -3051,21 +3051,21 @@
         "index": 339
     },
     {
-        "stock_id": "02331",
-        "stock_area": "HK",
-        "stock_name": "李宁",
-        "stock_percent": -3.8861,
-        "stock_value": 531.5148,
-        "stock_buss_alias": "纺织及服饰",
-        "index": 340
-    },
-    {
         "stock_id": "600377",
         "stock_area": "CN",
         "stock_name": "宁沪高速",
         "stock_percent": 0.0,
         "stock_value": 529.97,
         "stock_buss_alias": "高速公路",
+        "index": 340
+    },
+    {
+        "stock_id": "06110",
+        "stock_area": "HK",
+        "stock_name": "滔搏",
+        "stock_percent": 1.3251,
+        "stock_value": 526.8608,
+        "stock_buss_alias": "纺织、服饰及个人护理",
         "index": 341
     },
     {
@@ -3078,22 +3078,31 @@
         "index": 342
     },
     {
+        "stock_id": "06099",
+        "stock_area": "HK",
+        "stock_name": "招商证券",
+        "stock_percent": 5.4643,
+        "stock_value": 523.6552,
+        "stock_buss_alias": "其他金融",
+        "index": 343
+    },
+    {
+        "stock_id": "01359",
+        "stock_area": "HK",
+        "stock_name": "中国信达",
+        "stock_percent": 3.4831,
+        "stock_value": 522.305,
+        "stock_buss_alias": "其他金融",
+        "index": 344
+    },
+    {
         "stock_id": "600886",
         "stock_area": "CN",
         "stock_name": "国投电力",
         "stock_percent": 0.0,
         "stock_value": 521.85,
         "stock_buss_alias": "电力行业",
-        "index": 343
-    },
-    {
-        "stock_id": "06110",
-        "stock_area": "HK",
-        "stock_name": "滔搏",
-        "stock_percent": -6.2633,
-        "stock_value": 519.9705,
-        "stock_buss_alias": "纺织、服饰及个人护理",
-        "index": 344
+        "index": 345
     },
     {
         "stock_id": "601788",
@@ -3102,15 +3111,6 @@
         "stock_percent": 0.0,
         "stock_value": 515.49,
         "stock_buss_alias": "券商信托",
-        "index": 345
-    },
-    {
-        "stock_id": "03319",
-        "stock_area": "HK",
-        "stock_name": "雅生活服务",
-        "stock_percent": -2.1077,
-        "stock_value": 511.8519,
-        "stock_buss_alias": "地产",
         "index": 346
     },
     {
@@ -3123,13 +3123,22 @@
         "index": 347
     },
     {
+        "stock_id": "03319",
+        "stock_area": "HK",
+        "stock_name": "雅生活服务",
+        "stock_percent": -0.7069,
+        "stock_value": 508.2336,
+        "stock_buss_alias": "地产",
+        "index": 348
+    },
+    {
         "stock_id": "002236",
         "stock_area": "CN",
         "stock_name": "大华股份",
         "stock_percent": 0.0,
         "stock_value": 506.65,
         "stock_buss_alias": "安防设备",
-        "index": 348
+        "index": 349
     },
     {
         "stock_id": "601898",
@@ -3138,15 +3147,6 @@
         "stock_percent": 0.0,
         "stock_value": 506.48,
         "stock_buss_alias": "煤炭采选",
-        "index": 349
-    },
-    {
-        "stock_id": "01359",
-        "stock_area": "HK",
-        "stock_name": "中国信达",
-        "stock_percent": -4.6349,
-        "stock_value": 504.7251,
-        "stock_buss_alias": "其他金融",
         "index": 350
     },
     {
@@ -3186,21 +3186,21 @@
         "index": 354
     },
     {
-        "stock_id": "06099",
-        "stock_area": "HK",
-        "stock_name": "招商证券",
-        "stock_percent": -5.9446,
-        "stock_value": 496.5238,
-        "stock_buss_alias": "其他金融",
-        "index": 355
-    },
-    {
         "stock_id": "600660",
         "stock_area": "CN",
         "stock_name": "福耀玻璃",
         "stock_percent": 0.0,
         "stock_value": 496.46,
         "stock_buss_alias": "玻璃陶瓷",
+        "index": 355
+    },
+    {
+        "stock_id": "03993",
+        "stock_area": "HK",
+        "stock_name": "洛阳钼业",
+        "stock_percent": 4.1956,
+        "stock_value": 493.9877,
+        "stock_buss_alias": "一般金属及矿石",
         "index": 356
     },
     {
@@ -3231,13 +3231,22 @@
         "index": 359
     },
     {
+        "stock_id": "06066",
+        "stock_area": "HK",
+        "stock_name": "中信建投证券",
+        "stock_percent": 0.8835,
+        "stock_value": 487.4112,
+        "stock_buss_alias": "其他金融",
+        "index": 360
+    },
+    {
         "stock_id": "000785",
         "stock_area": "CN",
         "stock_name": "居然之家",
         "stock_percent": 0.0,
         "stock_value": 485.8,
         "stock_buss_alias": "商业百货",
-        "index": 360
+        "index": 361
     },
     {
         "stock_id": "601600",
@@ -3246,15 +3255,6 @@
         "stock_percent": 0.0,
         "stock_value": 485.15,
         "stock_buss_alias": "有色金属",
-        "index": 361
-    },
-    {
-        "stock_id": "06066",
-        "stock_area": "HK",
-        "stock_name": "中信建投证券",
-        "stock_percent": -3.9106,
-        "stock_value": 483.1427,
-        "stock_buss_alias": "其他金融",
         "index": 362
     },
     {
@@ -3270,8 +3270,8 @@
         "stock_id": "01066",
         "stock_area": "HK",
         "stock_name": "威高股份",
-        "stock_percent": -2.2,
-        "stock_value": 480.1212,
+        "stock_percent": 0.0109,
+        "stock_value": 480.1734,
         "stock_buss_alias": "医疗保健设备和服务",
         "index": 364
     },
@@ -3294,22 +3294,13 @@
         "index": 366
     },
     {
-        "stock_id": "03993",
-        "stock_area": "HK",
-        "stock_name": "洛阳钼业",
-        "stock_percent": 2.1368,
-        "stock_value": 474.0964,
-        "stock_buss_alias": "一般金属及矿石",
-        "index": 367
-    },
-    {
         "stock_id": "603899",
         "stock_area": "CN",
         "stock_name": "晨光文具",
         "stock_percent": 0.0,
         "stock_value": 472.97,
         "stock_buss_alias": "文教休闲",
-        "index": 368
+        "index": 367
     },
     {
         "stock_id": "600663",
@@ -3318,16 +3309,7 @@
         "stock_percent": 0.0,
         "stock_value": 472.4,
         "stock_buss_alias": "房地产",
-        "index": 369
-    },
-    {
-        "stock_id": "CEA",
-        "stock_area": "US",
-        "stock_name": "东方航空",
-        "stock_percent": 0.0,
-        "stock_value": 471.1701,
-        "stock_buss_alias": "航空公司",
-        "index": 370
+        "index": 368
     },
     {
         "stock_id": "600760",
@@ -3336,7 +3318,7 @@
         "stock_percent": 0.0,
         "stock_value": 468.99,
         "stock_buss_alias": "航天航空",
-        "index": 371
+        "index": 369
     },
     {
         "stock_id": "000625",
@@ -3345,7 +3327,7 @@
         "stock_percent": 0.0,
         "stock_value": 465.86,
         "stock_buss_alias": "汽车行业",
-        "index": 372
+        "index": 370
     },
     {
         "stock_id": "300529",
@@ -3354,16 +3336,16 @@
         "stock_percent": 0.0,
         "stock_value": 465.64,
         "stock_buss_alias": "医疗行业",
-        "index": 373
+        "index": 371
     },
     {
-        "stock_id": "00670",
-        "stock_area": "HK",
-        "stock_name": "中国东方航空股份",
-        "stock_percent": -4.3341,
-        "stock_value": 464.8298,
-        "stock_buss_alias": "旅游及消闲设施",
-        "index": 374
+        "stock_id": "CEA",
+        "stock_area": "US",
+        "stock_name": "东方航空",
+        "stock_percent": -1.3752,
+        "stock_value": 464.6904,
+        "stock_buss_alias": "航空公司",
+        "index": 372
     },
     {
         "stock_id": "002157",
@@ -3372,7 +3354,7 @@
         "stock_percent": 0.0,
         "stock_value": 463.37,
         "stock_buss_alias": "农牧饲渔",
-        "index": 375
+        "index": 373
     },
     {
         "stock_id": "002463",
@@ -3381,7 +3363,16 @@
         "stock_percent": 0.0,
         "stock_value": 463.26,
         "stock_buss_alias": "电子元件",
-        "index": 376
+        "index": 374
+    },
+    {
+        "stock_id": "03759",
+        "stock_area": "HK",
+        "stock_name": "康龙化成",
+        "stock_percent": 3.2691,
+        "stock_value": 462.5933,
+        "stock_buss_alias": "药品及生物科技",
+        "index": 375
     },
     {
         "stock_id": "300308",
@@ -3390,6 +3381,15 @@
         "stock_percent": 0.0,
         "stock_value": 462.56,
         "stock_buss_alias": "机械行业",
+        "index": 376
+    },
+    {
+        "stock_id": "00670",
+        "stock_area": "HK",
+        "stock_name": "中国东方航空股份",
+        "stock_percent": -0.9613,
+        "stock_value": 460.3614,
+        "stock_buss_alias": "旅游及消闲设施",
         "index": 377
     },
     {
@@ -3411,29 +3411,29 @@
         "index": 379
     },
     {
+        "stock_id": "03908",
+        "stock_area": "HK",
+        "stock_name": "中金公司",
+        "stock_percent": 0.3629,
+        "stock_value": 458.2396,
+        "stock_buss_alias": "其他金融",
+        "index": 380
+    },
+    {
         "stock_id": "601872",
         "stock_area": "CN",
         "stock_name": "招商轮船",
         "stock_percent": 0.0,
         "stock_value": 456.98,
         "stock_buss_alias": "港口水运",
-        "index": 380
-    },
-    {
-        "stock_id": "03908",
-        "stock_area": "HK",
-        "stock_name": "中金公司",
-        "stock_percent": -4.5319,
-        "stock_value": 456.5826,
-        "stock_buss_alias": "其他金融",
         "index": 381
     },
     {
         "stock_id": "00992",
         "stock_area": "HK",
         "stock_name": "联想集团",
-        "stock_percent": -2.1321,
-        "stock_value": 455.7193,
+        "stock_percent": 0.0109,
+        "stock_value": 455.7689,
         "stock_buss_alias": "资讯科技器材",
         "index": 382
     },
@@ -3447,21 +3447,21 @@
         "index": 383
     },
     {
-        "stock_id": "01157",
-        "stock_area": "HK",
-        "stock_name": "中联重科",
-        "stock_percent": 0.802,
-        "stock_value": 454.8192,
-        "stock_buss_alias": "工业工程",
-        "index": 384
-    },
-    {
         "stock_id": "601990",
         "stock_area": "CN",
         "stock_name": "南京证券",
         "stock_percent": 0.0,
         "stock_value": 453.59,
         "stock_buss_alias": "券商信托",
+        "index": 384
+    },
+    {
+        "stock_id": "01157",
+        "stock_area": "HK",
+        "stock_name": "中联重科",
+        "stock_percent": -0.9423,
+        "stock_value": 450.5334,
+        "stock_buss_alias": "工业工程",
         "index": 385
     },
     {
@@ -3483,22 +3483,13 @@
         "index": 387
     },
     {
-        "stock_id": "03759",
-        "stock_area": "HK",
-        "stock_name": "康龙化成",
-        "stock_percent": -0.3249,
-        "stock_value": 447.9496,
-        "stock_buss_alias": "药品及生物科技",
-        "index": 388
-    },
-    {
         "stock_id": "603833",
         "stock_area": "CN",
         "stock_name": "欧派家居",
         "stock_percent": 0.0,
         "stock_value": 446.94,
         "stock_buss_alias": "木业家具",
-        "index": 389
+        "index": 388
     },
     {
         "stock_id": "001965",
@@ -3507,7 +3498,7 @@
         "stock_percent": 0.0,
         "stock_value": 444.83,
         "stock_buss_alias": "高速公路",
-        "index": 390
+        "index": 389
     },
     {
         "stock_id": "600362",
@@ -3516,7 +3507,7 @@
         "stock_percent": 0.0,
         "stock_value": 443.23,
         "stock_buss_alias": "有色金属",
-        "index": 391
+        "index": 390
     },
     {
         "stock_id": "002812",
@@ -3525,7 +3516,7 @@
         "stock_percent": 0.0,
         "stock_value": 441.42,
         "stock_buss_alias": "包装材料",
-        "index": 392
+        "index": 391
     },
     {
         "stock_id": "601919",
@@ -3534,16 +3525,7 @@
         "stock_percent": 0.0,
         "stock_value": 441.34,
         "stock_buss_alias": "港口水运",
-        "index": 393
-    },
-    {
-        "stock_id": "ZNH",
-        "stock_area": "US",
-        "stock_name": "南方航空",
-        "stock_percent": 0.0,
-        "stock_value": 440.9788,
-        "stock_buss_alias": "航空公司",
-        "index": 394
+        "index": 392
     },
     {
         "stock_id": "601018",
@@ -3552,7 +3534,16 @@
         "stock_percent": 0.0,
         "stock_value": 438.66,
         "stock_buss_alias": "港口水运",
-        "index": 395
+        "index": 393
+    },
+    {
+        "stock_id": "00177",
+        "stock_area": "HK",
+        "stock_name": "江苏宁沪高速公路",
+        "stock_percent": 1.1897,
+        "stock_value": 436.8019,
+        "stock_buss_alias": "工用运输",
+        "index": 394
     },
     {
         "stock_id": "002821",
@@ -3561,7 +3552,7 @@
         "stock_percent": 0.0,
         "stock_value": 436.69,
         "stock_buss_alias": "医疗行业",
-        "index": 396
+        "index": 395
     },
     {
         "stock_id": "688036",
@@ -3570,7 +3561,7 @@
         "stock_percent": 0.0,
         "stock_value": 436.0,
         "stock_buss_alias": [],
-        "index": 397
+        "index": 396
     },
     {
         "stock_id": "600688",
@@ -3579,7 +3570,7 @@
         "stock_percent": 0.0,
         "stock_value": 435.12,
         "stock_buss_alias": "石油行业",
-        "index": 398
+        "index": 397
     },
     {
         "stock_id": "000425",
@@ -3588,7 +3579,7 @@
         "stock_percent": 0.0,
         "stock_value": 434.77,
         "stock_buss_alias": "机械行业",
-        "index": 399
+        "index": 398
     },
     {
         "stock_id": "300144",
@@ -3597,16 +3588,7 @@
         "stock_percent": 0.0,
         "stock_value": 433.31,
         "stock_buss_alias": "旅游酒店",
-        "index": 400
-    },
-    {
-        "stock_id": "00177",
-        "stock_area": "HK",
-        "stock_name": "江苏宁沪高速公路",
-        "stock_percent": 0.8648,
-        "stock_value": 431.6664,
-        "stock_buss_alias": "工用运输",
-        "index": 401
+        "index": 399
     },
     {
         "stock_id": "000786",
@@ -3615,24 +3597,42 @@
         "stock_percent": 0.0,
         "stock_value": 431.33,
         "stock_buss_alias": "水泥建材",
-        "index": 402
+        "index": 400
+    },
+    {
+        "stock_id": "00023",
+        "stock_area": "HK",
+        "stock_name": "东亚银行",
+        "stock_percent": 1.7807,
+        "stock_value": 431.0337,
+        "stock_buss_alias": "银行",
+        "index": 401
     },
     {
         "stock_id": "01055",
         "stock_area": "HK",
         "stock_name": "中国南方航空股份",
-        "stock_percent": -6.2031,
-        "stock_value": 429.251,
+        "stock_percent": 0.2869,
+        "stock_value": 430.4826,
         "stock_buss_alias": "旅游及消闲设施",
-        "index": 403
+        "index": 402
     },
     {
         "stock_id": "02333",
         "stock_area": "HK",
         "stock_name": "长城汽车",
-        "stock_percent": -1.157,
-        "stock_value": 429.1867,
+        "stock_percent": -0.186,
+        "stock_value": 428.3884,
         "stock_buss_alias": "汽车",
+        "index": 403
+    },
+    {
+        "stock_id": "ZNH",
+        "stock_area": "US",
+        "stock_name": "南方航空",
+        "stock_percent": -3.1164,
+        "stock_value": 427.236,
+        "stock_buss_alias": "航空公司",
         "index": 404
     },
     {
@@ -3663,22 +3663,13 @@
         "index": 407
     },
     {
-        "stock_id": "00023",
-        "stock_area": "HK",
-        "stock_name": "东亚银行",
-        "stock_percent": -3.7709,
-        "stock_value": 423.4926,
-        "stock_buss_alias": "银行",
-        "index": 408
-    },
-    {
         "stock_id": "002202",
         "stock_area": "CN",
         "stock_name": "金风科技",
         "stock_percent": 0.0,
         "stock_value": 421.66,
         "stock_buss_alias": "输配电气",
-        "index": 409
+        "index": 408
     },
     {
         "stock_id": "300676",
@@ -3687,7 +3678,7 @@
         "stock_percent": 0.0,
         "stock_value": 421.07,
         "stock_buss_alias": "医药制造",
-        "index": 410
+        "index": 409
     },
     {
         "stock_id": "300383",
@@ -3696,7 +3687,7 @@
         "stock_percent": 0.0,
         "stock_value": 420.51,
         "stock_buss_alias": "电信运营",
-        "index": 411
+        "index": 410
     },
     {
         "stock_id": "300253",
@@ -3705,7 +3696,7 @@
         "stock_percent": 0.0,
         "stock_value": 417.39,
         "stock_buss_alias": "软件服务",
-        "index": 412
+        "index": 411
     },
     {
         "stock_id": "603707",
@@ -3714,7 +3705,7 @@
         "stock_percent": 0.0,
         "stock_value": 415.57,
         "stock_buss_alias": "医药制造",
-        "index": 413
+        "index": 412
     },
     {
         "stock_id": "600848",
@@ -3723,16 +3714,16 @@
         "stock_percent": 0.0,
         "stock_value": 414.11,
         "stock_buss_alias": "房地产",
-        "index": 414
+        "index": 413
     },
     {
-        "stock_id": "06806",
+        "stock_id": "01030",
         "stock_area": "HK",
-        "stock_name": "申万宏源",
-        "stock_percent": -3.7437,
-        "stock_value": 413.9412,
-        "stock_buss_alias": "其他金融",
-        "index": 415
+        "stock_name": "新城发展",
+        "stock_percent": 4.029,
+        "stock_value": 413.5363,
+        "stock_buss_alias": "地产",
+        "index": 414
     },
     {
         "stock_id": "002456",
@@ -3741,7 +3732,25 @@
         "stock_percent": 0.0,
         "stock_value": 412.36,
         "stock_buss_alias": "电子元件",
+        "index": 415
+    },
+    {
+        "stock_id": "00966",
+        "stock_area": "HK",
+        "stock_name": "中国太平",
+        "stock_percent": 1.8151,
+        "stock_value": 410.0,
+        "stock_buss_alias": "保险",
         "index": 416
+    },
+    {
+        "stock_id": "06806",
+        "stock_area": "HK",
+        "stock_name": "申万宏源",
+        "stock_percent": -1.1008,
+        "stock_value": 409.3846,
+        "stock_buss_alias": "其他金融",
+        "index": 417
     },
     {
         "stock_id": "600536",
@@ -3750,7 +3759,7 @@
         "stock_percent": 0.0,
         "stock_value": 409.0,
         "stock_buss_alias": "软件服务",
-        "index": 417
+        "index": 418
     },
     {
         "stock_id": "603369",
@@ -3759,15 +3768,6 @@
         "stock_percent": 0.0,
         "stock_value": 408.97,
         "stock_buss_alias": "酿酒行业",
-        "index": 418
-    },
-    {
-        "stock_id": "HNP",
-        "stock_area": "US",
-        "stock_name": "华能电力",
-        "stock_percent": 0.0,
-        "stock_value": 408.58,
-        "stock_buss_alias": "电力公用事业",
         "index": 419
     },
     {
@@ -3780,13 +3780,49 @@
         "index": 420
     },
     {
+        "stock_id": "00135",
+        "stock_area": "HK",
+        "stock_name": "昆仑能源",
+        "stock_percent": 1.599,
+        "stock_value": 407.1986,
+        "stock_buss_alias": "公用事业",
+        "index": 421
+    },
+    {
+        "stock_id": "00884",
+        "stock_area": "HK",
+        "stock_name": "旭辉控股集团",
+        "stock_percent": 1.4592,
+        "stock_value": 406.6475,
+        "stock_buss_alias": "地产",
+        "index": 422
+    },
+    {
+        "stock_id": "02018",
+        "stock_area": "HK",
+        "stock_name": "瑞声科技",
+        "stock_percent": 1.6845,
+        "stock_value": 404.5992,
+        "stock_buss_alias": "工业工程",
+        "index": 423
+    },
+    {
+        "stock_id": "00019",
+        "stock_area": "HK",
+        "stock_name": "太古股份公司A",
+        "stock_percent": 1.8986,
+        "stock_value": 404.0757,
+        "stock_buss_alias": "纺织及服饰",
+        "index": 424
+    },
+    {
         "stock_id": "600026",
         "stock_area": "CN",
         "stock_name": "中远海能",
         "stock_percent": 0.0,
         "stock_value": 403.88,
         "stock_buss_alias": "港口水运",
-        "index": 421
+        "index": 425
     },
     {
         "stock_id": "601377",
@@ -3795,7 +3831,7 @@
         "stock_percent": 0.0,
         "stock_value": 403.81,
         "stock_buss_alias": "券商信托",
-        "index": 422
+        "index": 426
     },
     {
         "stock_id": "600584",
@@ -3804,7 +3840,7 @@
         "stock_percent": 0.0,
         "stock_value": 403.76,
         "stock_buss_alias": "电子元件",
-        "index": 423
+        "index": 427
     },
     {
         "stock_id": "000860",
@@ -3813,34 +3849,7 @@
         "stock_percent": 0.0,
         "stock_value": 403.37,
         "stock_buss_alias": "酿酒行业",
-        "index": 424
-    },
-    {
-        "stock_id": "00966",
-        "stock_area": "HK",
-        "stock_name": "中国太平",
-        "stock_percent": -6.5853,
-        "stock_value": 402.6908,
-        "stock_buss_alias": "保险",
-        "index": 425
-    },
-    {
-        "stock_id": "00884",
-        "stock_area": "HK",
-        "stock_name": "旭辉控股集团",
-        "stock_percent": -6.2814,
-        "stock_value": 400.7989,
-        "stock_buss_alias": "地产",
-        "index": 426
-    },
-    {
-        "stock_id": "00135",
-        "stock_area": "HK",
-        "stock_name": "昆仑能源",
-        "stock_percent": -0.199,
-        "stock_value": 400.7898,
-        "stock_buss_alias": "公用事业",
-        "index": 427
+        "index": 428
     },
     {
         "stock_id": "600233",
@@ -3849,7 +3858,7 @@
         "stock_percent": 0.0,
         "stock_value": 400.62,
         "stock_buss_alias": "交运物流",
-        "index": 428
+        "index": 429
     },
     {
         "stock_id": "300136",
@@ -3858,51 +3867,42 @@
         "stock_percent": 0.0,
         "stock_value": 400.05,
         "stock_buss_alias": "通讯行业",
-        "index": 429
-    },
-    {
-        "stock_id": "02018",
-        "stock_area": "HK",
-        "stock_name": "瑞声科技",
-        "stock_percent": -5.5339,
-        "stock_value": 397.8968,
-        "stock_buss_alias": "工业工程",
         "index": 430
-    },
-    {
-        "stock_id": "01030",
-        "stock_area": "HK",
-        "stock_name": "新城发展",
-        "stock_percent": -7.1896,
-        "stock_value": 397.5203,
-        "stock_buss_alias": "地产",
-        "index": 431
     },
     {
         "stock_id": "06049",
         "stock_area": "HK",
         "stock_name": "保利物业",
-        "stock_percent": -4.93,
-        "stock_value": 396.8866,
+        "stock_percent": 0.395,
+        "stock_value": 398.4545,
         "stock_buss_alias": "地产",
+        "index": 431
+    },
+    {
+        "stock_id": "03808",
+        "stock_area": "HK",
+        "stock_name": "中国重汽",
+        "stock_percent": 2.2311,
+        "stock_value": 397.1318,
+        "stock_buss_alias": "工业工程",
         "index": 432
     },
     {
-        "stock_id": "00019",
-        "stock_area": "HK",
-        "stock_name": "太古股份公司A",
-        "stock_percent": -6.2876,
-        "stock_value": 396.5468,
-        "stock_buss_alias": "纺织及服饰",
+        "stock_id": "HNP",
+        "stock_area": "US",
+        "stock_name": "华能电力",
+        "stock_percent": -2.8756,
+        "stock_value": 396.831,
+        "stock_buss_alias": "电力公用事业",
         "index": 433
     },
     {
-        "stock_id": "00902",
+        "stock_id": "00489",
         "stock_area": "HK",
-        "stock_name": "华能国际电力股份",
-        "stock_percent": -5.8205,
-        "stock_value": 396.4733,
-        "stock_buss_alias": "公用事业",
+        "stock_name": "东风集团股份",
+        "stock_percent": 1.8417,
+        "stock_value": 396.4889,
+        "stock_buss_alias": "汽车",
         "index": 434
     },
     {
@@ -3915,13 +3915,22 @@
         "index": 435
     },
     {
+        "stock_id": "00880",
+        "stock_area": "HK",
+        "stock_name": "澳博控股",
+        "stock_percent": 1.0739,
+        "stock_value": 395.6163,
+        "stock_buss_alias": "旅游及消闲设施",
+        "index": 436
+    },
+    {
         "stock_id": "600674",
         "stock_area": "CN",
         "stock_name": "川投能源",
         "stock_percent": 0.0,
         "stock_value": 394.87,
         "stock_buss_alias": "电力行业",
-        "index": 436
+        "index": 437
     },
     {
         "stock_id": "002179",
@@ -3930,7 +3939,7 @@
         "stock_percent": 0.0,
         "stock_value": 394.46,
         "stock_buss_alias": "电子元件",
-        "index": 437
+        "index": 438
     },
     {
         "stock_id": "600352",
@@ -3939,7 +3948,7 @@
         "stock_percent": 0.0,
         "stock_value": 393.65,
         "stock_buss_alias": "化工行业",
-        "index": 438
+        "index": 439
     },
     {
         "stock_id": "600763",
@@ -3948,7 +3957,7 @@
         "stock_percent": 0.0,
         "stock_value": 393.59,
         "stock_buss_alias": "医疗行业",
-        "index": 439
+        "index": 440
     },
     {
         "stock_id": "603799",
@@ -3957,7 +3966,7 @@
         "stock_percent": 0.0,
         "stock_value": 393.05,
         "stock_buss_alias": "有色金属",
-        "index": 440
+        "index": 441
     },
     {
         "stock_id": "688126",
@@ -3966,25 +3975,25 @@
         "stock_percent": 0.0,
         "stock_value": 392.87,
         "stock_buss_alias": [],
-        "index": 441
+        "index": 442
     },
     {
         "stock_id": "00836",
         "stock_area": "HK",
         "stock_name": "华润电力",
-        "stock_percent": -3.2641,
-        "stock_value": 392.7538,
+        "stock_percent": 0.0109,
+        "stock_value": 392.7965,
         "stock_buss_alias": "公用事业",
-        "index": 442
+        "index": 443
     },
     {
-        "stock_id": "00880",
+        "stock_id": "00902",
         "stock_area": "HK",
-        "stock_name": "澳博控股",
-        "stock_percent": -2.0816,
-        "stock_value": 391.4129,
-        "stock_buss_alias": "旅游及消闲设施",
-        "index": 443
+        "stock_name": "华能国际电力股份",
+        "stock_percent": -1.0803,
+        "stock_value": 392.1903,
+        "stock_buss_alias": "公用事业",
+        "index": 444
     },
     {
         "stock_id": "600795",
@@ -3993,7 +4002,7 @@
         "stock_percent": 0.0,
         "stock_value": 391.04,
         "stock_buss_alias": "电力行业",
-        "index": 444
+        "index": 445
     },
     {
         "stock_id": "601231",
@@ -4002,15 +4011,6 @@
         "stock_percent": 0.0,
         "stock_value": 389.99,
         "stock_buss_alias": "电子元件",
-        "index": 445
-    },
-    {
-        "stock_id": "00489",
-        "stock_area": "HK",
-        "stock_name": "东风集团股份",
-        "stock_percent": -4.4667,
-        "stock_value": 389.3189,
-        "stock_buss_alias": "汽车",
         "index": 446
     },
     {
@@ -4023,22 +4023,13 @@
         "index": 447
     },
     {
-        "stock_id": "03808",
-        "stock_area": "HK",
-        "stock_name": "中国重汽",
-        "stock_percent": -1.9222,
-        "stock_value": 388.4648,
-        "stock_buss_alias": "工业工程",
-        "index": 448
-    },
-    {
         "stock_id": "00004",
         "stock_area": "HK",
         "stock_name": "九龙仓集团",
-        "stock_percent": -5.458,
-        "stock_value": 388.1618,
+        "stock_percent": -0.1335,
+        "stock_value": 387.6437,
         "stock_buss_alias": "旅游及消闲设施",
-        "index": 449
+        "index": 448
     },
     {
         "stock_id": "002439",
@@ -4047,7 +4038,7 @@
         "stock_percent": 0.0,
         "stock_value": 384.64,
         "stock_buss_alias": "软件服务",
-        "index": 450
+        "index": 449
     },
     {
         "stock_id": "002414",
@@ -4056,7 +4047,7 @@
         "stock_percent": 0.0,
         "stock_value": 382.89,
         "stock_buss_alias": "安防设备",
-        "index": 451
+        "index": 450
     },
     {
         "stock_id": "002945",
@@ -4065,7 +4056,7 @@
         "stock_percent": 0.0,
         "stock_value": 380.43,
         "stock_buss_alias": "券商信托",
-        "index": 452
+        "index": 451
     },
     {
         "stock_id": "002385",
@@ -4074,6 +4065,15 @@
         "stock_percent": 0.0,
         "stock_value": 380.1,
         "stock_buss_alias": "农牧饲渔",
+        "index": 452
+    },
+    {
+        "stock_id": "03606",
+        "stock_area": "HK",
+        "stock_name": "福耀玻璃",
+        "stock_percent": 1.9943,
+        "stock_value": 379.267,
+        "stock_buss_alias": "汽车",
         "index": 453
     },
     {
@@ -4131,21 +4131,21 @@
         "index": 459
     },
     {
-        "stock_id": "03606",
-        "stock_area": "HK",
-        "stock_name": "福耀玻璃",
-        "stock_percent": -5.6134,
-        "stock_value": 371.851,
-        "stock_buss_alias": "汽车",
-        "index": 460
-    },
-    {
         "stock_id": "002939",
         "stock_area": "CN",
         "stock_name": "长城证券",
         "stock_percent": 0.0,
         "stock_value": 369.93,
         "stock_buss_alias": "券商信托",
+        "index": 460
+    },
+    {
+        "stock_id": "00285",
+        "stock_area": "HK",
+        "stock_name": "比亚迪电子",
+        "stock_percent": 1.7313,
+        "stock_value": 367.1428,
+        "stock_buss_alias": "资讯科技器材",
         "index": 461
     },
     {
@@ -4185,12 +4185,12 @@
         "index": 465
     },
     {
-        "stock_id": "00285",
+        "stock_id": "00968",
         "stock_area": "HK",
-        "stock_name": "比亚迪电子",
-        "stock_percent": -2.7856,
-        "stock_value": 360.8945,
-        "stock_buss_alias": "资讯科技器材",
+        "stock_name": "信义光能",
+        "stock_percent": 2.7663,
+        "stock_value": 360.0336,
+        "stock_buss_alias": "工业工程",
         "index": 466
     },
     {
@@ -4212,13 +4212,22 @@
         "index": 468
     },
     {
+        "stock_id": "06881",
+        "stock_area": "HK",
+        "stock_name": "中国银河",
+        "stock_percent": 1.0624,
+        "stock_value": 357.5445,
+        "stock_buss_alias": "其他金融",
+        "index": 469
+    },
+    {
         "stock_id": "600871",
         "stock_area": "CN",
         "stock_name": "石化油服",
         "stock_percent": 0.0,
         "stock_value": 356.91,
         "stock_buss_alias": "石油行业",
-        "index": 469
+        "index": 470
     },
     {
         "stock_id": "600161",
@@ -4227,16 +4236,16 @@
         "stock_percent": 0.0,
         "stock_value": 356.26,
         "stock_buss_alias": "医药制造",
-        "index": 470
+        "index": 471
     },
     {
         "stock_id": "00696",
         "stock_area": "HK",
         "stock_name": "中国民航信息网络",
-        "stock_percent": -3.3575,
-        "stock_value": 355.8157,
+        "stock_percent": 0.0109,
+        "stock_value": 355.8545,
         "stock_buss_alias": "软件服务",
-        "index": 471
+        "index": 472
     },
     {
         "stock_id": "002185",
@@ -4245,24 +4254,15 @@
         "stock_percent": 0.0,
         "stock_value": 355.38,
         "stock_buss_alias": "电子元件",
-        "index": 472
+        "index": 473
     },
     {
         "stock_id": "03969",
         "stock_area": "HK",
         "stock_name": "中国通号",
-        "stock_percent": -4.9607,
-        "stock_value": 354.0156,
+        "stock_percent": -0.2641,
+        "stock_value": 353.0806,
         "stock_buss_alias": "软件服务",
-        "index": 473
-    },
-    {
-        "stock_id": "06881",
-        "stock_area": "HK",
-        "stock_name": "中国银河",
-        "stock_percent": -4.0405,
-        "stock_value": 353.786,
-        "stock_buss_alias": "其他金融",
         "index": 474
     },
     {
@@ -4302,22 +4302,13 @@
         "index": 478
     },
     {
-        "stock_id": "00968",
-        "stock_area": "HK",
-        "stock_name": "信义光能",
-        "stock_percent": -3.2784,
-        "stock_value": 350.342,
-        "stock_buss_alias": "工业工程",
-        "index": 479
-    },
-    {
         "stock_id": "600167",
         "stock_area": "CN",
         "stock_name": "联美控股",
         "stock_percent": 0.0,
         "stock_value": 349.4,
         "stock_buss_alias": "电力行业",
-        "index": 480
+        "index": 479
     },
     {
         "stock_id": "000703",
@@ -4326,7 +4317,7 @@
         "stock_percent": 0.0,
         "stock_value": 349.25,
         "stock_buss_alias": "化工行业",
-        "index": 481
+        "index": 480
     },
     {
         "stock_id": "000963",
@@ -4335,7 +4326,7 @@
         "stock_percent": 0.0,
         "stock_value": 349.09,
         "stock_buss_alias": "医药制造",
-        "index": 482
+        "index": 481
     },
     {
         "stock_id": "002223",
@@ -4344,7 +4335,7 @@
         "stock_percent": 0.0,
         "stock_value": 347.86,
         "stock_buss_alias": "医疗行业",
-        "index": 483
+        "index": 482
     },
     {
         "stock_id": "002373",
@@ -4353,16 +4344,7 @@
         "stock_percent": 0.0,
         "stock_value": 347.26,
         "stock_buss_alias": "软件服务",
-        "index": 484
-    },
-    {
-        "stock_id": "01508",
-        "stock_area": "HK",
-        "stock_name": "中国再保险",
-        "stock_percent": -2.1988,
-        "stock_value": 347.2195,
-        "stock_buss_alias": "保险",
-        "index": 485
+        "index": 483
     },
     {
         "stock_id": "002739",
@@ -4371,7 +4353,7 @@
         "stock_percent": 0.0,
         "stock_value": 347.1,
         "stock_buss_alias": "文化传媒",
-        "index": 486
+        "index": 484
     },
     {
         "stock_id": "002603",
@@ -4380,7 +4362,7 @@
         "stock_percent": 0.0,
         "stock_value": 346.43,
         "stock_buss_alias": "医药制造",
-        "index": 487
+        "index": 485
     },
     {
         "stock_id": "000066",
@@ -4389,7 +4371,16 @@
         "stock_percent": 0.0,
         "stock_value": 346.4,
         "stock_buss_alias": "电子信息",
-        "index": 488
+        "index": 486
+    },
+    {
+        "stock_id": "00552",
+        "stock_area": "HK",
+        "stock_name": "中国通信服务",
+        "stock_percent": 2.2692,
+        "stock_value": 346.0724,
+        "stock_buss_alias": "资讯科技器材",
+        "index": 487
     },
     {
         "stock_id": "002558",
@@ -4398,6 +4389,15 @@
         "stock_percent": 0.0,
         "stock_value": 345.56,
         "stock_buss_alias": "文教休闲",
+        "index": 488
+    },
+    {
+        "stock_id": "02607",
+        "stock_area": "HK",
+        "stock_name": "上海医药",
+        "stock_percent": 1.2341,
+        "stock_value": 345.0988,
+        "stock_buss_alias": "药品及生物科技",
         "index": 489
     },
     {
@@ -4410,13 +4410,22 @@
         "index": 490
     },
     {
+        "stock_id": "01508",
+        "stock_area": "HK",
+        "stock_name": "中国再保险",
+        "stock_percent": -1.1134,
+        "stock_value": 343.3537,
+        "stock_buss_alias": "保险",
+        "index": 491
+    },
+    {
         "stock_id": "601108",
         "stock_area": "CN",
         "stock_name": "财通证券",
         "stock_percent": 0.0,
         "stock_value": 342.75,
         "stock_buss_alias": "券商信托",
-        "index": 491
+        "index": 492
     },
     {
         "stock_id": "600521",
@@ -4425,7 +4434,7 @@
         "stock_percent": 0.0,
         "stock_value": 342.49,
         "stock_buss_alias": "医药制造",
-        "index": 492
+        "index": 493
     },
     {
         "stock_id": "600522",
@@ -4434,16 +4443,16 @@
         "stock_percent": 0.0,
         "stock_value": 342.49,
         "stock_buss_alias": "通讯行业",
-        "index": 493
+        "index": 494
     },
     {
-        "stock_id": "02607",
+        "stock_id": "06060",
         "stock_area": "HK",
-        "stock_name": "上海医药",
-        "stock_percent": -4.3917,
-        "stock_value": 340.8917,
-        "stock_buss_alias": "药品及生物科技",
-        "index": 494
+        "stock_name": "众安在线",
+        "stock_percent": 1.4127,
+        "stock_value": 341.5534,
+        "stock_buss_alias": "保险",
+        "index": 495
     },
     {
         "stock_id": "601021",
@@ -4452,7 +4461,25 @@
         "stock_percent": 0.0,
         "stock_value": 340.56,
         "stock_buss_alias": "民航机场",
-        "index": 495
+        "index": 496
+    },
+    {
+        "stock_id": "00268",
+        "stock_area": "HK",
+        "stock_name": "金蝶国际",
+        "stock_percent": 0.5554,
+        "stock_value": 339.2388,
+        "stock_buss_alias": "软件服务",
+        "index": 497
+    },
+    {
+        "stock_id": "03618",
+        "stock_area": "HK",
+        "stock_name": "重庆农村商业银行",
+        "stock_percent": 0.6297,
+        "stock_value": 339.0183,
+        "stock_buss_alias": "银行",
+        "index": 498
     },
     {
         "stock_id": "600236",
@@ -4461,7 +4488,7 @@
         "stock_percent": 0.0,
         "stock_value": 338.94,
         "stock_buss_alias": "电力行业",
-        "index": 496
+        "index": 499
     },
     {
         "stock_id": "002601",
@@ -4470,16 +4497,7 @@
         "stock_percent": 0.0,
         "stock_value": 338.53,
         "stock_buss_alias": "化工行业",
-        "index": 497
-    },
-    {
-        "stock_id": "00552",
-        "stock_area": "HK",
-        "stock_name": "中国通信服务",
-        "stock_percent": -3.4484,
-        "stock_value": 338.3937,
-        "stock_buss_alias": "资讯科技器材",
-        "index": 498
+        "index": 500
     },
     {
         "stock_id": "601828",
@@ -4488,24 +4506,6 @@
         "stock_percent": 0.0,
         "stock_value": 337.96,
         "stock_buss_alias": "商业百货",
-        "index": 499
-    },
-    {
-        "stock_id": "00268",
-        "stock_area": "HK",
-        "stock_name": "金蝶国际",
-        "stock_percent": -2.1288,
-        "stock_value": 337.3651,
-        "stock_buss_alias": "软件服务",
-        "index": 500
-    },
-    {
-        "stock_id": "03618",
-        "stock_area": "HK",
-        "stock_name": "重庆农村商业银行",
-        "stock_percent": -4.7195,
-        "stock_value": 336.8967,
-        "stock_buss_alias": "银行",
         "index": 501
     }
 ]
